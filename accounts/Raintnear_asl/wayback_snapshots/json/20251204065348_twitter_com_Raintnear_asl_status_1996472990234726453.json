@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1995900312272670720"
+      ],
+      "media_source_tweet_id": [
+        "1995900317750493429"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1996472990234726453",
+    "created_at": "2025-12-04T06:53:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-04T07:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996472990234726453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1887467903534178304",
+          "start": 3,
+          "username": "leytoz_dump"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NX13tc6WsE",
+          "end": 40,
+          "expanded_url": "https://x.com/leytoz_dump/status/1995900317750493429/photo/1",
+          "media_key": "3_1995900312272670720",
+          "start": 17,
+          "url": "https://t.co/NX13tc6WsE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996472990234726453",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 346
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995900317750493429",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leytoz_dump: https://t.co/NX13tc6WsE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1496,
+        "media_key": "3_1995900312272670720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7LcwmAakAAFI75.jpg",
+        "width": 1135
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995900312272670720"
+          ],
+          "media_source_tweet_id": [
+            "1995900317750493429"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1996472990234726453",
+        "created_at": "2025-12-04T06:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T07:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996472990234726453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1887467903534178304",
+              "start": 3,
+              "username": "leytoz_dump"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NX13tc6WsE",
+              "end": 40,
+              "expanded_url": "https://x.com/leytoz_dump/status/1995900317750493429/photo/1",
+              "media_key": "3_1995900312272670720",
+              "start": 17,
+              "url": "https://t.co/NX13tc6WsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996472990234726453",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 346
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995900317750493429",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leytoz_dump: https://t.co/NX13tc6WsE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995900312272670720"
+          ]
+        },
+        "author_id": "1887467903534178304",
+        "conversation_id": "1995900317750493429",
+        "created_at": "2025-12-02T16:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-02T17:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1995900317750493429"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NX13tc6WsE",
+              "end": 23,
+              "expanded_url": "https://x.com/leytoz_dump/status/1995900317750493429/photo/1",
+              "media_key": "3_1995900312272670720",
+              "start": 0,
+              "url": "https://t.co/NX13tc6WsE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995900317750493429",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 335,
+          "impression_count": 34802,
+          "like_count": 4271,
+          "quote_count": 15,
+          "reply_count": 4,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NX13tc6WsE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192811927085056/sENQGjhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 181,
+          "like_count": 5230,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 386
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-06T11:46:41.000Z",
+        "description": "sub @Ward_C13 /skeb https://t.co/Q4YXFSVdw9 /#LeytozArt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 45,
+                "tag": "LeytozArt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 13,
+                "start": 4,
+                "username": "Ward_C13"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@leytozzz_",
+                "end": 43,
+                "expanded_url": "https://skeb.jp/@leytozzz_",
+                "start": 20,
+                "url": "https://t.co/Q4YXFSVdw9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/93v6v1wa405y1z…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/93v6v1wa405y1z?t=zspZIS&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/hZQAZjj7Bg"
+              }
+            ]
+          }
+        },
+        "id": "1887467903534178304",
+        "name": "11*",
+        "pinned_tweet_id": "1907454254664888636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946807036311707648/sYQKEiIM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14513,
+          "following_count": 128,
+          "like_count": 29460,
+          "listed_count": 27,
+          "media_count": 199,
+          "tweet_count": 941
+        },
+        "url": "https://t.co/hZQAZjj7Bg",
+        "username": "leytoz_dump",
+        "verified": false
+      }
+    ]
+  }
+}

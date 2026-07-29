@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2048425226824790102",
+    "created_at": "2026-04-26T15:33:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T16:33:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048425226824790102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2038614200172326912",
+          "start": 3,
+          "username": "mingxukong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048425226824790102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048350494590988489",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mingxukong: 被路赞第一次：好感动 居然会有陌生人赞\n被路赞第二次：诶诶诶有点眼熟了 \n被路赞第三次：卧槽你是不是喜欢我 我也喜欢你！\n被路赞第四次：好喜欢你 好想和你互关…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2048425226824790102",
+        "created_at": "2026-04-26T15:33:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:33:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048425226824790102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2038614200172326912",
+              "start": 3,
+              "username": "mingxukong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048425226824790102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048350494590988489",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mingxukong: 被路赞第一次：好感动 居然会有陌生人赞\n被路赞第二次：诶诶诶有点眼熟了 \n被路赞第三次：卧槽你是不是喜欢我 我也喜欢你！\n被路赞第四次：好喜欢你 好想和你互关…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038614200172326912",
+        "conversation_id": "2048350494590988489",
+        "created_at": "2026-04-26T10:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T11:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048350494590988489"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048350494590988489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7629,
+          "like_count": 312,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "被路赞第一次：好感动 居然会有陌生人赞\n被路赞第二次：诶诶诶有点眼熟了 \n被路赞第三次：卧槽你是不是喜欢我 我也喜欢你！\n被路赞第四次：好喜欢你 好想和你互关…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 366,
+          "like_count": 13341,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1135
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-30T13:48:30.000Z",
+        "description": "OvO\n私信骚扰我的全家死完\n不加墙内",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ovo53075",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ovo53075",
+                "start": 0,
+                "url": "https://t.co/Mt2EOcLCvM"
+              }
+            ]
+          }
+        },
+        "id": "2038614200172326912",
+        "location": "挚爱月",
+        "name": "坏",
+        "pinned_tweet_id": "2040051215308906764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038614458411454464/f5UxqtBH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280,
+          "following_count": 39,
+          "like_count": 1591,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/Mt2EOcLCvM",
+        "username": "mingxukong",
+        "verified": false
+      }
+    ]
+  }
+}

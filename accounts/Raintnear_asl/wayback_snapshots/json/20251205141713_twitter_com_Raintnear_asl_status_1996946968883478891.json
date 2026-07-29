@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "1996946968883478891",
+    "created_at": "2025-12-05T14:17:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T15:17:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996946968883478891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1821431905071570944",
+          "start": 3,
+          "username": "tuitenvwang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996946968883478891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996220060806025640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tuitenvwang: 你什么时候死全家 我好想成为你唯一的依靠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "1996946968883478891",
+        "created_at": "2025-12-05T14:17:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T15:17:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996946968883478891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1821431905071570944",
+              "start": 3,
+              "username": "tuitenvwang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996946968883478891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996220060806025640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tuitenvwang: 你什么时候死全家 我好想成为你唯一的依靠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821431905071570944",
+        "conversation_id": "1996220060806025640",
+        "created_at": "2025-12-03T14:08:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T15:08:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996220060806025640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1996220060806025640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7241,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你什么时候死全家 我好想成为你唯一的依靠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996943907469312000/bXUUgN3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 186,
+          "like_count": 5602,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 407
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-08T06:23:12.000Z",
+        "description": "想起我了就捡起地上的小卡片打给我 ｜｜｜段子自取👉🏻 @Dicksuck2778",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 27,
+                "username": "Dicksuck2778"
+              }
+            ]
+          }
+        },
+        "id": "1821431905071570944",
+        "location": "香港",
+        "name": "坟场宝宝",
+        "pinned_tweet_id": "1918958966819704880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993248925596499977/alcjNiyW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13045,
+          "following_count": 302,
+          "like_count": 4394,
+          "listed_count": 11,
+          "media_count": 353,
+          "tweet_count": 2265
+        },
+        "username": "tuitenvwang",
+        "verified": true
+      }
+    ]
+  }
+}

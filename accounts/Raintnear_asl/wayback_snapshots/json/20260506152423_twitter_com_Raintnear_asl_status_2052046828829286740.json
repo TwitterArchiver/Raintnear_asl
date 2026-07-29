@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052046828829286740",
+    "created_at": "2026-05-06T15:24:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:24:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052046828829286740"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baichuan202505…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/baichuan202505/status/2051627718777692404",
+          "start": 8,
+          "url": "https://t.co/qzoPkKZ8Zz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052046828829286740",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051627718777692404",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实网上也没有 https://t.co/qzoPkKZ8Zz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052046828829286740",
+        "created_at": "2026-05-06T15:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052046828829286740"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baichuan202505…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/baichuan202505/status/2051627718777692404",
+              "start": 8,
+              "url": "https://t.co/qzoPkKZ8Zz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052046828829286740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051627718777692404",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实网上也没有 https://t.co/qzoPkKZ8Zz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1927618351733657600",
+        "conversation_id": "2051627718777692404",
+        "created_at": "2026-05-05T11:39:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T12:39:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051627718777692404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051627718777692404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 48120,
+          "like_count": 550,
+          "quote_count": 15,
+          "reply_count": 396,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "大哥哥大姐姐们为什么整天都在刷推特啊，是因为现实里没人说话么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我 不要给我发任何关于性的消息",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 388,
+          "like_count": 14614,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1247
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-28T06:50:22.000Z",
+        "description": "长的凶，说话刻薄，xp奇怪",
+        "id": "1927618351733657600",
+        "name": "不善言辞",
+        "pinned_tweet_id": "2021877312044900630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927665929279967232/LYNDsqkz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 856,
+          "following_count": 2631,
+          "like_count": 452,
+          "listed_count": 2,
+          "media_count": 41,
+          "tweet_count": 498
+        },
+        "username": "BaiChuan202505",
+        "verified": false
+      }
+    ]
+  }
+}

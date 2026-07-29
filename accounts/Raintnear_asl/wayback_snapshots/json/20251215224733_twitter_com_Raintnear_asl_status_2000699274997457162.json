@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2000699274997457162",
+    "created_at": "2025-12-15T22:47:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T23:47:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000699274997457162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1324943600929529857",
+          "start": 3,
+          "username": "chucaorenlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000699274997457162",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 115
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000214772713656534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chucaorenlei: 就在刚刚 我的躯体化抑郁症焦虑症精神分裂症双相情感障碍强迫症创伤后应激障碍 社交恐惧症孤独症谱系障碍注意缺陷多勐障碍躯体形式障碍分离性障碍迸食障碍神经性厌食症嗜睡障碍物质使用障碍酒精依赖药物成瘾人格障碍辺緣型人格障碍反社会型人格障碍偏执性精神…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2000699274997457162",
+        "created_at": "2025-12-15T22:47:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T23:47:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000699274997457162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1324943600929529857",
+              "start": 3,
+              "username": "chucaorenlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000699274997457162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 115
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000214772713656534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chucaorenlei: 就在刚刚 我的躯体化抑郁症焦虑症精神分裂症双相情感障碍强迫症创伤后应激障碍 社交恐惧症孤独症谱系障碍注意缺陷多勐障碍躯体形式障碍分离性障碍迸食障碍神经性厌食症嗜睡障碍物质使用障碍酒精依赖药物成瘾人格障碍辺緣型人格障碍反社会型人格障碍偏执性精神…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324943600929529857",
+        "conversation_id": "2000214772713656534",
+        "created_at": "2025-12-14T14:42:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T15:42:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000214772713656534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000214772713656534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 45477,
+          "like_count": 714,
+          "quote_count": 6,
+          "reply_count": 33,
+          "retweet_count": 115
+        },
+        "reply_settings": "everyone",
+        "text": "就在刚刚 我的躯体化抑郁症焦虑症精神分裂症双相情感障碍强迫症创伤后应激障碍 社交恐惧症孤独症谱系障碍注意缺陷多勐障碍躯体形式障碍分离性障碍迸食障碍神经性厌食症嗜睡障碍物质使用障碍酒精依赖药物成瘾人格障碍辺緣型人格障碍反社会型人格障碍偏执性精神障碍急性应激障碍同时发作了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一具小女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 197,
+          "like_count": 5972,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 441
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-07T05:15:55.000Z",
+        "description": "重新自我介绍下吧💔爱哭💔脾气不好💔胆小💔强迫症💔喜欢自闭💔成绩差打游戏菜💔满口脏话💔矫情💔爱吃醋💔爱生气喜欢听歌💔睡觉吃东西缺乏安全感💔熬夜洁癖💔爱黏人话多不自信💔爱他脑子有病💔内向难以控制情绪💔 如果有天我变坏了💔善良也不在了💔就别把我往回拽了💔更别说你爱了💔",
+        "id": "1324943600929529857",
+        "location": "不会卖萌的不要跟我讲话了 我看到太冰冷的文字就聊不下去",
+        "name": "除草人类",
+        "pinned_tweet_id": "1995714754875199944",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996245043880001536/EpSi5MzM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5429,
+          "following_count": 583,
+          "like_count": 1260,
+          "listed_count": 16,
+          "media_count": 110,
+          "tweet_count": 1167
+        },
+        "username": "chucaorenlei",
+        "verified": false
+      }
+    ]
+  }
+}

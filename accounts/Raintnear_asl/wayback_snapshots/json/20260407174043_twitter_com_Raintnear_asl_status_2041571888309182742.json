@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2041571888309182742",
+    "created_at": "2026-04-07T17:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T18:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041571888309182742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759790614915510272",
+          "start": 3,
+          "username": "886886aa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041571888309182742",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 145
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041053235675631764",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @886886aa: 最烦你们这些拧巴的，错过也一声不吭，真的什么都没关系吗，失去对方也无所谓吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2041571888309182742",
+        "created_at": "2026-04-07T17:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041571888309182742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759790614915510272",
+              "start": 3,
+              "username": "886886aa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041571888309182742",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 145
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041053235675631764",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @886886aa: 最烦你们这些拧巴的，错过也一声不吭，真的什么都没关系吗，失去对方也无所谓吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759790614915510272",
+        "conversation_id": "2041053235675631764",
+        "created_at": "2026-04-06T07:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T08:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041053235675631764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041053235675631764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 88552,
+          "like_count": 1541,
+          "quote_count": 37,
+          "reply_count": 115,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "最烦你们这些拧巴的，错过也一声不吭，真的什么都没关系吗，失去对方也无所谓吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 340,
+          "like_count": 11310,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 914
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-20T04:02:42.000Z",
+        "description": "switch/挚爱肌肉小狗/泛性恋/不聊骚别来讨骂/欢迎小女孩找我聊天和约我吃饭！",
+        "id": "1759790614915510272",
+        "name": "阳刚k猫（狂暴版",
+        "pinned_tweet_id": "2030135675329376647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1759790976921726976/Uv84YisV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 66,
+          "like_count": 3374,
+          "listed_count": 1,
+          "media_count": 19,
+          "tweet_count": 222
+        },
+        "username": "886886aa",
+        "verified": false
+      }
+    ]
+  }
+}

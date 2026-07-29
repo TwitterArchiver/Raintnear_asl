@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052507316008648839",
+    "created_at": "2026-05-07T21:54:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:54:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052507316008648839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1581937806435573760",
+          "start": 3,
+          "username": "fadai202202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052507316008648839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052191854175871415",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fadai202202: 不管你是贫穷还是富有美丽还是丑陋，只要你惹到我了，你都是一个傻逼，你妈妈死了，你爸爸死了，你也死了，你们全家都死了，你的宠物也死掉，没有一个人会活着，你们全都是不得好死"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052507316008648839",
+        "created_at": "2026-05-07T21:54:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:54:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052507316008648839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1581937806435573760",
+              "start": 3,
+              "username": "fadai202202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052507316008648839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052191854175871415",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fadai202202: 不管你是贫穷还是富有美丽还是丑陋，只要你惹到我了，你都是一个傻逼，你妈妈死了，你爸爸死了，你也死了，你们全家都死了，你的宠物也死掉，没有一个人会活着，你们全都是不得好死"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581937806435573760",
+        "conversation_id": "2052191854175871415",
+        "created_at": "2026-05-07T01:00:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T02:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052191854175871415"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052191854175871415",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 11307,
+          "like_count": 233,
+          "quote_count": 6,
+          "reply_count": 74,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "不管你是贫穷还是富有美丽还是丑陋，只要你惹到我了，你都是一个傻逼，你妈妈死了，你爸爸死了，你也死了，你们全家都死了，你的宠物也死掉，没有一个人会活着，你们全都是不得好死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 398,
+          "like_count": 15161,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1302
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-17T09:19:10.000Z",
+        "description": "我好想哭我好想你\n盗我图你全家死光\n只有一个号",
+        "id": "1581937806435573760",
+        "location": "在你心里",
+        "name": "呆呆",
+        "pinned_tweet_id": "2048380133195780542",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045516948973424640/FnVFzfOY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9196,
+          "following_count": 0,
+          "like_count": 803,
+          "listed_count": 6,
+          "media_count": 85,
+          "tweet_count": 746
+        },
+        "username": "fadai202202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2001851625200324899",
+    "created_at": "2025-12-19T03:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T04:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001851625200324899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1722269671700017152",
+          "start": 3,
+          "username": "Pearlsnote"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001851625200324899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 187
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001511447197815218",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pearlsnote: 好奇怪，我竟然第一次萌生想跟一个人一直在一起的想法是那种能一直生活在在一起，就算平平淡淡也很幸福，就算只是呆在一起，什么都不做也行，不得不得了，回想请见面的时候就只会开心满足的笑，但是你能在一直在我身边的话，做什么都很开心"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2001851625200324899",
+        "created_at": "2025-12-19T03:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T04:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001851625200324899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1722269671700017152",
+              "start": 3,
+              "username": "Pearlsnote"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001851625200324899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 187
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001511447197815218",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pearlsnote: 好奇怪，我竟然第一次萌生想跟一个人一直在一起的想法是那种能一直生活在在一起，就算平平淡淡也很幸福，就算只是呆在一起，什么都不做也行，不得不得了，回想请见面的时候就只会开心满足的笑，但是你能在一直在我身边的话，做什么都很开心"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722269671700017152",
+        "conversation_id": "2001511447197815218",
+        "created_at": "2025-12-18T04:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T05:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001511447197815218"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001511447197815218",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 71652,
+          "like_count": 1352,
+          "quote_count": 19,
+          "reply_count": 28,
+          "retweet_count": 187
+        },
+        "reply_settings": "everyone",
+        "text": "好奇怪，我竟然第一次萌生想跟一个人一直在一起的想法是那种能一直生活在在一起，就算平平淡淡也很幸福，就算只是呆在一起，什么都不做也行，不得不得了，回想请见面的时候就只会开心满足的笑，但是你能在一直在我身边的话，做什么都很开心"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一具小女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 198,
+          "like_count": 6062,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 449
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-08T15:07:59.000Z",
+        "description": "I am rooted, but I flow",
+        "id": "1722269671700017152",
+        "name": "Pearl",
+        "pinned_tweet_id": "2000126296589041884",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994370068034252800/UH0Wf-wM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6871,
+          "following_count": 118,
+          "like_count": 1291,
+          "listed_count": 19,
+          "media_count": 107,
+          "tweet_count": 389
+        },
+        "username": "Pearlsnote",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2065436629221937152"
+      ],
+      "media_source_tweet_id": [
+        "2065436638495523028"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2078301621394510279",
+    "created_at": "2026-07-18T02:11:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T03:11:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078301621394510279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1908951022233690112",
+          "start": 3,
+          "username": "nagidoufu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c0JwbjSoHv",
+          "end": 52,
+          "expanded_url": "https://x.com/nagidoufu/status/2065436638495523028/photo/1",
+          "media_key": "3_2065436629221937152",
+          "start": 29,
+          "url": "https://t.co/c0JwbjSoHv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078301621394510279",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 2,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 795
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065436638495523028",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nagidoufu: トラウマも出せたら良いのに https://t.co/c0JwbjSoHv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1602,
+        "media_key": "3_2065436629221937152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKnnq87akAA4nyq.jpg",
+        "width": 1155
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065436629221937152"
+          ]
+        },
+        "author_id": "1908951022233690112",
+        "conversation_id": "2065436638495523028",
+        "created_at": "2026-06-12T14:10:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T15:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065436638495523028"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0JwbjSoHv",
+              "end": 37,
+              "expanded_url": "https://x.com/nagidoufu/status/2065436638495523028/photo/1",
+              "media_key": "3_2065436629221937152",
+              "start": 14,
+              "url": "https://t.co/c0JwbjSoHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065436638495523028",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 773,
+          "impression_count": 81384,
+          "like_count": 9471,
+          "quote_count": 38,
+          "reply_count": 2,
+          "retweet_count": 795
+        },
+        "reply_settings": "everyone",
+        "text": "トラウマも出せたら良いのに https://t.co/c0JwbjSoHv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065436629221937152"
+          ],
+          "media_source_tweet_id": [
+            "2065436638495523028"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2078301621394510279",
+        "created_at": "2026-07-18T02:11:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:11:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078301621394510279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1908951022233690112",
+              "start": 3,
+              "username": "nagidoufu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c0JwbjSoHv",
+              "end": 52,
+              "expanded_url": "https://x.com/nagidoufu/status/2065436638495523028/photo/1",
+              "media_key": "3_2065436629221937152",
+              "start": 29,
+              "url": "https://t.co/c0JwbjSoHv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078301621394510279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 795
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065436638495523028",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nagidoufu: トラウマも出せたら良いのに https://t.co/c0JwbjSoHv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 416,
+          "like_count": 17204,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1576
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-06T18:33:00.000Z",
+        "description": "⚠︎︎無断転載・AI学習禁止 #凪豆腐家\n𝙎𝙠𝙚𝙗【https://t.co/Wwi8OBfNcz】\n𝙋𝙤𝙧𝙩𝙛𝙤𝙡𝙞𝙤【https://t.co/Rii9X88Az6】\n𝙎𝙪𝙗【@nagidoufu2】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 20,
+                "start": 15,
+                "tag": "凪豆腐家"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 101,
+                "start": 90,
+                "username": "nagidoufu2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@nagidoufu",
+                "end": 49,
+                "expanded_url": "https://skeb.jp/@nagidoufu",
+                "start": 26,
+                "url": "https://t.co/Wwi8OBfNcz"
+              },
+              {
+                "display_url": "fori.io/nagidoufu",
+                "end": 84,
+                "expanded_url": "https://fori.io/nagidoufu",
+                "start": 61,
+                "url": "https://t.co/Rii9X88Az6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nagidoufu",
+                "end": 23,
+                "expanded_url": "https://lit.link/nagidoufu",
+                "start": 0,
+                "url": "https://t.co/EhFouJnbZG"
+              }
+            ]
+          }
+        },
+        "id": "1908951022233690112",
+        "name": "凪豆腐",
+        "pinned_tweet_id": "2064327316659130497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032508129825730560/PTHnk5Jq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12617,
+          "following_count": 263,
+          "like_count": 24327,
+          "listed_count": 47,
+          "media_count": 376,
+          "tweet_count": 3735
+        },
+        "url": "https://t.co/EhFouJnbZG",
+        "username": "nagidoufu",
+        "verified": false
+      }
+    ]
+  }
+}

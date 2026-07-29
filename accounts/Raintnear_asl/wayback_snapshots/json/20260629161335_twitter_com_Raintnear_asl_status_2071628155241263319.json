@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2071628155241263319",
+    "created_at": "2026-06-29T16:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071628155241263319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1486171494229045252",
+          "start": 3,
+          "username": "abrokensouI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071628155241263319",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16829
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071235056102711360",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @abrokensouI: my plan b is always suicide"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2071628155241263319",
+        "created_at": "2026-06-29T16:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071628155241263319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1486171494229045252",
+              "start": 3,
+              "username": "abrokensouI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071628155241263319",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16829
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071235056102711360",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @abrokensouI: my plan b is always suicide"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1486171494229045252",
+        "conversation_id": "2071235056102711360",
+        "created_at": "2026-06-28T14:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T15:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071235056102711360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071235056102711360",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2053,
+          "impression_count": 1110824,
+          "like_count": 57697,
+          "quote_count": 623,
+          "reply_count": 181,
+          "retweet_count": 16829
+        },
+        "reply_settings": "everyone",
+        "text": "my plan b is always suicide"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071623718888235008/a2GHFJEK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 418,
+          "like_count": 17277,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1589
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-26T02:58:07.000Z",
+        "description": "sad girls collective",
+        "id": "1486171494229045252",
+        "location": "omw 50k",
+        "name": "a broken soul",
+        "pinned_tweet_id": "2071562933386068273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945583955324854272/_mFp5_rY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42547,
+          "following_count": 5014,
+          "like_count": 40463,
+          "listed_count": 58,
+          "media_count": 3400,
+          "tweet_count": 5487
+        },
+        "url": "",
+        "username": "abrokensouI",
+        "verified": false
+      }
+    ]
+  }
+}

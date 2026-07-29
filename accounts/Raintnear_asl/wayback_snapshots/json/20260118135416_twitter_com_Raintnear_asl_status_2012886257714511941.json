@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2012886257714511941",
+    "created_at": "2026-01-18T13:54:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-18T14:54:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012886257714511941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1716270669850411009",
+          "start": 3,
+          "username": "xxx_xxxxxxX111"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012886257714511941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012261053023891847",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xxx_xxxxxxX111: 招个贤夫，必须接受我精神分裂，抑郁症秒切躁郁症，必须接受我上午性无能，下午性冷淡，晚上性狂热，必须接受我脑子不正常爱演正常人，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2012886257714511941",
+        "created_at": "2026-01-18T13:54:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-18T14:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012886257714511941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1716270669850411009",
+              "start": 3,
+              "username": "xxx_xxxxxxX111"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012886257714511941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012261053023891847",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xxx_xxxxxxX111: 招个贤夫，必须接受我精神分裂，抑郁症秒切躁郁症，必须接受我上午性无能，下午性冷淡，晚上性狂热，必须接受我脑子不正常爱演正常人，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716270669850411009",
+        "conversation_id": "2012261053023891847",
+        "created_at": "2026-01-16T20:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T21:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012261053023891847"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012261053023891847",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 39160,
+          "like_count": 525,
+          "quote_count": 14,
+          "reply_count": 14,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "招个贤夫，必须接受我精神分裂，抑郁症秒切躁郁症，必须接受我上午性无能，下午性冷淡，晚上性狂热，必须接受我脑子不正常爱演正常人，"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012885732319223808/j_jOiJ8O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 264,
+          "like_count": 7194,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 603
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-23T01:49:58.000Z",
+        "description": "不行不好不可以 三观不正胡说八道",
+        "id": "1716270669850411009",
+        "location": "-7.77km  🚪521",
+        "name": "？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009529046745702400/BDvUuaFq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4696,
+          "following_count": 13,
+          "like_count": 2001,
+          "listed_count": 9,
+          "media_count": 174,
+          "tweet_count": 884
+        },
+        "username": "xxx_xxxxxxX111",
+        "verified": false
+      }
+    ]
+  }
+}

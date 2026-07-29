@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2050108218030936172",
+    "created_at": "2026-05-01T07:01:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T08:01:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050108218030936172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2036654418221993984",
+          "start": 3,
+          "username": "uu_tree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050108218030936172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049812948894507505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uu_tree: 我缺的钱太多了已经顾不上缺不缺爱了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2050108218030936172",
+        "created_at": "2026-05-01T07:01:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T08:01:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050108218030936172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2036654418221993984",
+              "start": 3,
+              "username": "uu_tree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050108218030936172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049812948894507505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uu_tree: 我缺的钱太多了已经顾不上缺不缺爱了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2036654418221993984",
+        "conversation_id": "2049812948894507505",
+        "created_at": "2026-04-30T11:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049812948894507505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049812948894507505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 8126,
+          "like_count": 188,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "我缺的钱太多了已经顾不上缺不缺爱了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 372,
+          "like_count": 13497,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1159
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-25T04:01:26.000Z",
+        "description": "除了口令 其他不回",
+        "id": "2036654418221993984",
+        "location": "🚪20/128/520",
+        "name": "tski",
+        "pinned_tweet_id": "2049885556344226164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046903832534499328/Fhjj_eRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3269,
+          "following_count": 57,
+          "like_count": 324,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 300
+        },
+        "username": "uu_tree",
+        "verified": false
+      }
+    ]
+  }
+}

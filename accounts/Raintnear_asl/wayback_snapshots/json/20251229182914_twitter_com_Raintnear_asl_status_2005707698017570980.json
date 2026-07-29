@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2005707698017570980",
+    "created_at": "2025-12-29T18:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T19:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2005707698017570980"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2005707698017570980",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我从出生开始就是齐刘海了，我的爸爸妈妈爷爷奶奶哥哥姐姐都是齐刘海，齐刘海是我们家族的象征，如果有一天家里有人失去了齐刘海，那么他将会被逐出家族，毕竟失去就意味着背叛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2005707698017570980",
+        "created_at": "2025-12-29T18:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T19:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005707698017570980"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005707698017570980",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我从出生开始就是齐刘海了，我的爸爸妈妈爷爷奶奶哥哥姐姐都是齐刘海，齐刘海是我们家族的象征，如果有一天家里有人失去了齐刘海，那么他将会被逐出家族，毕竟失去就意味着背叛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 264,
+          "like_count": 7192,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 569
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

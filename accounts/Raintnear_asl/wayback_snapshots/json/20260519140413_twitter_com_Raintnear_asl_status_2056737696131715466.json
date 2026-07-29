@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2056726846859804703",
+    "created_at": "2026-05-19T14:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T15:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056737696131715466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1674493484735115270",
+          "start": 0,
+          "username": "k7andK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056737696131715466",
+    "in_reply_to_user_id": "1674493484735115270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056735474539278371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k7andK 是的这种人也最讨厌了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2056726846859804703",
+        "created_at": "2026-05-19T14:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056737696131715466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1674493484735115270",
+              "start": 0,
+              "username": "k7andK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056737696131715466",
+        "in_reply_to_user_id": "1674493484735115270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056735474539278371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k7andK 是的这种人也最讨厌了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674493484735115270",
+        "conversation_id": "2056726846859804703",
+        "created_at": "2026-05-19T13:55:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T14:55:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056735474539278371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056735474539278371",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056726846859804703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 我最怕的是明明没有多喜欢我，还说有多爱我的人，我自己倒是无所谓，我双标，我允许自己浪费时间不允许别人浪费我的时间"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 413,
+          "like_count": 16329,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1420
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T19:02:30.000Z",
+        "description": "10年/ed/限制型/自伤无能/目标BMI 14/外向攻击者/冷暴力应激装置/抹茶牛奶重度成瘾患者",
+        "id": "1674493484735115270",
+        "name": "喋血红糖",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056684927119454209/Cv5KYM3i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 58,
+          "like_count": 186,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 20
+        },
+        "username": "k7andK",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2011246957914972190",
+    "created_at": "2026-01-14T01:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T02:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011246957914972190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1504630614578073600",
+          "start": 3,
+          "username": "yunxvan1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011246957914972190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 249
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010585870076960812",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yunxvan1: 我对列表的包容程度。黄，没问题。自残，没问题。od，没问题。刻薄魔怔没素质没道德，没问题。杀人放火，没问题。讨口圈钱，没问题。柜子，没问题。幸福美满，你全家死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2011246957914972190",
+        "created_at": "2026-01-14T01:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T02:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011246957914972190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1504630614578073600",
+              "start": 3,
+              "username": "yunxvan1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011246957914972190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 249
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010585870076960812",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yunxvan1: 我对列表的包容程度。黄，没问题。自残，没问题。od，没问题。刻薄魔怔没素质没道德，没问题。杀人放火，没问题。讨口圈钱，没问题。柜子，没问题。幸福美满，你全家死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504630614578073600",
+        "conversation_id": "2010585870076960812",
+        "created_at": "2026-01-12T05:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010585870076960812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010585870076960812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 71151,
+          "like_count": 1696,
+          "quote_count": 10,
+          "reply_count": 66,
+          "retweet_count": 249
+        },
+        "reply_settings": "everyone",
+        "text": "我对列表的包容程度。黄，没问题。自残，没问题。od，没问题。刻薄魔怔没素质没道德，没问题。杀人放火，没问题。讨口圈钱，没问题。柜子，没问题。幸福美满，你全家死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011000423503572992/NyDMNBl9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 264,
+          "like_count": 7213,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 602
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T01:27:56.000Z",
+        "description": "我是圣诞帽 查成分互fo 性格很烂 想交朋友 🚪100纯绿色我可以逗你开心",
+        "id": "1504630614578073600",
+        "location": "冰岛",
+        "name": "一个温良可爱患有蛇精病的女孩",
+        "pinned_tweet_id": "2002250159384899692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003097612799598592/tpc5iV9s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 699,
+          "like_count": 5019,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 692
+        },
+        "username": "yunxvan1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2047207206714798342",
+    "created_at": "2026-04-23T06:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T07:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047207206714798342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1527511175302287360",
+          "start": 3,
+          "username": "uuu521314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047207206714798342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046982065044980141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @uuu521314: 视奸完毕，但是感觉你有点太受欢迎了，你朋友好多啊，跟她们绝交吧，我觉得你有我就够了，你只能跟我在一起，你不准和其他人聊天了知道吗， 必须回复我的信息，不要让我生气好吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2047207206714798342",
+        "created_at": "2026-04-23T06:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T07:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047207206714798342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1527511175302287360",
+              "start": 3,
+              "username": "uuu521314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047207206714798342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046982065044980141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @uuu521314: 视奸完毕，但是感觉你有点太受欢迎了，你朋友好多啊，跟她们绝交吧，我觉得你有我就够了，你只能跟我在一起，你不准和其他人聊天了知道吗， 必须回复我的信息，不要让我生气好吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527511175302287360",
+        "conversation_id": "2046982065044980141",
+        "created_at": "2026-04-22T15:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046982065044980141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046982065044980141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 9519,
+          "like_count": 243,
+          "quote_count": 5,
+          "reply_count": 12,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "视奸完毕，但是感觉你有点太受欢迎了，你朋友好多啊，跟她们绝交吧，我觉得你有我就够了，你只能跟我在一起，你不准和其他人聊天了知道吗， 必须回复我的信息，不要让我生气好吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 360,
+          "like_count": 12479,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1068
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-20T04:47:11.000Z",
+        "description": "🥳",
+        "id": "1527511175302287360",
+        "location": "0.1k m",
+        "name": "Tttu",
+        "pinned_tweet_id": "2046622732532822471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985904262057172992/h8lK1RLO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 246,
+          "like_count": 16696,
+          "listed_count": 6,
+          "media_count": 28,
+          "tweet_count": 1080
+        },
+        "username": "uuu521314",
+        "verified": false
+      }
+    ]
+  }
+}

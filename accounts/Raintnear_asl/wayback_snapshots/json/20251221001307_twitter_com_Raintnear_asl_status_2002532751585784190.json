@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2002504344240033821",
+    "created_at": "2025-12-21T00:13:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T01:13:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002532751585784190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1984971479210229760",
+          "start": 0,
+          "username": "Kallen0720"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002532751585784190",
+    "in_reply_to_user_id": "1984971479210229760",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002504344240033821",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kallen0720 以毒攻毒！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002504337461854209",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pTFc-XwAEVbUH.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002504337474424833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pTFdBXkAEOsFR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002504337470148608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8pTFdAWUAAhcwo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2002504344240033821",
+        "created_at": "2025-12-21T00:13:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T01:13:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002532751585784190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1984971479210229760",
+              "start": 0,
+              "username": "Kallen0720"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002532751585784190",
+        "in_reply_to_user_id": "1984971479210229760",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002504344240033821",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kallen0720 以毒攻毒！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002504337461854209",
+            "3_2002504337474424833",
+            "3_2002504337470148608"
+          ]
+        },
+        "author_id": "1984971479210229760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2002504344240033821",
+        "created_at": "2025-12-20T22:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T23:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002504344240033821"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilYW73QGfV",
+              "end": 34,
+              "expanded_url": "https://x.com/Kallen0720/status/2002504344240033821/photo/1",
+              "media_key": "3_2002504337461854209",
+              "start": 11,
+              "url": "https://t.co/ilYW73QGfV"
+            },
+            {
+              "display_url": "pic.x.com/ilYW73QGfV",
+              "end": 34,
+              "expanded_url": "https://x.com/Kallen0720/status/2002504344240033821/photo/1",
+              "media_key": "3_2002504337474424833",
+              "start": 11,
+              "url": "https://t.co/ilYW73QGfV"
+            },
+            {
+              "display_url": "pic.x.com/ilYW73QGfV",
+              "end": 34,
+              "expanded_url": "https://x.com/Kallen0720/status/2002504344240033821/photo/1",
+              "media_key": "3_2002504337470148608",
+              "start": 11,
+              "url": "https://t.co/ilYW73QGfV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002504344240033821",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喉咙痛也依旧要吃雪糕 https://t.co/ilYW73QGfV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "求互fo交友！QvQ",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 257,
+          "like_count": 6557,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 491
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-02T13:11:14.000Z",
+        "description": "✞ 鏡よ鏡 正直割れたいか?@i7g9f0   我是老保",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 14,
+                "username": "i7g9f0"
+              }
+            ]
+          }
+        },
+        "id": "1984971479210229760",
+        "location": "Earth",
+        "name": "バズバズ迷乱电波",
+        "pinned_tweet_id": "1999314334363844653",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000908077730500611/b77tgiCH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 178,
+          "like_count": 7135,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2551
+        },
+        "username": "Kallen0720",
+        "verified": false
+      }
+    ]
+  }
+}

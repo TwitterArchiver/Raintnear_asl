@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032877112571633664"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2032877135929692287",
+    "created_at": "2026-03-14T17:50:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:50:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032877135929692287"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjU4GXRvoO",
+          "end": 80,
+          "expanded_url": "https://x.com/Raintnear_asl/status/2032877135929692287/photo/1",
+          "media_key": "3_2032877112571633664",
+          "start": 57,
+          "url": "https://t.co/cjU4GXRvoO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032877135929692287",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "因为和妈妈吵架了限制了生活费 但是我有神经性贪食 身上只有40块钱了 有没有好心人可以投喂一下我 非常感谢😭😭😭 https://t.co/cjU4GXRvoO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2032877112571633664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDY69pbaoAAK19f.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032877112571633664"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2032877135929692287",
+        "created_at": "2026-03-14T17:50:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:50:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032877135929692287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjU4GXRvoO",
+              "end": 80,
+              "expanded_url": "https://x.com/Raintnear_asl/status/2032877135929692287/photo/1",
+              "media_key": "3_2032877112571633664",
+              "start": 57,
+              "url": "https://t.co/cjU4GXRvoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032877135929692287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为和妈妈吵架了限制了生活费 但是我有神经性贪食 身上只有40块钱了 有没有好心人可以投喂一下我 非常感谢😭😭😭 https://t.co/cjU4GXRvoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1994665755024265451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032121413406949376/S9NNLQRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 314,
+          "like_count": 10121,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 813
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

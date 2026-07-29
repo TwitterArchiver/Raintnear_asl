@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2031170088804692085",
+    "created_at": "2026-03-10T00:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T01:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031170088804692085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1659256461544005632",
+          "start": 3,
+          "username": "Sweetpupmia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031170088804692085",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030683961442308508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sweetpupmia: 人类的头顶为什么不能出现一个好感度进度条。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2031170088804692085",
+        "created_at": "2026-03-10T00:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031170088804692085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1659256461544005632",
+              "start": 3,
+              "username": "Sweetpupmia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031170088804692085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030683961442308508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sweetpupmia: 人类的头顶为什么不能出现一个好感度进度条。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659256461544005632",
+        "conversation_id": "2030683961442308508",
+        "created_at": "2026-03-08T16:35:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T17:35:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030683961442308508"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030683961442308508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 15823,
+          "like_count": 497,
+          "quote_count": 5,
+          "reply_count": 33,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "人类的头顶为什么不能出现一个好感度进度条。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 316,
+          "like_count": 9490,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 788
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-18T17:55:56.000Z",
+        "description": "无聊无趣无所谓^-^",
+        "id": "1659256461544005632",
+        "location": "^ ^",
+        "name": "有空一起吃饭吗",
+        "pinned_tweet_id": "1987859162228007145",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995515168143691776/42tc-aLw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 67,
+          "like_count": 477,
+          "listed_count": 7,
+          "media_count": 108,
+          "tweet_count": 859
+        },
+        "username": "Sweetpupmia",
+        "verified": false
+      }
+    ]
+  }
+}

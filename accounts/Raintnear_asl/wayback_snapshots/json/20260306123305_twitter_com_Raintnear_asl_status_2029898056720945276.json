@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2029882971990438156",
+    "created_at": "2026-03-06T12:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T13:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029898056720945276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1331503196439601152",
+          "start": 0,
+          "username": "bibibixixixi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029898056720945276",
+    "in_reply_to_user_id": "1331503196439601152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029894122736341230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bibibixixixi 好呢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2029882971990438156",
+        "created_at": "2026-03-06T12:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029898056720945276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1331503196439601152",
+              "start": 0,
+              "username": "bibibixixixi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029898056720945276",
+        "in_reply_to_user_id": "1331503196439601152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029894122736341230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bibibixixixi 好呢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1331503196439601152",
+        "conversation_id": "2029882971990438156",
+        "created_at": "2026-03-06T12:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T13:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029894122736341230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029894122736341230",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029882971990438156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 好瘦噢～多吃点～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 315,
+          "like_count": 8949,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 749
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-25T07:41:23.000Z",
+        "description": "天天玩游戏看电影🥰宅男",
+        "id": "1331503196439601152",
+        "location": "深圳",
+        "name": "咕咕喵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940374288650895360/hJPkwvGM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 826,
+          "like_count": 3494,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 8966
+        },
+        "username": "bibibixixixi",
+        "verified": false
+      }
+    ]
+  }
+}

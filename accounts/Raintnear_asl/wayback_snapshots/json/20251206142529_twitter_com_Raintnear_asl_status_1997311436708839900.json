@@ -1,0 +1,92 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "1997311436708839900",
+    "created_at": "2025-12-06T14:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T15:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997311436708839900"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997311436708839900",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我成为女同简直是必然的啊\n我永远无法停止对女性心动 我爱她为路边流浪小猫俯身时垂下的发丝爱她下雨时倾斜的伞爱她细节又清醒独立的灵魂 爱她为他人苦难共情流下的眼泪 爱她天马行空的幼稚想法 爱她敏感脆弱不为人知的一面而不是一个只有脸只看脸的空壳 抱歉 我爱女人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "1997311436708839900",
+        "created_at": "2025-12-06T14:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T15:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997311436708839900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997311436708839900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我成为女同简直是必然的啊\n我永远无法停止对女性心动 我爱她为路边流浪小猫俯身时垂下的发丝爱她下雨时倾斜的伞爱她细节又清醒独立的灵魂 爱她为他人苦难共情流下的眼泪 爱她天马行空的幼稚想法 爱她敏感脆弱不为人知的一面而不是一个只有脸只看脸的空壳 抱歉 我爱女人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996943907469312000/bXUUgN3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 186,
+          "like_count": 5603,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 410
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

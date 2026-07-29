@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996680151048884224"
+      ],
+      "media_source_tweet_id": [
+        "1996680155532779899"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1996783813792559525",
+    "created_at": "2025-12-05T03:28:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996783813792559525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1496182649400008707",
+          "start": 3,
+          "username": "nyaicore"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/m7yvc6Nvl9",
+          "end": 60,
+          "expanded_url": "https://x.com/nyaicore/status/1996680155532779899/photo/1",
+          "media_key": "3_1996680151048884224",
+          "start": 37,
+          "url": "https://t.co/m7yvc6Nvl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996783813792559525",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 730
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996680155532779899",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyaicore: long spooky tongue.. ♡ https://t.co/m7yvc6Nvl9"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1996783813792559525].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1996783813792559525",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1996783813792559525"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_1996680151048884224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7WiBL1XkAAuVlU.jpg",
+        "width": 1219
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996680151048884224"
+          ]
+        },
+        "author_id": "1496182649400008707",
+        "conversation_id": "1996680155532779899",
+        "created_at": "2025-12-04T20:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T21:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996680155532779899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/m7yvc6Nvl9",
+              "end": 46,
+              "expanded_url": "https://x.com/nyaicore/status/1996680155532779899/photo/1",
+              "media_key": "3_1996680151048884224",
+              "start": 23,
+              "url": "https://t.co/m7yvc6Nvl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996680155532779899",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1769,
+          "impression_count": 208843,
+          "like_count": 13607,
+          "quote_count": 16,
+          "reply_count": 61,
+          "retweet_count": 730
+        },
+        "reply_settings": "everyone",
+        "text": "long spooky tongue.. ♡ https://t.co/m7yvc6Nvl9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192811927085056/sENQGjhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 184,
+          "like_count": 5429,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 395
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-22T17:58:47.000Z",
+        "description": "horror catgirl • artist ꒰ 🎀🔪 ꒱ \n\n♡ designs : @littlecorpsee ♱ @cherricries \n♡ ママ : @saga404 ♱ @emoshimoV \n\n꒰ #nyaicore ꒱ ₊ ☆",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 118,
+                "start": 109,
+                "tag": "nyaicore"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 59,
+                "start": 45,
+                "username": "littlecorpsee"
+              },
+              {
+                "end": 74,
+                "start": 62,
+                "username": "cherricries"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "saga404"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "emoshimoV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyami.uwu.ai",
+                "end": 23,
+                "expanded_url": "https://nyami.uwu.ai",
+                "start": 0,
+                "url": "https://t.co/kkmND1jjiL"
+              }
+            ]
+          }
+        },
+        "id": "1496182649400008707",
+        "location": "i : eita_789 ♡ b : l99ayane",
+        "name": "nyami ♡",
+        "pinned_tweet_id": "1885709175063236955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955318784685699072/L52GIiac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25539,
+          "following_count": 848,
+          "like_count": 13051,
+          "listed_count": 68,
+          "media_count": 501,
+          "tweet_count": 10043
+        },
+        "url": "https://t.co/kkmND1jjiL",
+        "username": "nyaicore",
+        "verified": false
+      }
+    ]
+  }
+}

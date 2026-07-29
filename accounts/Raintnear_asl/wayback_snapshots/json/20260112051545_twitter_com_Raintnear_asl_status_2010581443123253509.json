@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949460034527879168"
+      ],
+      "media_source_tweet_id": [
+        "1949460133878407210"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2010581443123253509",
+    "created_at": "2026-01-12T05:15:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T06:15:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010581443123253509"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 16,
+          "start": 11,
+          "tag": "주의평화"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1271465343332974600",
+          "start": 3,
+          "username": "lx7p7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lEfQYJQ9wi",
+          "end": 45,
+          "expanded_url": "https://x.com/lx7p7/status/1949460133878407210/photo/1",
+          "media_key": "3_1949460034527879168",
+          "start": 22,
+          "url": "https://t.co/lEfQYJQ9wi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010581443123253509",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8272
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949460133878407210",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lx7p7: #주의평화 ^^;; https://t.co/lEfQYJQ9wi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1300,
+        "media_key": "3_1949460034527879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw3fkp3a4AAyQf6.jpg",
+        "width": 1800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949460034527879168"
+          ],
+          "media_source_tweet_id": [
+            "1949460133878407210"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2010581443123253509",
+        "created_at": "2026-01-12T05:15:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:15:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010581443123253509"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 11,
+              "tag": "주의평화"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1271465343332974600",
+              "start": 3,
+              "username": "lx7p7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEfQYJQ9wi",
+              "end": 45,
+              "expanded_url": "https://x.com/lx7p7/status/1949460133878407210/photo/1",
+              "media_key": "3_1949460034527879168",
+              "start": 22,
+              "url": "https://t.co/lEfQYJQ9wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010581443123253509",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8272
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949460133878407210",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lx7p7: #주의평화 ^^;; https://t.co/lEfQYJQ9wi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949460034527879168"
+          ]
+        },
+        "author_id": "1271465343332974600",
+        "conversation_id": "1949460133878407210",
+        "created_at": "2025-07-27T13:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T14:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949460133878407210"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "주의평화"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEfQYJQ9wi",
+              "end": 34,
+              "expanded_url": "https://x.com/lx7p7/status/1949460133878407210/photo/1",
+              "media_key": "3_1949460034527879168",
+              "start": 11,
+              "url": "https://t.co/lEfQYJQ9wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949460133878407210",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6645,
+          "impression_count": 5686074,
+          "like_count": 53886,
+          "quote_count": 2659,
+          "reply_count": 43,
+          "retweet_count": 8272
+        },
+        "reply_settings": "everyone",
+        "text": "#주의평화 ^^;; https://t.co/lEfQYJQ9wi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007494314616877056/H3po3qIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 264,
+          "like_count": 7208,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 601
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-12T15:32:51.000Z",
+        "description": "봄툰 주의 평화",
+        "id": "1271465343332974600",
+        "location": "offonoff24@gmail.com",
+        "name": "주말",
+        "pinned_tweet_id": "2009973825858056584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870806258540036096/v6thiE4B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102689,
+          "following_count": 33,
+          "like_count": 4345,
+          "listed_count": 191,
+          "media_count": 124,
+          "tweet_count": 571
+        },
+        "username": "lx7p7",
+        "verified": false
+      }
+    ]
+  }
+}

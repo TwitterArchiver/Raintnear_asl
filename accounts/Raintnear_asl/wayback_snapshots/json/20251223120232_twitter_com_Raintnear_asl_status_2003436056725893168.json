@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2003164389772525805",
+    "created_at": "2025-12-23T12:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-23T13:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2003436056725893168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1988153941058838528",
+          "start": 0,
+          "username": "RyuuRyougaku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2003436056725893168",
+    "in_reply_to_user_id": "1988153941058838528",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003299178404016524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyuuRyougaku 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2003164389772525805",
+        "created_at": "2025-12-23T12:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T13:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003436056725893168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1988153941058838528",
+              "start": 0,
+              "username": "RyuuRyougaku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003436056725893168",
+        "in_reply_to_user_id": "1988153941058838528",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003299178404016524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyuuRyougaku 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988153941058838528",
+        "conversation_id": "2003164389772525805",
+        "created_at": "2025-12-23T02:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T03:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003299178404016524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003299178404016524",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003164389772525805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 宝宝别这么想"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "求互fo交友！QvQ",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 261,
+          "like_count": 6715,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 507
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-11T07:57:07.000Z",
+        "description": "每天都好无聊好无聊啊🥀有没有人能陪陪我和我聊聊天，小m",
+        "id": "1988153941058838528",
+        "location": "九龍城, 香港",
+        "name": "Loukios",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003302031830974468/V7d8LCJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 717,
+          "like_count": 8887,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 1419
+        },
+        "username": "RyuuRyougaku",
+        "verified": false
+      }
+    ]
+  }
+}

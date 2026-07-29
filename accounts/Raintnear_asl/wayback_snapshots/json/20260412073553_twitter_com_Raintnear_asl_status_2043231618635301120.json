@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042609447772782592"
+      ],
+      "media_source_tweet_id": [
+        "2042609645458723030"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043231618635301120",
+    "created_at": "2026-04-12T07:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T08:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043231618635301120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/W4j28BE07t",
+          "end": 37,
+          "expanded_url": "https://x.com/hgds0/status/2042609645458723030/photo/1",
+          "media_key": "3_2042609447772782592",
+          "start": 14,
+          "url": "https://t.co/W4j28BE07t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043231618635301120",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 152
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042609645458723030",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 看哭 https://t.co/W4j28BE07t"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 986,
+        "media_key": "3_2042609447772782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjOeHVagAAXGd_.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042609447772782592"
+          ],
+          "media_source_tweet_id": [
+            "2042609645458723030"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043231618635301120",
+        "created_at": "2026-04-12T07:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T08:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043231618635301120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4j28BE07t",
+              "end": 37,
+              "expanded_url": "https://x.com/hgds0/status/2042609645458723030/photo/1",
+              "media_key": "3_2042609447772782592",
+              "start": 14,
+              "url": "https://t.co/W4j28BE07t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043231618635301120",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 152
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042609645458723030",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 看哭 https://t.co/W4j28BE07t"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042609447772782592"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2042609645458723030",
+        "created_at": "2026-04-10T14:24:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:24:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042609645458723030"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W4j28BE07t",
+              "end": 26,
+              "expanded_url": "https://x.com/hgds0/status/2042609645458723030/photo/1",
+              "media_key": "3_2042609447772782592",
+              "start": 3,
+              "url": "https://t.co/W4j28BE07t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042609645458723030",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 242106,
+          "like_count": 2604,
+          "quote_count": 52,
+          "reply_count": 104,
+          "retweet_count": 152
+        },
+        "reply_settings": "everyone",
+        "text": "看哭 https://t.co/W4j28BE07t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 339,
+          "like_count": 11341,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 928
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删/推广自辩‼️",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95456,
+          "following_count": 2472,
+          "like_count": 43991,
+          "listed_count": 133,
+          "media_count": 3966,
+          "tweet_count": 8349
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

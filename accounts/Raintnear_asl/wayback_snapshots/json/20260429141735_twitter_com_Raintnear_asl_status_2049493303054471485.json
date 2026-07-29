@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2049493303054471485",
+    "created_at": "2026-04-29T14:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049493303054471485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2012929782112280576",
+          "start": 3,
+          "username": "hwangsuwan86192"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049493303054471485",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1677
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049128644757553571",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hwangsuwan86192: 비엘안하는 애들이랑 대화를 몬하겠음\n비엘안하면 뭘좋아해..?? 뭔얘기해...?????"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2049493303054471485",
+        "created_at": "2026-04-29T14:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049493303054471485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2012929782112280576",
+              "start": 3,
+              "username": "hwangsuwan86192"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049493303054471485",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1677
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049128644757553571",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hwangsuwan86192: 비엘안하는 애들이랑 대화를 몬하겠음\n비엘안하면 뭘좋아해..?? 뭔얘기해...?????"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012929782112280576",
+        "conversation_id": "2049128644757553571",
+        "created_at": "2026-04-28T14:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T15:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049128644757553571"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049128644757553571",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 213810,
+          "like_count": 7335,
+          "quote_count": 773,
+          "reply_count": 11,
+          "retweet_count": 1677
+        },
+        "reply_settings": "everyone",
+        "text": "비엘안하는 애들이랑 대화를 몬하겠음\n비엘안하면 뭘좋아해..?? 뭔얘기해...?????"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 372,
+          "like_count": 13458,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1151
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T16:47:36.000Z",
+        "description": "돈 안받는 즐겜용 파딱                                                            \n진짜돈못받음파딱혐오멈춰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Hwangsuwan",
+                "end": 23,
+                "expanded_url": "http://spin-spin.com/Hwangsuwan",
+                "start": 0,
+                "url": "https://t.co/FW4g3944KM"
+              }
+            ]
+          }
+        },
+        "id": "2012929782112280576",
+        "location": "여자에요 여자!!!!!",
+        "name": "좃수완",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046787203725193216/0kljRNNh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 300,
+          "like_count": 21401,
+          "listed_count": 1,
+          "media_count": 245,
+          "tweet_count": 2588
+        },
+        "url": "https://t.co/FW4g3944KM",
+        "username": "hwangsuwan86192",
+        "verified": true
+      }
+    ]
+  }
+}

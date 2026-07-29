@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2005231426439086216",
+    "created_at": "2025-12-28T12:54:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:54:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005261073369424022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1999820227534819329",
+          "start": 0,
+          "username": "wo1602"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005261073369424022",
+    "in_reply_to_user_id": "1999820227534819329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005231426439086216",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wo1602 如果是雷系的话 卧蚕再夸张一点就好了 其他都很完美！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2005231417798832128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QDWa5aMAA_4jt.jpg",
+        "width": 1049
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2005231426439086216",
+        "created_at": "2025-12-28T12:54:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:54:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005261073369424022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1999820227534819329",
+              "start": 0,
+              "username": "wo1602"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005261073369424022",
+        "in_reply_to_user_id": "1999820227534819329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005231426439086216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wo1602 如果是雷系的话 卧蚕再夸张一点就好了 其他都很完美！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005231417798832128"
+          ]
+        },
+        "author_id": "1999820227534819329",
+        "conversation_id": "2005231426439086216",
+        "created_at": "2025-12-28T10:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T11:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005231426439086216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QOF0Q2oucM",
+              "end": 36,
+              "expanded_url": "https://x.com/wo1602/status/2005231426439086216/photo/1",
+              "media_key": "3_2005231417798832128",
+              "start": 13,
+              "url": "https://t.co/QOF0Q2oucM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005231426439086216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的化妆技术就这样。绝望 https://t.co/QOF0Q2oucM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 262,
+          "like_count": 6959,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 538
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-13T12:34:51.000Z",
+        "description": "我是小棠＞＜ 推特纯粹日记本备忘录 现实认识我的话请绕道好吗ㅇㅈㅇ 黄文血图都发 介意的不要关注我啦～女孩子们找我互fo私信我好吗！特别喜欢和女孩子玩 可以找我加lx～ 男的发屌之前写给我转钱行吗 没有看屌的义务",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B0%8F%E6%A…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B0%8F%E6%A3%A02",
+                "start": 0,
+                "url": "https://t.co/IGs6F1XzFl"
+              }
+            ]
+          }
+        },
+        "id": "1999820227534819329",
+        "location": "该用户距离您5.2km",
+        "name": "如果能更喜歡我一些",
+        "pinned_tweet_id": "2003747981733011758",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001240848881868803/LLa_7POM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 17,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/IGs6F1XzFl",
+        "username": "wo1602",
+        "verified": false
+      }
+    ]
+  }
+}

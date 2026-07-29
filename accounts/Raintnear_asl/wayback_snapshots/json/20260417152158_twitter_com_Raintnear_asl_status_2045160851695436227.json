@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2045160851695436227",
+    "created_at": "2026-04-17T15:21:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:21:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045160851695436227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942995969043501056",
+          "start": 3,
+          "username": "Aqian0505"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045160851695436227",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044807105358786815",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Aqian0505: 每次想到“喜欢”，都会伴生一种强烈的恐惧感。“我配吗？”这样的问题会不断盘旋在脑海之中，直到最后总是会这样的自卑压过我所谓的“喜欢”，我与ta之间的关系被这种恐惧所支配。\n所以我总爱说我擅长搞砸所有亲密关系，不管是朋友还是恋人，最后都会搞砸。我没有…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2045160851695436227",
+        "created_at": "2026-04-17T15:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045160851695436227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942995969043501056",
+              "start": 3,
+              "username": "Aqian0505"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045160851695436227",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044807105358786815",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Aqian0505: 每次想到“喜欢”，都会伴生一种强烈的恐惧感。“我配吗？”这样的问题会不断盘旋在脑海之中，直到最后总是会这样的自卑压过我所谓的“喜欢”，我与ta之间的关系被这种恐惧所支配。\n所以我总爱说我擅长搞砸所有亲密关系，不管是朋友还是恋人，最后都会搞砸。我没有…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942995969043501056",
+        "conversation_id": "2044807105358786815",
+        "created_at": "2026-04-16T15:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T16:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044807105358786815"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044807105358786815",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5219,
+          "like_count": 132,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "每次想到“喜欢”，都会伴生一种强烈的恐惧感。“我配吗？”这样的问题会不断盘旋在脑海之中，直到最后总是会这样的自卑压过我所谓的“喜欢”，我与ta之间的关系被这种恐惧所支配。\n所以我总爱说我擅长搞砸所有亲密关系，不管是朋友还是恋人，最后都会搞砸。我没有任何优点，性格上的缺点更是明显的要命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 341,
+          "like_count": 11381,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 943
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-09T17:15:29.000Z",
+        "description": "拿来当朋友圈发(*ᴗ͈ˬᴗ͈)ꕤ*.ﾟ碎碎念+身材照",
+        "id": "1942995969043501056",
+        "name": "小小麦咪喵喵喵",
+        "pinned_tweet_id": "2045108263386317293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040792220014632960/x_9NIn5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5252,
+          "following_count": 187,
+          "like_count": 12819,
+          "listed_count": 20,
+          "media_count": 94,
+          "tweet_count": 1016
+        },
+        "username": "Aqian0505",
+        "verified": false
+      }
+    ]
+  }
+}

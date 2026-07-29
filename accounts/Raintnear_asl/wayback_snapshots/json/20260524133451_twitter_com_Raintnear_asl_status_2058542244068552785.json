@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2058542244068552785",
+    "created_at": "2026-05-24T13:34:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T14:34:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058542244068552785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2000016069550043136",
+          "start": 3,
+          "username": "nng10494601"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058542244068552785",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058262552405291506",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nng10494601: 我喜欢和有教养但是没素质的人做朋友"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2058542244068552785",
+        "created_at": "2026-05-24T13:34:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:34:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058542244068552785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2000016069550043136",
+              "start": 3,
+              "username": "nng10494601"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058542244068552785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058262552405291506",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nng10494601: 我喜欢和有教养但是没素质的人做朋友"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000016069550043136",
+        "conversation_id": "2058262552405291506",
+        "created_at": "2026-05-23T19:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T20:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058262552405291506"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058262552405291506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 19557,
+          "like_count": 373,
+          "quote_count": 7,
+          "reply_count": 37,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢和有教养但是没素质的人做朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 420,
+          "like_count": 16617,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1477
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-14T01:32:51.000Z",
+        "description": "好想变成一只无忧无虑的小猫咪(￣∇￣)\nhttps://t.co/LNfGEZf7oy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meiweijiyi",
+                "end": 43,
+                "expanded_url": "http://ngl.link/meiweijiyi",
+                "start": 20,
+                "url": "https://t.co/LNfGEZf7oy"
+              }
+            ]
+          }
+        },
+        "id": "2000016069550043136",
+        "location": "Los Angeles, CA",
+        "name": "UraNN",
+        "pinned_tweet_id": "2058515431112278294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058178214988754945/eRfcXJDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 19,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 268
+        },
+        "username": "nng10494601",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996482049180590080"
+      ],
+      "media_source_tweet_id": [
+        "1996482053760823396"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1996783424150057414",
+    "created_at": "2025-12-05T03:27:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:27:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996783424150057414"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1856349666801250304",
+          "start": 3,
+          "username": "nnnn_makoto"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mTzBUwBcf6",
+          "end": 40,
+          "expanded_url": "https://x.com/nnnn_makoto/status/1996482053760823396/photo/1",
+          "media_key": "3_1996482049180590080",
+          "start": 17,
+          "url": "https://t.co/mTzBUwBcf6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996783424150057414",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996482053760823396",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nnnn_makoto: https://t.co/mTzBUwBcf6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1996482049180590080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Tt2I3aYAAfsBL.jpg",
+        "width": 1158
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996482049180590080"
+          ],
+          "media_source_tweet_id": [
+            "1996482053760823396"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1996783424150057414",
+        "created_at": "2025-12-05T03:27:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:27:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996783424150057414"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1856349666801250304",
+              "start": 3,
+              "username": "nnnn_makoto"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTzBUwBcf6",
+              "end": 40,
+              "expanded_url": "https://x.com/nnnn_makoto/status/1996482053760823396/photo/1",
+              "media_key": "3_1996482049180590080",
+              "start": 17,
+              "url": "https://t.co/mTzBUwBcf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996783424150057414",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996482053760823396",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nnnn_makoto: https://t.co/mTzBUwBcf6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996482049180590080"
+          ]
+        },
+        "author_id": "1856349666801250304",
+        "conversation_id": "1996482053760823396",
+        "created_at": "2025-12-04T07:29:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:29:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996482053760823396"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mTzBUwBcf6",
+              "end": 23,
+              "expanded_url": "https://x.com/nnnn_makoto/status/1996482053760823396/photo/1",
+              "media_key": "3_1996482049180590080",
+              "start": 0,
+              "url": "https://t.co/mTzBUwBcf6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996482053760823396",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 10350,
+          "like_count": 1403,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/mTzBUwBcf6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192811927085056/sENQGjhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 184,
+          "like_count": 5419,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 394
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-12T14:53:54.000Z",
+        "description": "MyLover @kazehiki050",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 8,
+                "username": "kazehiki050"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@lovelove_yume3",
+                "end": 23,
+                "expanded_url": "http://www.tiktok.com/@lovelove_yume3",
+                "start": 0,
+                "url": "https://t.co/U46EA1MGTk"
+              }
+            ]
+          }
+        },
+        "id": "1856349666801250304",
+        "name": "Makoto",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886726680297005058/09LMpV6F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 65,
+          "like_count": 2675,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 296
+        },
+        "url": "https://t.co/U46EA1MGTk",
+        "username": "nnnn_makoto",
+        "verified": false
+      }
+    ]
+  }
+}

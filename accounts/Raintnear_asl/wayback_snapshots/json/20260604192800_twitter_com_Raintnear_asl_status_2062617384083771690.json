@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2062617384083771690",
+    "created_at": "2026-06-04T19:28:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T20:28:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062617384083771690"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1939704603882504193",
+          "start": 3,
+          "username": "bushi11f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062617384083771690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062364257707311251",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bushi11f: 纠缠就是很牛逼啊。每次两个人都以为对面放弃了 这段感情要结束了，实则两个人都像厉鬼一样揪着对方不放"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2062617384083771690",
+        "created_at": "2026-06-04T19:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T20:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062617384083771690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1939704603882504193",
+              "start": 3,
+              "username": "bushi11f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062617384083771690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062364257707311251",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bushi11f: 纠缠就是很牛逼啊。每次两个人都以为对面放弃了 这段感情要结束了，实则两个人都像厉鬼一样揪着对方不放"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939704603882504193",
+        "conversation_id": "2062364257707311251",
+        "created_at": "2026-06-04T02:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T03:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062364257707311251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062364257707311251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 22500,
+          "like_count": 693,
+          "quote_count": 10,
+          "reply_count": 124,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "纠缠就是很牛逼啊。每次两个人都以为对面放弃了 这段感情要结束了，实则两个人都像厉鬼一样揪着对方不放"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 416,
+          "like_count": 16880,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1516
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel https://t.co/3CL6uxUqMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11f50097",
+                "end": 34,
+                "expanded_url": "https://ngl.link/11f50097",
+                "start": 11,
+                "url": "https://t.co/3CL6uxUqMB"
+              }
+            ]
+          }
+        },
+        "id": "1939704603882504193",
+        "location": "in Kun's heart",
+        "name": "11f",
+        "pinned_tweet_id": "2059324164394438770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939704841112293376/UWwdrnVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 28,
+          "like_count": 164,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 811
+        },
+        "username": "bushi11f",
+        "verified": false
+      }
+    ]
+  }
+}

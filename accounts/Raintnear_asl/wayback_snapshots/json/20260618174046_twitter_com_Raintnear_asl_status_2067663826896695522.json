@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2067663826896695522",
+    "created_at": "2026-06-18T17:40:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:40:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067663826896695522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2046274720153104384",
+          "start": 3,
+          "username": "angellailah_yG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067663826896695522",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1624
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067293167842435390",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @angellailah_yG: Please fall in love with someone who genuinely wants you, patiently waits for your messages, understands you even in yo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2067663826896695522",
+        "created_at": "2026-06-18T17:40:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067663826896695522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2046274720153104384",
+              "start": 3,
+              "username": "angellailah_yG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067663826896695522",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1624
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067293167842435390",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @angellailah_yG: Please fall in love with someone who genuinely wants you, patiently waits for your messages, understands you even in yo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046274720153104384",
+        "conversation_id": "2067293167842435390",
+        "created_at": "2026-06-17T17:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T18:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067293167842435390"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067293167842435390",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 767,
+          "impression_count": 98465,
+          "like_count": 7346,
+          "quote_count": 54,
+          "reply_count": 25,
+          "retweet_count": 1624
+        },
+        "reply_settings": "everyone",
+        "text": "Please fall in love with someone who genuinely wants you, patiently waits for your messages, understands you even in your madness, talks to you after a fight. The right person sees the mess and moods but still chooses you."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065275168306733056/E5iByraj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 418,
+          "like_count": 17192,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T17:08:30.000Z",
+        "description": "Virgo♍️  || just a girl with big dreams🎀🍫✨️",
+        "id": "2046274720153104384",
+        "name": "♡yG♡🧚‍♀️",
+        "pinned_tweet_id": "2054518112402153796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066968160515784704/sMEnDBsi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 888,
+          "following_count": 85,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "angellailah_yG",
+        "verified": false
+      }
+    ]
+  }
+}

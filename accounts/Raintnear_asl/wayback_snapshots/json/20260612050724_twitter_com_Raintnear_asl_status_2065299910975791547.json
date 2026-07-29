@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2065299910975791547",
+    "created_at": "2026-06-12T05:07:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T06:07:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065299910975791547"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1648639500350791682",
+          "start": 3,
+          "username": "femiiiszn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065299910975791547",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 690
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065091352275145171",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @femiiiszn: i'm not meant for someone nonchalant. i love too loudly, i love corny stuff, i love acting goofy, i love deep conversations,…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2065299910975791547",
+        "created_at": "2026-06-12T05:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T06:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065299910975791547"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1648639500350791682",
+              "start": 3,
+              "username": "femiiiszn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065299910975791547",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 690
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065091352275145171",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @femiiiszn: i'm not meant for someone nonchalant. i love too loudly, i love corny stuff, i love acting goofy, i love deep conversations,…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648639500350791682",
+        "conversation_id": "2065091352275145171",
+        "created_at": "2026-06-11T15:18:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:18:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065091352275145171"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065091352275145171",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 224,
+          "impression_count": 35040,
+          "like_count": 2285,
+          "quote_count": 25,
+          "reply_count": 14,
+          "retweet_count": 690
+        },
+        "reply_settings": "everyone",
+        "text": "i'm not meant for someone nonchalant. i love too loudly, i love corny stuff, i love acting goofy, i love deep conversations, i love laughing out loudly, i love hearing about your day, i love compliments and i love knowing you how no one else does."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065275168306733056/E5iByraj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 416,
+          "like_count": 17096,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1572
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T10:47:54.000Z",
+        "description": "20 | DM for promos | korty stan",
+        "id": "1648639500350791682",
+        "name": "femiiiiii.",
+        "pinned_tweet_id": "1833893399436652594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1744113564086870016/neLJdw8F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31206,
+          "following_count": 9368,
+          "like_count": 29971,
+          "listed_count": 44,
+          "media_count": 1724,
+          "tweet_count": 41180
+        },
+        "username": "femiiiszn",
+        "verified": false
+      }
+    ]
+  }
+}

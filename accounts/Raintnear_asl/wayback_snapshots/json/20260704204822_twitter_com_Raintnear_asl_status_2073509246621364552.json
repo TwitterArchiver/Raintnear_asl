@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Family and parenting",
+          "id": "847547282010497024",
+          "name": "Parenting"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278066760814456832",
+          "name": "Family"
+        }
+      }
+    ],
+    "conversation_id": "2073509246621364552",
+    "created_at": "2026-07-04T20:48:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:48:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073509246621364552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2038281683636461570",
+          "start": 3,
+          "username": "Knnibal_val"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073509246621364552",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072941751128441107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Knnibal_val: Quizá nos casémonos, tengamos hijos y vivamos juntos, o quizá me de un brote psicótico y me suicide, quien sabe"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2073509246621364552",
+        "created_at": "2026-07-04T20:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073509246621364552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2038281683636461570",
+              "start": 3,
+              "username": "Knnibal_val"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073509246621364552",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072941751128441107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Knnibal_val: Quizá nos casémonos, tengamos hijos y vivamos juntos, o quizá me de un brote psicótico y me suicide, quien sabe"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2038281683636461570",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2072941751128441107",
+        "created_at": "2026-07-03T07:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072941751128441107"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072941751128441107",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1357,
+          "impression_count": 283695,
+          "like_count": 27377,
+          "quote_count": 276,
+          "reply_count": 32,
+          "retweet_count": 9692
+        },
+        "reply_settings": "everyone",
+        "text": "Quizá nos casémonos, tengamos hijos y vivamos juntos, o quizá me de un brote psicótico y me suicide, quien sabe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 417,
+          "like_count": 17167,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T15:47:07.000Z",
+        "description": "☆*𝑇ℎ𝑎𝑛𝑘𝑠 𝑔𝑜𝑑 𝑓𝑜𝑟 𝑑𝑟𝑢𝑔𝑠/ #shtwt #edtwt\n🪽• 𝐴 𝑓𝑎𝑙𝑙𝑒𝑛 𝑎𝑛𝑔𝑒𝑙 𝑏𝑒𝑔𝑔𝑖𝑛𝑔 𝑓𝑜𝑟 𝑎 𝑙𝑖𝑡𝑡𝑙𝑒 𝑙𝑜𝑣𝑒 ♡\n𝑠ℎ/𝑝𝑟𝑖𝑣: @d0ll_b0n3s",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 24,
+                "tag": "shtwt"
+              },
+              {
+                "end": 37,
+                "start": 31,
+                "tag": "edtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 104,
+                "start": 93,
+                "username": "d0ll_b0n3s"
+              }
+            ]
+          }
+        },
+        "id": "2038281683636461570",
+        "location": "femboylandia",
+        "name": "𝑧𝑚𝑏𝑖𝑒",
+        "pinned_tweet_id": "2065449380065247648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073479501737074688/CRXyCZfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 835,
+          "following_count": 79,
+          "like_count": 4941,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 710
+        },
+        "url": "",
+        "username": "Knnibal_val",
+        "verified": false
+      }
+    ]
+  }
+}

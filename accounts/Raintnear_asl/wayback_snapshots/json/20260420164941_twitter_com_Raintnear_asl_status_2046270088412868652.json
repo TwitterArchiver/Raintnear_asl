@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2046270088412868652",
+    "created_at": "2026-04-20T16:49:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:49:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046270088412868652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1355468638984269824",
+          "start": 3,
+          "username": "lilmissbbybear"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046270088412868652",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3734
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045907248170344865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lilmissbbybear: having someone excited to talk to u is really precious"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2046270088412868652",
+        "created_at": "2026-04-20T16:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046270088412868652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1355468638984269824",
+              "start": 3,
+              "username": "lilmissbbybear"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046270088412868652",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3734
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045907248170344865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lilmissbbybear: having someone excited to talk to u is really precious"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1355468638984269824",
+        "conversation_id": "2045907248170344865",
+        "created_at": "2026-04-19T16:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045907248170344865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045907248170344865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 732,
+          "impression_count": 183021,
+          "like_count": 13386,
+          "quote_count": 153,
+          "reply_count": 43,
+          "retweet_count": 3734
+        },
+        "reply_settings": "everyone",
+        "text": "having someone excited to talk to u is really precious"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 353,
+          "like_count": 12140,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1043
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-30T10:51:42.000Z",
+        "description": "♑︎ ☼ • ♌︎⇡• ♑︎☽ || @cicireion 🧸💞",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "cicireion"
+              }
+            ]
+          }
+        },
+        "id": "1355468638984269824",
+        "name": "𐙚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030068425289043968/UM-K41YZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9732,
+          "following_count": 2335,
+          "like_count": 65269,
+          "listed_count": 79,
+          "media_count": 4388,
+          "tweet_count": 23847
+        },
+        "username": "lilmissbbybear",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2027046314052391028",
+    "created_at": "2026-02-26T19:47:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T20:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027108242615411031"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1898370048542359552",
+          "start": 0,
+          "username": "hahayaaai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027108242615411031",
+    "in_reply_to_user_id": "1898370048542359552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027082378137698774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hahayaaai 咸的要死爽喝一口也超级爽！\\(≧▽≦)/"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2027046314052391028",
+        "created_at": "2026-02-26T19:47:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T20:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027108242615411031"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1898370048542359552",
+              "start": 0,
+              "username": "hahayaaai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027108242615411031",
+        "in_reply_to_user_id": "1898370048542359552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027082378137698774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hahayaaai 咸的要死爽喝一口也超级爽！\\(≧▽≦)/"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898370048542359552",
+        "conversation_id": "2027046314052391028",
+        "created_at": "2026-02-26T18:04:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027082378137698774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027082378137698774",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027046314052391028",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 诶我们完全相反，我的习惯是吃东西被咸的要死也要坚持不喝水，等吃完之后再爽喝一大口水。但是我也是吃两口东西也要擦一下嘴(இωஇ )尤其是麻辣拌这种带酱的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 294,
+          "like_count": 7945,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 664
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-08T13:48:00.000Z",
+        "description": "碎碎念频道|各种发泄|负能量偏多|感到不安所以经常删帖 没有任何恶意｜喜欢发昆虫以及到处留言",
+        "id": "1898370048542359552",
+        "name": "咪咪虾条",
+        "pinned_tweet_id": "2018344637614952613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022745772090085376/bHFzLJx1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 117,
+          "like_count": 4788,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 439
+        },
+        "username": "hahayaaai",
+        "verified": false
+      }
+    ]
+  }
+}

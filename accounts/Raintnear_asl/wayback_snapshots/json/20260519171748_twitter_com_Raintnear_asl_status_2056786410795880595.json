@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2056775687474647291",
+    "created_at": "2026-05-19T17:17:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:17:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056786410795880595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1175234920257470464",
+          "start": 0,
+          "username": "kokoniiroyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056786410795880595",
+    "in_reply_to_user_id": "1175234920257470464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056781265496629550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kokoniiroyo 是这样的😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2056775687474647291",
+        "created_at": "2026-05-19T17:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056786410795880595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1175234920257470464",
+              "start": 0,
+              "username": "kokoniiroyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056786410795880595",
+        "in_reply_to_user_id": "1175234920257470464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056781265496629550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kokoniiroyo 是这样的😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1175234920257470464",
+        "conversation_id": "2056775687474647291",
+        "created_at": "2026-05-19T16:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T17:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056781265496629550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056781265496629550",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056775687474647291",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 不值得 可能是在拿自己去赌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 415,
+          "like_count": 16352,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1431
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-21T02:26:57.000Z",
+        "description": "",
+        "id": "1175234920257470464",
+        "name": "Miok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942215720407851008/DQ3iVv7s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 58,
+          "like_count": 43,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 33
+        },
+        "username": "kokoniiroyo",
+        "verified": false
+      }
+    ]
+  }
+}

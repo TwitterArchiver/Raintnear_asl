@@ -1,0 +1,121 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity tracks all conversations about going out.",
+          "id": "1045046778876153856",
+          "name": "Going Out"
+        }
+      }
+    ],
+    "conversation_id": "2049758389442621899",
+    "created_at": "2026-04-30T07:50:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:50:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049758389442621899"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2049758389442621899",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟我谈恋爱的要求就是所有能改名的平台id必须跟我有关(淘宝京东美团闲鱼也算)社交平台个签必须挂跟我换情头 腾讯会议查 每天必须发手机屏幕使用时间 每天截图微信好友数量 出门玩的话走之前拍一个视频 外出拍一个视频 到了拍一个视频 必须全部都是360°"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity tracks all conversations about going out.",
+              "id": "1045046778876153856",
+              "name": "Going Out"
+            }
+          }
+        ],
+        "conversation_id": "2049758389442621899",
+        "created_at": "2026-04-30T07:50:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:50:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049758389442621899"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049758389442621899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟我谈恋爱的要求就是所有能改名的平台id必须跟我有关(淘宝京东美团闲鱼也算)社交平台个签必须挂跟我换情头 腾讯会议查 每天必须发手机屏幕使用时间 每天截图微信好友数量 出门玩的话走之前拍一个视频 外出拍一个视频 到了拍一个视频 必须全部都是360°"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 372,
+          "like_count": 13482,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1154
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

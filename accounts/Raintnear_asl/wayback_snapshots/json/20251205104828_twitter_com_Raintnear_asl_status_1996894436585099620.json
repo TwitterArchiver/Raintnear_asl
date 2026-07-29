@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996508510507712513",
+        "3_1996508510579003392"
+      ],
+      "media_source_tweet_id": [
+        "1996508518787264567",
+        "1996508518787264567"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1996894436585099620",
+    "created_at": "2025-12-05T10:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T11:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996894436585099620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1654809167620882434",
+          "start": 3,
+          "username": "sine_0_0_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n7is0dnaYP",
+          "end": 43,
+          "expanded_url": "https://x.com/sine_0_0_/status/1996508518787264567/photo/1",
+          "media_key": "3_1996508510507712513",
+          "start": 20,
+          "url": "https://t.co/n7is0dnaYP"
+        },
+        {
+          "display_url": "pic.x.com/n7is0dnaYP",
+          "end": 43,
+          "expanded_url": "https://x.com/sine_0_0_/status/1996508518787264567/photo/1",
+          "media_key": "3_1996508510579003392",
+          "start": 20,
+          "url": "https://t.co/n7is0dnaYP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996894436585099620",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 93
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996508518787264567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @sine_0_0_: …？？？ https://t.co/n7is0dnaYP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1570,
+        "media_key": "3_1996508510507712513",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UF6Y_bQAE7uoC.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1566,
+        "media_key": "3_1996508510579003392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7UF6ZQbEAAWtlZ.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996508510507712513",
+            "3_1996508510579003392"
+          ],
+          "media_source_tweet_id": [
+            "1996508518787264567",
+            "1996508518787264567"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1996894436585099620",
+        "created_at": "2025-12-05T10:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T11:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996894436585099620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1654809167620882434",
+              "start": 3,
+              "username": "sine_0_0_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7is0dnaYP",
+              "end": 43,
+              "expanded_url": "https://x.com/sine_0_0_/status/1996508518787264567/photo/1",
+              "media_key": "3_1996508510507712513",
+              "start": 20,
+              "url": "https://t.co/n7is0dnaYP"
+            },
+            {
+              "display_url": "pic.x.com/n7is0dnaYP",
+              "end": 43,
+              "expanded_url": "https://x.com/sine_0_0_/status/1996508518787264567/photo/1",
+              "media_key": "3_1996508510579003392",
+              "start": 20,
+              "url": "https://t.co/n7is0dnaYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996894436585099620",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996508518787264567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @sine_0_0_: …？？？ https://t.co/n7is0dnaYP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996508510507712513",
+            "3_1996508510579003392"
+          ]
+        },
+        "author_id": "1654809167620882434",
+        "conversation_id": "1996508518787264567",
+        "created_at": "2025-12-04T09:14:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T10:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996508518787264567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n7is0dnaYP",
+              "end": 28,
+              "expanded_url": "https://x.com/sine_0_0_/status/1996508518787264567/photo/1",
+              "media_key": "3_1996508510507712513",
+              "start": 5,
+              "url": "https://t.co/n7is0dnaYP"
+            },
+            {
+              "display_url": "pic.x.com/n7is0dnaYP",
+              "end": 28,
+              "expanded_url": "https://x.com/sine_0_0_/status/1996508518787264567/photo/1",
+              "media_key": "3_1996508510579003392",
+              "start": 5,
+              "url": "https://t.co/n7is0dnaYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996508518787264567",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 68,
+          "impression_count": 15550,
+          "like_count": 1756,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 93
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "…？？？ https://t.co/n7is0dnaYP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192811927085056/sENQGjhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 186,
+          "like_count": 5558,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 402
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-06T11:24:02.000Z",
+        "description": "",
+        "id": "1654809167620882434",
+        "name": "u吊r",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981101205246836736/XzWHdcdr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2138,
+          "following_count": 14,
+          "like_count": 1744,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 66
+        },
+        "username": "sine_0_0_",
+        "verified": false
+      }
+    ]
+  }
+}

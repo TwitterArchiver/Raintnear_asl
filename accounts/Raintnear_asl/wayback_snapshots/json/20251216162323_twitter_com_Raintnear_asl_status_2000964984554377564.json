@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2000889591583371565",
+    "created_at": "2025-12-16T16:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T17:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000964984554377564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1695484339243618304",
+          "start": 0,
+          "username": "k_wdbqrwmcsi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000964984554377564",
+    "in_reply_to_user_id": "1695484339243618304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000889591583371565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k_wdbqrwmcsi 我吃米饭吐的时候总是散TvT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2000889591583371565",
+        "created_at": "2025-12-16T16:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T17:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000964984554377564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1695484339243618304",
+              "start": 0,
+              "username": "k_wdbqrwmcsi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000964984554377564",
+        "in_reply_to_user_id": "1695484339243618304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000889591583371565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k_wdbqrwmcsi 我吃米饭吐的时候总是散TvT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1695484339243618304",
+        "conversation_id": "2000889591583371565",
+        "created_at": "2025-12-16T11:23:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000889591583371565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000889591583371565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天吐得好丝滑呀，我就喝了一杯热奶茶来润hhh，而且我吃的是米饭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一具小女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 197,
+          "like_count": 6033,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 446
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-26T17:12:30.000Z",
+        "description": "提問箱https://t.co/mHRm2QZhZF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qntwx.cn/YKLYXP",
+                "end": 26,
+                "expanded_url": "https://qntwx.cn/YKLYXP",
+                "start": 3,
+                "url": "https://t.co/mHRm2QZhZF"
+              }
+            ]
+          }
+        },
+        "id": "1695484339243618304",
+        "location": "🚪52好友位",
+        "name": "ha2e1_",
+        "pinned_tweet_id": "1992241990755660207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000944186485514241/sNr0mESz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 162,
+          "like_count": 1353,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 273
+        },
+        "username": "k_wdbqrwmcsi",
+        "verified": false
+      }
+    ]
+  }
+}

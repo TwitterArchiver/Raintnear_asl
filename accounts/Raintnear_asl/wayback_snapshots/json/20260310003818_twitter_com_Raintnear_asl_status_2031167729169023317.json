@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2031167729169023317",
+    "created_at": "2026-03-10T00:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T01:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031167729169023317"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/osaka0317/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/osaka0317/status/2030916792160591962",
+          "start": 6,
+          "url": "https://t.co/AI0ZK2SaWP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031167729169023317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030916792160591962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样！ https://t.co/AI0ZK2SaWP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2031167729169023317",
+        "created_at": "2026-03-10T00:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031167729169023317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/osaka0317/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/osaka0317/status/2030916792160591962",
+              "start": 6,
+              "url": "https://t.co/AI0ZK2SaWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031167729169023317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030916792160591962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样！ https://t.co/AI0ZK2SaWP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902347749749895168",
+        "conversation_id": "2030916792160591962",
+        "created_at": "2026-03-09T08:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T09:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030916792160591962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030916792160591962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22370,
+          "like_count": 418,
+          "quote_count": 9,
+          "reply_count": 28,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "原来你们点赞是暗示想交朋友啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 316,
+          "like_count": 9469,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 784
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T13:14:00.000Z",
+        "description": "最后大家都会死的",
+        "id": "1902347749749895168",
+        "name": "kana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935637676985839616/LvKoQJIW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 41,
+          "like_count": 421,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 1037
+        },
+        "username": "osaka0317",
+        "verified": false
+      }
+    ]
+  }
+}

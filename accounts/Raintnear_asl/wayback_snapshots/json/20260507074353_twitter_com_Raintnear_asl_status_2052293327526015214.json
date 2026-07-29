@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049853411445862400"
+      ],
+      "media_source_tweet_id": [
+        "2049853568287719848"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052293327526015214",
+    "created_at": "2026-05-07T07:43:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T08:43:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052293327526015214"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1669519924337999872",
+          "start": 3,
+          "username": "Yangma77777"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DT1WVARO4Y",
+          "end": 46,
+          "expanded_url": "https://x.com/Yangma77777/status/2049853568287719848/photo/1",
+          "media_key": "3_2049853411445862400",
+          "start": 23,
+          "url": "https://t.co/DT1WVARO4Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052293327526015214",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8220
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049853568287719848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yangma77777: 상명하복🪖 https://t.co/DT1WVARO4Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3624,
+        "media_key": "3_2049853411445862400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHKK0S7acAAQJvQ.jpg",
+        "width": 2591
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049853411445862400"
+          ],
+          "media_source_tweet_id": [
+            "2049853568287719848"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052293327526015214",
+        "created_at": "2026-05-07T07:43:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T08:43:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052293327526015214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1669519924337999872",
+              "start": 3,
+              "username": "Yangma77777"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT1WVARO4Y",
+              "end": 46,
+              "expanded_url": "https://x.com/Yangma77777/status/2049853568287719848/photo/1",
+              "media_key": "3_2049853411445862400",
+              "start": 23,
+              "url": "https://t.co/DT1WVARO4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052293327526015214",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8220
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049853568287719848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yangma77777: 상명하복🪖 https://t.co/DT1WVARO4Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049853411445862400"
+          ]
+        },
+        "author_id": "1669519924337999872",
+        "conversation_id": "2049853568287719848",
+        "created_at": "2026-04-30T14:09:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T15:09:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049853568287719848"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DT1WVARO4Y",
+              "end": 29,
+              "expanded_url": "https://x.com/Yangma77777/status/2049853568287719848/photo/1",
+              "media_key": "3_2049853411445862400",
+              "start": 6,
+              "url": "https://t.co/DT1WVARO4Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049853568287719848",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4790,
+          "impression_count": 712510,
+          "like_count": 59848,
+          "quote_count": 783,
+          "reply_count": 134,
+          "retweet_count": 8220
+        },
+        "reply_settings": "everyone",
+        "text": "상명하복🪖 https://t.co/DT1WVARO4Y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 395,
+          "like_count": 14962,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1276
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-16T01:39:37.000Z",
+        "description": "📌레진코믹스: 단편 일렉트릭 리버스러브 완결/\n📌레진코믹스: FlashLight(플래시라이트) 연재중\n\n/yangma77777@gmail.com\n\n/https://t.co/vjTbpvOK9X",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Yangma77777",
+                "end": 106,
+                "expanded_url": "https://spin-spin.com/Yangma77777",
+                "start": 83,
+                "url": "https://t.co/vjTbpvOK9X"
+              }
+            ]
+          }
+        },
+        "id": "1669519924337999872",
+        "name": "양마 Yangma",
+        "pinned_tweet_id": "2030992247630581896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995826125579374592/35aK0Bes_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127540,
+          "following_count": 100,
+          "like_count": 1593,
+          "listed_count": 162,
+          "media_count": 334,
+          "tweet_count": 2179
+        },
+        "username": "Yangma77777",
+        "verified": true
+      }
+    ]
+  }
+}

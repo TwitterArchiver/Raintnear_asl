@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052772946637414453",
+    "created_at": "2026-05-09T12:23:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T13:23:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053088395526877320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2051898927377735680",
+          "start": 0,
+          "username": "jamshV8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053088395526877320",
+    "in_reply_to_user_id": "2051898927377735680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053055482408169673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jamshV8 但是手机的微信就退出了😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052772946637414453",
+        "created_at": "2026-05-09T12:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053088395526877320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2051898927377735680",
+              "start": 0,
+              "username": "jamshV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053088395526877320",
+        "in_reply_to_user_id": "2051898927377735680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053055482408169673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jamshV8 但是手机的微信就退出了😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051898927377735680",
+        "conversation_id": "2052772946637414453",
+        "created_at": "2026-05-09T10:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T11:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053055482408169673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053055482408169673",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053022833941590427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 在平板登陆微信试一下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 405,
+          "like_count": 15381,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1339
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-06T05:37:09.000Z",
+        "description": "",
+        "id": "2051898927377735680",
+        "name": "爱喝美式",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051900960973459457/Bu6e1_dG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 77,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "jamshV8",
+        "verified": false
+      }
+    ]
+  }
+}

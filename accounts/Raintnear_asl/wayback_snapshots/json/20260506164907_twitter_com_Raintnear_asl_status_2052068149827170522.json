@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2051449000436625630",
+    "created_at": "2026-05-06T16:49:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052068149827170522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1346799420709294081",
+          "start": 0,
+          "username": "erchenlu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052068149827170522",
+    "in_reply_to_user_id": "1346799420709294081",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051449000436625630",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@erchenlu1 我一分钟不看手机感觉就要死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2051449000436625630",
+        "created_at": "2026-05-06T16:49:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052068149827170522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1346799420709294081",
+              "start": 0,
+              "username": "erchenlu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052068149827170522",
+        "in_reply_to_user_id": "1346799420709294081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051449000436625630",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@erchenlu1 我一分钟不看手机感觉就要死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1346799420709294081",
+        "conversation_id": "2051449000436625630",
+        "created_at": "2026-05-04T23:48:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T00:48:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051449000436625630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051449000436625630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 369,
+          "impression_count": 369225,
+          "like_count": 3302,
+          "quote_count": 44,
+          "reply_count": 745,
+          "retweet_count": 118
+        },
+        "reply_settings": "everyone",
+        "text": "最近看了欧美的好几个研究说，普通人只要保持三天不看手机或者社交媒体的话，幸福度就会大幅度提升。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我 不要给我发任何关于性的消息",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 388,
+          "like_count": 14705,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1251
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-06T12:43:41.000Z",
+        "description": "跨学科思考者｜长期主义投资人/Long-termist investor｜独立分析师｜降噪，不追热点｜公众号：卢尔辰 ｜文章合集：https://t.co/XSlRlvSKpq| tg https://t.co/edG3gW3zcr |优先回复订阅者评论和私信",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/46dvtzb6",
+                "end": 88,
+                "expanded_url": "https://tinyurl.com/46dvtzb6",
+                "start": 65,
+                "url": "https://t.co/XSlRlvSKpq"
+              },
+              {
+                "display_url": "t.me/erchenlu",
+                "end": 116,
+                "expanded_url": "https://t.me/erchenlu",
+                "start": 93,
+                "url": "https://t.co/edG3gW3zcr"
+              }
+            ]
+          }
+        },
+        "id": "1346799420709294081",
+        "name": "卢尔辰",
+        "pinned_tweet_id": "2019923321811611672",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983310633366892544/-7DDQZ0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48929,
+          "following_count": 2052,
+          "like_count": 5091,
+          "listed_count": 476,
+          "media_count": 1216,
+          "tweet_count": 8060
+        },
+        "username": "erchenlu1",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2060134264763494530",
+    "created_at": "2026-05-28T23:00:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:00:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060134264763494530"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1656893344482758656",
+          "start": 3,
+          "username": "yayayyyyy520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060134264763494530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 25
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059822805957726627",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yayayyyyy520: 没有人靠近你是为了给你幸福，都是为了自己的幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2060134264763494530",
+        "created_at": "2026-05-28T23:00:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:00:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060134264763494530"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1656893344482758656",
+              "start": 3,
+              "username": "yayayyyyy520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060134264763494530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059822805957726627",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yayayyyyy520: 没有人靠近你是为了给你幸福，都是为了自己的幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656893344482758656",
+        "conversation_id": "2059822805957726627",
+        "created_at": "2026-05-28T02:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T03:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059822805957726627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059822805957726627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 6718,
+          "like_count": 140,
+          "quote_count": 5,
+          "reply_count": 99,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "没有人靠近你是为了给你幸福，都是为了自己的幸福"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一个冷漠的女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 418,
+          "like_count": 16718,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1485
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-12T05:25:44.000Z",
+        "description": "不约 不出原味 不接线下 私信随缘回 没有无码图别问别烦 发自己想发的说自己想说的",
+        "id": "1656893344482758656",
+        "location": "有🚪",
+        "name": "yayayyyyy",
+        "pinned_tweet_id": "2045500737485201671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966407421477498880/Cal4wn36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18565,
+          "following_count": 65,
+          "like_count": 1046,
+          "listed_count": 66,
+          "media_count": 493,
+          "tweet_count": 2683
+        },
+        "username": "yayayyyyy520",
+        "verified": false
+      }
+    ]
+  }
+}

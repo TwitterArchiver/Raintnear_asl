@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2048062508330807393",
+    "created_at": "2026-04-25T16:25:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048075939171430528"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1750936670763982848",
+          "start": 0,
+          "username": "XingCi28871"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048075939171430528",
+    "in_reply_to_user_id": "1750936670763982848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048071550444917219",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XingCi28871 😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2048062508330807393",
+        "created_at": "2026-04-25T16:25:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048075939171430528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1750936670763982848",
+              "start": 0,
+              "username": "XingCi28871"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048075939171430528",
+        "in_reply_to_user_id": "1750936670763982848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048071550444917219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XingCi28871 😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1750936670763982848",
+        "conversation_id": "2048062508330807393",
+        "created_at": "2026-04-25T16:08:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:08:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048071550444917219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "c999e6a453e9ef72"
+        },
+        "id": "2048071550444917219",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048062508330807393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 这个世界总有人为你而生，他爱你胜过爱自己，所以他不希望你受伤，正如你爱他会胜过爱自己。所以你也不希望他受伤一样。不必为现在的自残带来的伤疤感到焦虑，因为哪怕你是破碎的，在爱你的人眼里，每一片都属于他的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 370,
+          "like_count": 13127,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1121
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T17:40:21.000Z",
+        "description": "I have Aneesa，But she has been missing for 10 days (10天没回消息了I haven't heard back for five days.)",
+        "id": "1750936670763982848",
+        "name": "My puppy is missing.",
+        "pinned_tweet_id": "2045818040118579587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939612032292024320/WrTPSpzD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 203,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 87
+        },
+        "username": "XingCi28871",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2025953972083683739",
+    "created_at": "2026-02-23T15:20:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T16:20:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025953972083683739"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meltss03/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/meltss03/status/2025677670428639526",
+          "start": 12,
+          "url": "https://t.co/sO2xZqfkSW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025953972083683739",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025677670428639526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想变成漂亮孩子TT https://t.co/sO2xZqfkSW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2025953972083683739",
+        "created_at": "2026-02-23T15:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T16:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025953972083683739"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meltss03/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/meltss03/status/2025677670428639526",
+              "start": 12,
+              "url": "https://t.co/sO2xZqfkSW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025953972083683739",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025677670428639526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想变成漂亮孩子TT https://t.co/sO2xZqfkSW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022232330752925696",
+        "conversation_id": "2025677670428639526",
+        "created_at": "2026-02-22T21:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T22:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025677670428639526"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025677670428639526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 17524,
+          "like_count": 272,
+          "quote_count": 7,
+          "reply_count": 48,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "好多人都好丑，这是事实"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024860359342067712/iQdxlCas_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 270,
+          "like_count": 7338,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 610
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T08:56:27.000Z",
+        "description": "骂我的，毁容，爆痘，挂科，破产，脱发，倒霉，变胖，变矮，替我全家挡灾，出门被车创死，体重发胖，脸上爆痘爆闭口，五官变得扭曲，脱发严重，烂脸烂皮肤，有狐臭口臭脚臭，全家破产，背负债务多而大，科科挂科，霉运缠身，各个器官衰竭，失明失聪变哑巴，成绩下滑，努力变失败，折寿一百年，大型考试全部挂科。",
+        "id": "2022232330752925696",
+        "name": "CO₂",
+        "pinned_tweet_id": "2024797552890073300",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 34,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1047
+        },
+        "username": "Meltss03",
+        "verified": false
+      }
+    ]
+  }
+}

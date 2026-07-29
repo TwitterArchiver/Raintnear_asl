@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2047004990267617429",
+    "created_at": "2026-04-22T17:29:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:29:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047004990267617429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047004990267617429",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046840444861157813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 我不喜欢莫名其妙的疏远\n如果对方是我非常在乎的人 我会尝试着主动沟通\n倘若对方回避 那么就证明在对方的视角里 渐行渐远是这段关系最好的归宿 这让人很无力 不过我也逐渐明白亲密关系由于误会而轻易分开的可能性微乎其微 明明每一个节点都有机会补…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2047004990267617429",
+        "created_at": "2026-04-22T17:29:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:29:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047004990267617429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047004990267617429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046840444861157813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 我不喜欢莫名其妙的疏远\n如果对方是我非常在乎的人 我会尝试着主动沟通\n倘若对方回避 那么就证明在对方的视角里 渐行渐远是这段关系最好的归宿 这让人很无力 不过我也逐渐明白亲密关系由于误会而轻易分开的可能性微乎其微 明明每一个节点都有机会补…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2046840444861157813",
+        "created_at": "2026-04-22T06:36:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T07:36:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046840444861157813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046840444861157813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 7246,
+          "like_count": 266,
+          "quote_count": 4,
+          "reply_count": 12,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "我不喜欢莫名其妙的疏远\n如果对方是我非常在乎的人 我会尝试着主动沟通\n倘若对方回避 那么就证明在对方的视角里 渐行渐远是这段关系最好的归宿 这让人很无力 不过我也逐渐明白亲密关系由于误会而轻易分开的可能性微乎其微 明明每一个节点都有机会补救 有人却故意选择放掉 好吧 那真的没办法了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 359,
+          "like_count": 12394,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1062
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6051,
+          "following_count": 58,
+          "like_count": 6218,
+          "listed_count": 4,
+          "media_count": 146,
+          "tweet_count": 1525
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

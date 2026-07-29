@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2063313049583493202",
+    "created_at": "2026-06-06T17:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063313049583493202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1727257694556536832",
+          "start": 3,
+          "username": "129s78"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063313049583493202",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 642
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063262291269992591",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @129s78: 嫉妬という感情、独占欲ではなく寂しさの方が近い気がする"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2063313049583493202",
+        "created_at": "2026-06-06T17:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063313049583493202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1727257694556536832",
+              "start": 3,
+              "username": "129s78"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063313049583493202",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 642
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063262291269992591",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @129s78: 嫉妬という感情、独占欲ではなく寂しさの方が近い気がする"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1727257694556536832",
+        "conversation_id": "2063262291269992591",
+        "created_at": "2026-06-06T14:10:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T15:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063262291269992591"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063262291269992591",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 465,
+          "impression_count": 133031,
+          "like_count": 5312,
+          "quote_count": 111,
+          "reply_count": 0,
+          "retweet_count": 642
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "嫉妬という感情、独占欲ではなく寂しさの方が近い気がする"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 418,
+          "like_count": 16995,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1545
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-22T09:29:18.000Z",
+        "description": "性癖・好きな概念壁打ちアカウント/20↑/素敵なアイコンは大豆さん(@Ookuromaaame)から頂きました",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 34,
+                "username": "Ookuromaaame"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/mje3ge51qnezk5i",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/mje3ge51qnezk5i",
+                "start": 0,
+                "url": "https://t.co/PZqCLl3104"
+              }
+            ]
+          }
+        },
+        "id": "1727257694556536832",
+        "name": "ポン酢",
+        "pinned_tweet_id": "1871426244388237583",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741154212170575872/PczuZx9D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63665,
+          "following_count": 21,
+          "like_count": 29167,
+          "listed_count": 241,
+          "media_count": 17,
+          "tweet_count": 1644
+        },
+        "url": "https://t.co/PZqCLl3104",
+        "username": "129s78",
+        "verified": false
+      }
+    ]
+  }
+}

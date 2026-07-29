@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Society",
+          "id": "847896364256067584",
+          "name": "Society"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Marriage",
+          "id": "847896538105782272",
+          "name": "Marriage"
+        }
+      }
+    ],
+    "conversation_id": "2060134089189933365",
+    "created_at": "2026-05-28T23:00:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:00:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060134089189933365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2031997280400900096",
+          "start": 3,
+          "username": "juy6qn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060134089189933365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059967927210942876",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @juy6qn: 結婚する前提で付き合いたいよ\n死ぬ気でお互い愛したい"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2060134089189933365",
+        "created_at": "2026-05-28T23:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060134089189933365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2031997280400900096",
+              "start": 3,
+              "username": "juy6qn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060134089189933365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059967927210942876",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @juy6qn: 結婚する前提で付き合いたいよ\n死ぬ気でお互い愛したい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031997280400900096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Marriage",
+              "id": "847896538105782272",
+              "name": "Marriage"
+            }
+          }
+        ],
+        "conversation_id": "2059967927210942876",
+        "created_at": "2026-05-28T12:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T13:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059967927210942876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059967927210942876",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 89,
+          "impression_count": 64149,
+          "like_count": 2166,
+          "quote_count": 25,
+          "reply_count": 33,
+          "retweet_count": 200
+        },
+        "reply_settings": "everyone",
+        "text": "結婚する前提で付き合いたいよ\n死ぬ気でお互い愛したい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一个冷漠的女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 418,
+          "like_count": 16716,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1484
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T07:34:45.000Z",
+        "description": "返信ゆっくり",
+        "id": "2031997280400900096",
+        "location": "挨拶❌DM❌加工厨",
+        "name": "ぴあ。",
+        "pinned_tweet_id": "2055258699598594443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052693311857803264/N6Jp8NJQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 463,
+          "like_count": 4248,
+          "listed_count": 39,
+          "media_count": 5,
+          "tweet_count": 1481
+        },
+        "username": "juy6qn",
+        "verified": false
+      }
+    ]
+  }
+}

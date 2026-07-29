@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2028973227217985633",
+    "created_at": "2026-03-03T23:18:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T00:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028973227217985633"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1835181750806626308",
+          "start": 3,
+          "username": "goldenegg567"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028973227217985633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028696852003234121",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @goldenegg567: 觉得哥哥这个称呼色情的都是独生女吧…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2028973227217985633",
+        "created_at": "2026-03-03T23:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T00:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028973227217985633"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1835181750806626308",
+              "start": 3,
+              "username": "goldenegg567"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028973227217985633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028696852003234121",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @goldenegg567: 觉得哥哥这个称呼色情的都是独生女吧…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835181750806626308",
+        "conversation_id": "2028696852003234121",
+        "created_at": "2026-03-03T04:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T05:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028696852003234121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028696852003234121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 204301,
+          "like_count": 1259,
+          "quote_count": 31,
+          "reply_count": 145,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "觉得哥哥这个称呼色情的都是独生女吧…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 303,
+          "like_count": 8704,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 729
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T05:00:12.000Z",
+        "description": "im waiting",
+        "id": "1835181750806626308",
+        "name": "戈多",
+        "pinned_tweet_id": "2014553398440558976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945696029548113920/coj5RIoK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 79,
+          "like_count": 2784,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 440
+        },
+        "username": "goldenegg567",
+        "verified": false
+      }
+    ]
+  }
+}

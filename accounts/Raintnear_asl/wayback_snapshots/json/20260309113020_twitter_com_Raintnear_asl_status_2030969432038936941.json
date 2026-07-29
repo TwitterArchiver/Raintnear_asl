@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2030969432038936941",
+    "created_at": "2026-03-09T11:30:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T12:30:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030969432038936941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xjaxja217379/s…",
+          "end": 81,
+          "expanded_url": "https://twitter.com/xjaxja217379/status/2030965034340524160",
+          "start": 58,
+          "url": "https://t.co/cdb58G979M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030969432038936941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030965034340524160",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以后找男朋友的标准必须是初牵初吻初抱，微信只能有我一个女生 男生也不能超过十个，所有平台要官宣我和我换情头😡😡😡 https://t.co/cdb58G979M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2030969432038936941",
+        "created_at": "2026-03-09T11:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030969432038936941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xjaxja217379/s…",
+              "end": 81,
+              "expanded_url": "https://twitter.com/xjaxja217379/status/2030965034340524160",
+              "start": 58,
+              "url": "https://t.co/cdb58G979M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030969432038936941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030965034340524160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以后找男朋友的标准必须是初牵初吻初抱，微信只能有我一个女生 男生也不能超过十个，所有平台要官宣我和我换情头😡😡😡 https://t.co/cdb58G979M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926509265792950272",
+        "conversation_id": "2030965034340524160",
+        "created_at": "2026-03-09T11:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T12:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030965034340524160"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030965034340524160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我以后找女朋友的标准必须是初牵初吻初抱，微信只能有我一个男生 女生也不能超过十个，所有平台要官宣我和我换情头😡😡😡啊嗯开个玩笑吧嗯对呵呵..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 315,
+          "like_count": 9313,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 775
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:23:06.000Z",
+        "description": "ithinkimgoinginsane\n\nhttps://t.co/tCwRfxMSFF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kurisu0825",
+                "end": 44,
+                "expanded_url": "https://ngl.link/kurisu0825",
+                "start": 21,
+                "url": "https://t.co/tCwRfxMSFF"
+              }
+            ]
+          }
+        },
+        "id": "1926509265792950272",
+        "name": "彼岸花开时",
+        "pinned_tweet_id": "2029209327047987333",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996111026945970176/ncyjQHIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 206,
+          "like_count": 146080,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 1347
+        },
+        "username": "xjaxja217379",
+        "verified": false
+      }
+    ]
+  }
+}

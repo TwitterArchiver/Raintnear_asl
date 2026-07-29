@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2001851926921478144"
+      ],
+      "media_source_tweet_id": [
+        "2001851931069948014"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2002031874932367522",
+    "created_at": "2025-12-19T15:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002031874932367522"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942148690887495680",
+          "start": 3,
+          "username": "kori_zai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xpfz7gGdhX",
+          "end": 40,
+          "expanded_url": "https://x.com/kori_zai/status/2001851931069948014/photo/1",
+          "media_key": "3_2001851926921478144",
+          "start": 17,
+          "url": "https://t.co/xpfz7gGdhX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002031874932367522",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001851931069948014",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kori_zai: 🥹🥹 https://t.co/xpfz7gGdhX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2001851926921478144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8gBuKUWAAAQORC.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001851926921478144"
+          ],
+          "media_source_tweet_id": [
+            "2001851931069948014"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2002031874932367522",
+        "created_at": "2025-12-19T15:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002031874932367522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942148690887495680",
+              "start": 3,
+              "username": "kori_zai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpfz7gGdhX",
+              "end": 40,
+              "expanded_url": "https://x.com/kori_zai/status/2001851931069948014/photo/1",
+              "media_key": "3_2001851926921478144",
+              "start": 17,
+              "url": "https://t.co/xpfz7gGdhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002031874932367522",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001851931069948014",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kori_zai: 🥹🥹 https://t.co/xpfz7gGdhX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001851926921478144"
+          ]
+        },
+        "author_id": "1942148690887495680",
+        "conversation_id": "2001851931069948014",
+        "created_at": "2025-12-19T03:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T04:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001851931069948014"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xpfz7gGdhX",
+              "end": 26,
+              "expanded_url": "https://x.com/kori_zai/status/2001851931069948014/photo/1",
+              "media_key": "3_2001851926921478144",
+              "start": 3,
+              "url": "https://t.co/xpfz7gGdhX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001851931069948014",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1100,
+          "impression_count": 202636,
+          "like_count": 21502,
+          "quote_count": 95,
+          "reply_count": 62,
+          "retweet_count": 2190
+        },
+        "reply_settings": "everyone",
+        "text": "🥹🥹 https://t.co/xpfz7gGdhX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一具小女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 198,
+          "like_count": 6062,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 450
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-07T09:08:35.000Z",
+        "description": "✶ . ࣪ ׅ6teen ☆ #shedtwt #obslovetwt ☆ dnf under 14 ☆ i love dazai ☆ check extended • matching w/ mon amor @cuttingolly ᥫ᭡.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 23,
+                "start": 15,
+                "tag": "shedtwt"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "tag": "obslovetwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 118,
+                "start": 106,
+                "username": "cuttingolly"
+              }
+            ]
+          }
+        },
+        "id": "1942148690887495680",
+        "location": "★┊he/him .ᐟ",
+        "name": "ᐟᐟ ⟢ kori 🪽˚. ᵎᵎ˖",
+        "pinned_tweet_id": "1996105075924533442",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986032863783833600/oHBRJArK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 682,
+          "like_count": 7587,
+          "listed_count": 4,
+          "media_count": 709,
+          "tweet_count": 3264
+        },
+        "username": "kori_zai",
+        "verified": false
+      }
+    ]
+  }
+}

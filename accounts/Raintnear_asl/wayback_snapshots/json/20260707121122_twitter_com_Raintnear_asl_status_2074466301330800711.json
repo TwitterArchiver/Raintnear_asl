@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2074466301330800711",
+    "created_at": "2026-07-07T12:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074466301330800711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058602922208833536",
+          "start": 3,
+          "username": "moefulgore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074466301330800711",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2459
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073918634947182637",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @moefulgore: “ your only 18 ” “ your only 13 ” “ your only 11 ” how much suffering do i have to endure for it be enough ? how old do i h…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2074466301330800711",
+        "created_at": "2026-07-07T12:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074466301330800711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058602922208833536",
+              "start": 3,
+              "username": "moefulgore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074466301330800711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2459
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073918634947182637",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @moefulgore: “ your only 18 ” “ your only 13 ” “ your only 11 ” how much suffering do i have to endure for it be enough ? how old do i h…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058602922208833536",
+        "conversation_id": "2073918634947182637",
+        "created_at": "2026-07-05T23:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T00:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073918634947182637"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073918634947182637",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 283,
+          "impression_count": 57927,
+          "like_count": 9457,
+          "quote_count": 25,
+          "reply_count": 8,
+          "retweet_count": 2459
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "“ your only 18 ” “ your only 13 ” “ your only 11 ” how much suffering do i have to endure for it be enough ? how old do i have to be to have suffered enough ?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 418,
+          "like_count": 17210,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1575
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-24T17:37:08.000Z",
+        "description": "ㅤ𝓨ou‘ll  never  be  pure  again   ྀ ͚         18y",
+        "id": "2058602922208833536",
+        "location": "  chronic post deleter  ",
+        "name": "ഒ",
+        "pinned_tweet_id": "2073897607739384258",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073896003996901376/HLSgFhAp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 84,
+          "like_count": 1440,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "moefulgore",
+        "verified": false
+      }
+    ]
+  }
+}

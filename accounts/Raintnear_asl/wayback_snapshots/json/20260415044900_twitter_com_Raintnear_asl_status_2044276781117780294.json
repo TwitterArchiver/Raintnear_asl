@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2044276781117780294",
+    "created_at": "2026-04-15T04:49:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T05:49:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044276781117780294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889200694986756096",
+          "start": 3,
+          "username": "OvOxiaomi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044276781117780294",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 86
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044045373451448403",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvOxiaomi8964: 如果两个人的关系注定要结束的话 那说过的话 打过的字 跳动过的两颗心 许下的承诺  一起计划的未来 这些该怎么办"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2044276781117780294",
+        "created_at": "2026-04-15T04:49:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:49:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044276781117780294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889200694986756096",
+              "start": 3,
+              "username": "OvOxiaomi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044276781117780294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044045373451448403",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvOxiaomi8964: 如果两个人的关系注定要结束的话 那说过的话 打过的字 跳动过的两颗心 许下的承诺  一起计划的未来 这些该怎么办"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2044045373451448403",
+        "created_at": "2026-04-14T13:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044045373451448403"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044045373451448403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 29987,
+          "like_count": 624,
+          "quote_count": 16,
+          "reply_count": 106,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "如果两个人的关系注定要结束的话 那说过的话 打过的字 跳动过的两颗心 许下的承诺  一起计划的未来 这些该怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 340,
+          "like_count": 11331,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 932
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "搬我帖子到墙内的人死全家。\n请不要骚扰我谢谢! @OnOxiaomi（⬅️仅过互关）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 24,
+                "username": "OnOxiaomi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%96%B5%E5%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%96%B5%E5%96%B5%E5%96%B556588",
+                "start": 0,
+                "url": "https://t.co/bFvbqgw3Nk"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "location": "匿名提问在➡️",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033793301028249601/U-7a-4bM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3913,
+          "following_count": 280,
+          "like_count": 30265,
+          "listed_count": 12,
+          "media_count": 984,
+          "tweet_count": 16508
+        },
+        "url": "https://t.co/bFvbqgw3Nk",
+        "username": "OvOxiaomi8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2054535517698699749",
+    "created_at": "2026-05-13T12:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T13:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054535517698699749"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ijia522218/sta…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/ijia522218/status/2054499401897263537",
+          "start": 48,
+          "url": "https://t.co/QOPhXv1e3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054535517698699749",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054499401897263537",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还有说把ed改成嘴臭妹就没人得的傻逼 真的傲慢的要死 什么时候才能意识到不管是什么病 它都是病 https://t.co/QOPhXv1e3K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2054535517698699749",
+        "created_at": "2026-05-13T12:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T13:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054535517698699749"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ijia522218/sta…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/ijia522218/status/2054499401897263537",
+              "start": 48,
+              "url": "https://t.co/QOPhXv1e3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054535517698699749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054499401897263537",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有说把ed改成嘴臭妹就没人得的傻逼 真的傲慢的要死 什么时候才能意识到不管是什么病 它都是病 https://t.co/QOPhXv1e3K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751595389562822657",
+        "conversation_id": "2054499401897263537",
+        "created_at": "2026-05-13T09:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054499401897263537"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054499401897263537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 737,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "健全人说把什么抑郁症改成什么生殖器官症之类的就没人得了，这句话真是把低智傲慢不了解心理疾病的智商欠缺感拉满了及道德低下。被平台血图突脸吓到你无差别攻击所有心理疾病患者看到一个人发负面情绪就骂纯纯傻逼，别人是心理疾病健全人纯属双商归零"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 402,
+          "like_count": 15829,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1386
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T13:17:46.000Z",
+        "description": "于世赠大家一场雨🌸\n我是里奈/小女孩 跨性别 可爱的小男孩请与我互fo吧🥺（h男跟我说话暴毙）/日本語がとても下手です/点赞就是想和你互动/非常好脾气~",
+        "id": "1751595389562822657",
+        "name": "里奈🌸",
+        "pinned_tweet_id": "2052273263284494785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049316824324677632/QpNGCt_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 231,
+          "like_count": 1428,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 620
+        },
+        "username": "ijia522218",
+        "verified": false
+      }
+    ]
+  }
+}

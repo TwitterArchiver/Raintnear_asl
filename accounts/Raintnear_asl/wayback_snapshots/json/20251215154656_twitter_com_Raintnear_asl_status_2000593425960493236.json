@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2000593425960493236",
+    "created_at": "2025-12-15T15:46:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T16:46:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000593425960493236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1795072631169044480",
+          "start": 3,
+          "username": "FoxGod__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000593425960493236",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000254662293991830",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FoxGod__: 想找茬了就去和抑郁症患者说：别老是不开心 多笑笑\n和焦虑症患者说：你就是想的太多了\n对厌食症患者说：别挑食\n对睡眠障碍患者说：你睡不着就是还不够困而已"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2000593425960493236",
+        "created_at": "2025-12-15T15:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T16:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000593425960493236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1795072631169044480",
+              "start": 3,
+              "username": "FoxGod__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000593425960493236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000254662293991830",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FoxGod__: 想找茬了就去和抑郁症患者说：别老是不开心 多笑笑\n和焦虑症患者说：你就是想的太多了\n对厌食症患者说：别挑食\n对睡眠障碍患者说：你睡不着就是还不够困而已"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1795072631169044480",
+        "conversation_id": "2000254662293991830",
+        "created_at": "2025-12-14T17:20:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T18:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000254662293991830"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000254662293991830",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1564,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "想找茬了就去和抑郁症患者说：别老是不开心 多笑笑\n和焦虑症患者说：你就是想的太多了\n对厌食症患者说：别挑食\n对睡眠障碍患者说：你睡不着就是还不够困而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一具小女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 196,
+          "like_count": 5945,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 441
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-27T12:40:58.000Z",
+        "description": "继续维持生命吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/duoduofuo",
+                "end": 23,
+                "expanded_url": "https://ngl.link/duoduofuo",
+                "start": 0,
+                "url": "https://t.co/ZLduecxvmn"
+              }
+            ]
+          }
+        },
+        "id": "1795072631169044480",
+        "location": "失傳媒體",
+        "name": "時行の部屋",
+        "pinned_tweet_id": "1841674811069825079",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000164052111425536/6qYyAbks_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7439,
+          "following_count": 233,
+          "like_count": 31918,
+          "listed_count": 19,
+          "media_count": 194,
+          "tweet_count": 954
+        },
+        "url": "https://t.co/ZLduecxvmn",
+        "username": "FoxGod__",
+        "verified": false
+      }
+    ]
+  }
+}

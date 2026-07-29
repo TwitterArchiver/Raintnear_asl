@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2067666006122913939",
+    "created_at": "2026-06-18T17:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T18:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067666006122913939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055214117514813440",
+          "start": 3,
+          "username": "ohgrizh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067666006122913939",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1388
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067257875194671186",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ohgrizh: i am sexually attracted to cutting myself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2067666006122913939",
+        "created_at": "2026-06-18T17:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T18:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067666006122913939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055214117514813440",
+              "start": 3,
+              "username": "ohgrizh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067666006122913939",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1388
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067257875194671186",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ohgrizh: i am sexually attracted to cutting myself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055214117514813440",
+        "conversation_id": "2067257875194671186",
+        "created_at": "2026-06-17T14:47:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067257875194671186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2067257875194671186",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 37765,
+          "like_count": 4567,
+          "quote_count": 18,
+          "reply_count": 27,
+          "retweet_count": 1388
+        },
+        "reply_settings": "everyone",
+        "text": "i am sexually attracted to cutting myself"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065275168306733056/E5iByraj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 418,
+          "like_count": 17208,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1582
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-15T09:10:13.000Z",
+        "description": "19 he/him",
+        "id": "2055214117514813440",
+        "name": "riley",
+        "pinned_tweet_id": "2065738028396711969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063054692754825217/0qb59CyD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 169,
+          "like_count": 1107,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 80
+        },
+        "username": "ohgrizh",
+        "verified": false
+      }
+    ]
+  }
+}

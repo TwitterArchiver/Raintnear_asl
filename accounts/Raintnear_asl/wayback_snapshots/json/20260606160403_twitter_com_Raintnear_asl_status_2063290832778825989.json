@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2063290832778825989",
+    "created_at": "2026-06-06T16:04:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T17:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063290832778825989"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882937199735590912",
+          "start": 3,
+          "username": "mmng_yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063290832778825989",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 445
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063200590579315081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmng_yu: 好きな人が他の人に恋してるとか耐えられない"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2063290832778825989",
+        "created_at": "2026-06-06T16:04:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063290832778825989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882937199735590912",
+              "start": 3,
+              "username": "mmng_yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063290832778825989",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 445
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063200590579315081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmng_yu: 好きな人が他の人に恋してるとか耐えられない"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882937199735590912",
+        "conversation_id": "2063200590579315081",
+        "created_at": "2026-06-06T10:05:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T11:05:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063200590579315081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063200590579315081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 218280,
+          "like_count": 5206,
+          "quote_count": 91,
+          "reply_count": 38,
+          "retweet_count": 445
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人が他の人に恋してるとか耐えられない"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 419,
+          "like_count": 16973,
+          "listed_count": 1,
+          "media_count": 17,
+          "tweet_count": 1528
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-24T23:43:13.000Z",
+        "description": "幸せになりたい人の味方🤍",
+        "id": "1882937199735590912",
+        "location": "報われたいね‎🤍🪄︎︎",
+        "name": "もも",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891779799380893696/wS2YIh5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22076,
+          "following_count": 1,
+          "like_count": 1366,
+          "listed_count": 35,
+          "media_count": 2,
+          "tweet_count": 1338
+        },
+        "username": "mmng_yu",
+        "verified": false
+      }
+    ]
+  }
+}

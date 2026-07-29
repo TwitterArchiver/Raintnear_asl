@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2053035551029436627",
+    "created_at": "2026-05-09T08:53:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T09:53:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053035551029436627"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1909266536604512256",
+          "start": 3,
+          "username": "xun404214"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053035551029436627",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052797943053508776",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xun404214: 好羡慕那些感情淡淡的人啊，还有说断就断的，咋这么牛逼，我要是有这个心态人生烦恼减少80%。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2053035551029436627",
+        "created_at": "2026-05-09T08:53:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:53:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053035551029436627"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1909266536604512256",
+              "start": 3,
+              "username": "xun404214"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053035551029436627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052797943053508776",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xun404214: 好羡慕那些感情淡淡的人啊，还有说断就断的，咋这么牛逼，我要是有这个心态人生烦恼减少80%。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1909266536604512256",
+        "conversation_id": "2052797943053508776",
+        "created_at": "2026-05-08T17:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T18:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052797943053508776"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052797943053508776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12812,
+          "like_count": 338,
+          "quote_count": 6,
+          "reply_count": 42,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "好羡慕那些感情淡淡的人啊，还有说断就断的，咋这么牛逼，我要是有这个心态人生烦恼减少80%。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 401,
+          "like_count": 15300,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1326
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-07T15:26:40.000Z",
+        "description": "🌈|les|0.5|dom",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xun40421453166",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xun40421453166",
+                "start": 0,
+                "url": "https://t.co/BwKNjBbg24"
+              }
+            ]
+          }
+        },
+        "id": "1909266536604512256",
+        "location": "距离你0.5km",
+        "name": "玄",
+        "pinned_tweet_id": "2009211803260309517",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052067307544023040/bTSz1_8H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10810,
+          "following_count": 335,
+          "like_count": 6122,
+          "listed_count": 8,
+          "media_count": 199,
+          "tweet_count": 9202
+        },
+        "url": "https://t.co/BwKNjBbg24",
+        "username": "xun404214",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2063574603155513557",
+    "created_at": "2026-06-07T10:51:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T11:51:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063574603155513557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1492309312345153542",
+          "start": 3,
+          "username": "astralbaes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063574603155513557",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 443
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063432131510943925",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @astralbaes: i like clingy. i like double texts. i like random calls. i like paragraphs"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2063574603155513557",
+        "created_at": "2026-06-07T10:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T11:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063574603155513557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1492309312345153542",
+              "start": 3,
+              "username": "astralbaes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063574603155513557",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 443
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063432131510943925",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @astralbaes: i like clingy. i like double texts. i like random calls. i like paragraphs"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1492309312345153542",
+        "conversation_id": "2063432131510943925",
+        "created_at": "2026-06-07T01:25:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T02:25:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063432131510943925"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063432131510943925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 22450,
+          "like_count": 1213,
+          "quote_count": 15,
+          "reply_count": 8,
+          "retweet_count": 443
+        },
+        "reply_settings": "everyone",
+        "text": "i like clingy. i like double texts. i like random calls. i like paragraphs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 419,
+          "like_count": 17130,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1551
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-12T01:27:28.000Z",
+        "description": "222 ༻✧",
+        "id": "1492309312345153542",
+        "location": "she/her",
+        "name": "♡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1631832561797218304/x0BfxNvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260576,
+          "following_count": 14533,
+          "like_count": 11743,
+          "listed_count": 554,
+          "media_count": 6186,
+          "tweet_count": 11171
+        },
+        "username": "astralbaes",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2037171147305812452",
+    "created_at": "2026-03-26T14:13:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T15:13:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037171147305812452"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uii1556158/sta…",
+          "end": 128,
+          "expanded_url": "https://twitter.com/uii1556158/status/2036807848336986255",
+          "start": 105,
+          "url": "https://t.co/h7dqhGB7YQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037171147305812452",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036807848336986255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "知道说是调情那样子的打 但是想起来我的一个xp是因为从小被我爸家暴长大的 那段经历太痛苦 我只能在那段经历里面尽量找到爽感 这样子想起来的时候才不会那么痛苦 所以我现在的一个xp就是家暴 如果爱我的话就打我吧 https://t.co/h7dqhGB7YQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2037171147305812452",
+        "created_at": "2026-03-26T14:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T15:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037171147305812452"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uii1556158/sta…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/uii1556158/status/2036807848336986255",
+              "start": 105,
+              "url": "https://t.co/h7dqhGB7YQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037171147305812452",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036807848336986255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "知道说是调情那样子的打 但是想起来我的一个xp是因为从小被我爸家暴长大的 那段经历太痛苦 我只能在那段经历里面尽量找到爽感 这样子想起来的时候才不会那么痛苦 所以我现在的一个xp就是家暴 如果爱我的话就打我吧 https://t.co/h7dqhGB7YQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802770497870151680",
+        "conversation_id": "2036807848336986255",
+        "created_at": "2026-03-25T14:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T15:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036807848336986255"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036807848336986255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 162770,
+          "like_count": 1336,
+          "quote_count": 48,
+          "reply_count": 93,
+          "retweet_count": 99
+        },
+        "reply_settings": "everyone",
+        "text": "没人觉得挨打的时候求饶 但是对方不放过自己很爽吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 341,
+          "like_count": 10928,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 872
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-17T18:31:09.000Z",
+        "description": "",
+        "id": "1802770497870151680",
+        "name": "忧郁曲奇饼",
+        "pinned_tweet_id": "2026624279501304100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1802771064965242880/T1vsT8om_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1861,
+          "following_count": 233,
+          "like_count": 7544,
+          "listed_count": 4,
+          "media_count": 15,
+          "tweet_count": 476
+        },
+        "username": "uii1556158",
+        "verified": false
+      }
+    ]
+  }
+}

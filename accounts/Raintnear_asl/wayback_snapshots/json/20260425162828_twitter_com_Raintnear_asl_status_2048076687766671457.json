@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2047755394114847221",
+    "created_at": "2026-04-25T16:28:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:28:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048076687766671457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1842415074922938368",
+          "start": 0,
+          "username": "YKravec51629"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048076687766671457",
+    "in_reply_to_user_id": "1842415074922938368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048039953159070130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YKravec51629 😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2047755394114847221",
+        "created_at": "2026-04-25T16:28:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:28:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048076687766671457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1842415074922938368",
+              "start": 0,
+              "username": "YKravec51629"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048076687766671457",
+        "in_reply_to_user_id": "1842415074922938368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048039953159070130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YKravec51629 😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842415074922938368",
+        "conversation_id": "2047755394114847221",
+        "created_at": "2026-04-25T14:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T15:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048039953159070130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048039953159070130",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047755394114847221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 1世界可能没去另一边\n2你不必辛苦的背负一个死去的人的恨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 370,
+          "like_count": 13132,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1123
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:03:05.000Z",
+        "description": "自己的赛博史官，致力于每天看看网友的构思\n纸飞机：https://t.co/VwoV25zHKy",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.org/dlx",
+                "end": 48,
+                "expanded_url": "https://telegram.org/dlx",
+                "start": 25,
+                "url": "https://t.co/VwoV25zHKy"
+              }
+            ]
+          }
+        },
+        "id": "1842415074922938368",
+        "name": "想要成为糕手",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047290258933604352/Iyl4y646_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 8,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 140
+        },
+        "username": "YKravec51629",
+        "verified": false
+      }
+    ]
+  }
+}

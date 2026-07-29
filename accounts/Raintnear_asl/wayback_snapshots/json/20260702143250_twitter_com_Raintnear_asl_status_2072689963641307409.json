@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2072689963641307409",
+    "created_at": "2026-07-02T14:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T15:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072689963641307409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1996480478422196226",
+          "start": 3,
+          "username": "bladieternal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072689963641307409",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4949
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072321710871978311",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bladieternal: Im tired of communication im gonna start killing people"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2072689963641307409",
+        "created_at": "2026-07-02T14:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T15:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072689963641307409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1996480478422196226",
+              "start": 3,
+              "username": "bladieternal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072689963641307409",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4949
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072321710871978311",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bladieternal: Im tired of communication im gonna start killing people"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996480478422196226",
+        "conversation_id": "2072321710871978311",
+        "created_at": "2026-07-01T14:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T15:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072321710871978311"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072321710871978311",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 561,
+          "impression_count": 243013,
+          "like_count": 15181,
+          "quote_count": 128,
+          "reply_count": 35,
+          "retweet_count": 4949
+        },
+        "reply_settings": "everyone",
+        "text": "Im tired of communication im gonna start killing people"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 418,
+          "like_count": 17192,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1593
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T07:23:44.000Z",
+        "description": "My Name is Maxine",
+        "id": "1996480478422196226",
+        "location": "ndni",
+        "name": "blade",
+        "pinned_tweet_id": "2070029503255003424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072093273485869056/lpkyETFh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 615,
+          "like_count": 33675,
+          "listed_count": 6,
+          "media_count": 131,
+          "tweet_count": 684
+        },
+        "url": "",
+        "username": "bladieternal",
+        "verified": false
+      }
+    ]
+  }
+}

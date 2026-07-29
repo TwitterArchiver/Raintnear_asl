@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2050202669143478756",
+    "created_at": "2026-05-04T04:17:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T05:17:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051154269915521164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1674493484735115270",
+          "start": 0,
+          "username": "k7andK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051154269915521164",
+    "in_reply_to_user_id": "1674493484735115270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050577081382449364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@k7andK 我现在也是限制了😿不过有点坚持不下去了 每天都想暴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2050202669143478756",
+        "created_at": "2026-05-04T04:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T05:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051154269915521164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1674493484735115270",
+              "start": 0,
+              "username": "k7andK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051154269915521164",
+        "in_reply_to_user_id": "1674493484735115270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050577081382449364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@k7andK 我现在也是限制了😿不过有点坚持不下去了 每天都想暴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674493484735115270",
+        "conversation_id": "2050202669143478756",
+        "created_at": "2026-05-02T14:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050577081382449364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050577081382449364",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050202669143478756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 我是清除型，除了烧钱外，偶尔晕需要补充钾片，还是很幸福唉，不过头疼的就是BMI卡在15下不去了，可能要转限制才行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 389,
+          "like_count": 14038,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1207
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T19:02:30.000Z",
+        "description": "",
+        "id": "1674493484735115270",
+        "name": "karma",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050571682369454080/0n6VT8N3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 15,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "k7andK",
+        "verified": false
+      }
+    ]
+  }
+}

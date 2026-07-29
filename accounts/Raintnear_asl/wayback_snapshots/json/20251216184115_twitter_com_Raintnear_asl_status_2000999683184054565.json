@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2000817647622197407",
+    "created_at": "2025-12-16T18:41:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T19:41:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000999683184054565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1843975943419047936",
+          "start": 0,
+          "username": "leaderxiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000999683184054565",
+    "in_reply_to_user_id": "1843975943419047936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000817647622197407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaderxiu 不要！！😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2000817647622197407",
+        "created_at": "2025-12-16T18:41:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T19:41:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000999683184054565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1843975943419047936",
+              "start": 0,
+              "username": "leaderxiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000999683184054565",
+        "in_reply_to_user_id": "1843975943419047936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000817647622197407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaderxiu 不要！！😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1843975943419047936",
+        "conversation_id": "2000817647622197407",
+        "created_at": "2025-12-16T06:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T07:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000817647622197407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/leaderxiu/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/leaderxiu/status/2000806039877493219",
+              "start": 12,
+              "url": "https://t.co/qAVcu75QGy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000817647622197407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2190,
+          "like_count": 32,
+          "quote_count": 3,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000806039877493219",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再見了,世界....😇 https://t.co/qAVcu75QGy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一具小女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 198,
+          "like_count": 6037,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 447
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-09T11:25:14.000Z",
+        "description": "發日常｜普通高中生｜會發表下自己嘅見解｜廣告&叫妓請繞道🙏｜小號（@chaikh222）現在為轉帖多 l  和我互Fo我主頁刷到都點贊❤️👍\n（哪天我不在了要不是被差人抓了要不是VPN炸了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "chaikh222"
+              }
+            ]
+          }
+        },
+        "id": "1843975943419047936",
+        "location": "湛江市",
+        "name": "空去（養號中,别搞！！！）",
+        "pinned_tweet_id": "1980703611522101288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999530320958550016/LSUXmMxf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 462,
+          "like_count": 40310,
+          "listed_count": 5,
+          "media_count": 163,
+          "tweet_count": 2715
+        },
+        "username": "leaderxiu",
+        "verified": false
+      }
+    ]
+  }
+}

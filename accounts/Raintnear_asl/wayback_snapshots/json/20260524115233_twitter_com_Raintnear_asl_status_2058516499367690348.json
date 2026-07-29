@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2058516499367690348",
+    "created_at": "2026-05-24T11:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058516499367690348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537108565940264962",
+          "start": 3,
+          "username": "zhutianjian2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058516499367690348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058248907214487846",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhutianjian2: 其实我有点厌恶这种谁先在意谁就输了的社交游戏了，但你一旦开始承认你在意，你就会被伤害，为了保护自己，身不由己地结了一层冰冷的壳。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2058516499367690348",
+        "created_at": "2026-05-24T11:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058516499367690348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537108565940264962",
+              "start": 3,
+              "username": "zhutianjian2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058516499367690348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058248907214487846",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhutianjian2: 其实我有点厌恶这种谁先在意谁就输了的社交游戏了，但你一旦开始承认你在意，你就会被伤害，为了保护自己，身不由己地结了一层冰冷的壳。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537108565940264962",
+        "conversation_id": "2058248907214487846",
+        "created_at": "2026-05-23T18:09:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T19:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058248907214487846"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058248907214487846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3436,
+          "like_count": 113,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "其实我有点厌恶这种谁先在意谁就输了的社交游戏了，但你一旦开始承认你在意，你就会被伤害，为了保护自己，身不由己地结了一层冰冷的壳。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 420,
+          "like_count": 16561,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1472
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T16:23:43.000Z",
+        "description": "将死不死的土地神和气球。",
+        "id": "1537108565940264962",
+        "name": "阿朱",
+        "pinned_tweet_id": "2014022024553963835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1704281950192898048/KOwy_FOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 91,
+          "like_count": 1543,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 1609
+        },
+        "username": "zhutianjian2",
+        "verified": false
+      }
+    ]
+  }
+}

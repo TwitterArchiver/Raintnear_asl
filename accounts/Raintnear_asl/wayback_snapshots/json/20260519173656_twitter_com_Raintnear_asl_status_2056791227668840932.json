@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2056791227668840932",
+    "created_at": "2026-05-19T17:36:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T18:36:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056791227668840932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pearl0812lucky…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/pearl0812lucky/status/2056618181285052491",
+          "start": 13,
+          "url": "https://t.co/3yoLrUHRel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056791227668840932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056618181285052491",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我16有人祝我中考加油吗 https://t.co/3yoLrUHRel"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2056791227668840932",
+        "created_at": "2026-05-19T17:36:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T18:36:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056791227668840932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pearl0812lucky…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/pearl0812lucky/status/2056618181285052491",
+              "start": 13,
+              "url": "https://t.co/3yoLrUHRel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056791227668840932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056618181285052491",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我16有人祝我中考加油吗 https://t.co/3yoLrUHRel"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2056618181285052491",
+        "created_at": "2026-05-19T06:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T07:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056618181285052491"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056618181285052491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 20772,
+          "like_count": 709,
+          "quote_count": 6,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "following",
+        "text": "没人懂单数年龄嘛\n15青梅竹马\n16中考加油\n17听着就很青春少年感\n18高考加油\n19听着就很闷骚\n20二开头了好可怕\n21听着就很可靠\n22感觉就业压力很大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 415,
+          "like_count": 16363,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1436
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7840,
+          "following_count": 67,
+          "like_count": 7303,
+          "listed_count": 8,
+          "media_count": 162,
+          "tweet_count": 1760
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}

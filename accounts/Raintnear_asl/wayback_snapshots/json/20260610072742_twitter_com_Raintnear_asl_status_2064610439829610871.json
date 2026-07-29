@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2064610439829610871",
+    "created_at": "2026-06-10T07:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064610439829610871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1932373286488580097",
+          "start": 3,
+          "username": "jickmuckelier25"
+        },
+        {
+          "end": 29,
+          "id": "1288890241726570496",
+          "start": 21,
+          "username": "vil_444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064610439829610871",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064339626144505971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jickmuckelier25: @vil_444 그건 최영현 한정.\n순애에서 걸레가 나오는 순간 그건 개새끼죠\n아무리 빨아도 걸레는 걸레입니다.\n고온살균해도 냄새가 나"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2064610439829610871",
+        "created_at": "2026-06-10T07:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064610439829610871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1932373286488580097",
+              "start": 3,
+              "username": "jickmuckelier25"
+            },
+            {
+              "end": 29,
+              "id": "1288890241726570496",
+              "start": 21,
+              "username": "vil_444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064610439829610871",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064339626144505971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jickmuckelier25: @vil_444 그건 최영현 한정.\n순애에서 걸레가 나오는 순간 그건 개새끼죠\n아무리 빨아도 걸레는 걸레입니다.\n고온살균해도 냄새가 나"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932373286488580097",
+        "conversation_id": "2064337759637266859",
+        "created_at": "2026-06-09T13:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064339626144505971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1288890241726570496",
+              "start": 0,
+              "username": "vil_444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064339626144505971",
+        "in_reply_to_user_id": "1288890241726570496",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064338578495451267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vil_444 그건 최영현 한정.\n순애에서 걸레가 나오는 순간 그건 개새끼죠\n아무리 빨아도 걸레는 걸레입니다.\n고온살균해도 냄새가 나"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 419,
+          "like_count": 17298,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1570
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T09:45:36.000Z",
+        "description": "찍먹이 결심했다.\n마음 먹었어, 방금.\n\n오늘부터 ㅇㅇ이의 지뢰되기로. \n 🔄올라운더 리버시블🔄 비팔🔕\nhttps://t.co/SowHFL8v53",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Jickmuck",
+                "end": 81,
+                "expanded_url": "https://spin-spin.com/Jickmuck",
+                "start": 58,
+                "url": "https://t.co/SowHFL8v53"
+              }
+            ]
+          }
+        },
+        "id": "1932373286488580097",
+        "location": "유원불변합니다.",
+        "name": "찍먹(한섭이는훈육이필요한아이예요)",
+        "pinned_tweet_id": "2035365124417232975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016886179975876614/0-62XAVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 83,
+          "like_count": 20106,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2273
+        },
+        "username": "jickmuckelier25",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-30T17:32:45.000Z",
+        "description": "구도훈의 CCTV/이민우의 펫캠 아카이브",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lezhin.com/ko/comic/uncha…",
+                "end": 23,
+                "expanded_url": "https://www.lezhin.com/ko/comic/unchanged_man",
+                "start": 0,
+                "url": "https://t.co/COTjL3Oh6F"
+              }
+            ]
+          }
+        },
+        "id": "1288890241726570496",
+        "location": "유원불변/이모션",
+        "name": "돞",
+        "pinned_tweet_id": "1908056184072065256",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953284687893270528/OZa6Q2O7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 62,
+          "like_count": 9142,
+          "listed_count": 0,
+          "media_count": 1330,
+          "tweet_count": 10090
+        },
+        "url": "https://t.co/COTjL3Oh6F",
+        "username": "vil_444",
+        "verified": false
+      }
+    ]
+  }
+}

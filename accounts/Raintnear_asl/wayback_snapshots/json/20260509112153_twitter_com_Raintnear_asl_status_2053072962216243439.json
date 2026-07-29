@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2053070609975005695",
+    "created_at": "2026-05-09T11:21:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T12:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053072962216243439"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2032152441685491714",
+          "start": 0,
+          "username": "Sqdqge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053072962216243439",
+    "in_reply_to_user_id": "2032152441685491714",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053070609975005695",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sqdqge 砍妹的卧蚕盘好用吗！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053070601804500992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH341a9a0AA5wpQ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2053070601796071424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH341a7aMAA6RfH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2053070609975005695",
+        "created_at": "2026-05-09T11:21:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053072962216243439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2032152441685491714",
+              "start": 0,
+              "username": "Sqdqge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053072962216243439",
+        "in_reply_to_user_id": "2032152441685491714",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053070609975005695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sqdqge 砍妹的卧蚕盘好用吗！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053070601804500992",
+            "3_2053070601796071424"
+          ]
+        },
+        "author_id": "2032152441685491714",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053070609975005695",
+        "created_at": "2026-05-09T11:12:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T12:12:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053070609975005695"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6H117J2Y9T",
+              "end": 25,
+              "expanded_url": "https://x.com/Sqdqge/status/2053070609975005695/photo/1",
+              "media_key": "3_2053070601804500992",
+              "start": 2,
+              "url": "https://t.co/6H117J2Y9T"
+            },
+            {
+              "display_url": "pic.x.com/6H117J2Y9T",
+              "end": 25,
+              "expanded_url": "https://x.com/Sqdqge/status/2053070609975005695/photo/1",
+              "media_key": "3_2053070601796071424",
+              "start": 2,
+              "url": "https://t.co/6H117J2Y9T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053070609975005695",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😍 https://t.co/6H117J2Y9T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 402,
+          "like_count": 15370,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1334
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T17:53:30.000Z",
+        "description": "",
+        "id": "2032152441685491714",
+        "location": "🚪52/288/520/上不封顶（不退门",
+        "name": "。",
+        "pinned_tweet_id": "2052687258839564670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050135299729317888/LNiIvhY__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 117,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 296
+        },
+        "username": "Sqdqge",
+        "verified": false
+      }
+    ]
+  }
+}

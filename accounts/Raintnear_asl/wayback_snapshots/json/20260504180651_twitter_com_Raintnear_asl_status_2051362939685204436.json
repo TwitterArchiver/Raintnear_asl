@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2051362939685204436",
+    "created_at": "2026-05-04T18:06:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T19:06:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051362939685204436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900857014785634307",
+          "start": 3,
+          "username": "qi7ouo0068"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051362939685204436",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051189144815067182",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qi7ouo0068: 我现在就是微信推特抖音切来切去有0条消息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2051362939685204436",
+        "created_at": "2026-05-04T18:06:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T19:06:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051362939685204436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900857014785634307",
+              "start": 3,
+              "username": "qi7ouo0068"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051362939685204436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051189144815067182",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qi7ouo0068: 我现在就是微信推特抖音切来切去有0条消息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900857014785634307",
+        "conversation_id": "2051189144815067182",
+        "created_at": "2026-05-04T06:36:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051189144815067182"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051189144815067182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 13479,
+          "like_count": 245,
+          "quote_count": 2,
+          "reply_count": 60,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "我现在就是微信推特抖音切来切去有0条消息"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我 不要给我发任何关于性的消息",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 389,
+          "like_count": 14061,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1211
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-15T10:30:29.000Z",
+        "description": "我什么都不知道 此账号内容都是一只邪恶的仓鼠在发布",
+        "id": "1900857014785634307",
+        "name": "呆呆青",
+        "pinned_tweet_id": "2045920595041226947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051040075165638656/JhLHGmrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 31,
+          "like_count": 7478,
+          "listed_count": 1,
+          "media_count": 253,
+          "tweet_count": 1844
+        },
+        "username": "qi7ouo0068",
+        "verified": false
+      }
+    ]
+  }
+}

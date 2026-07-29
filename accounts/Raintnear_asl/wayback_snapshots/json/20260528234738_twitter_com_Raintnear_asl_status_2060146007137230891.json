@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2060146007137230891",
+    "created_at": "2026-05-28T23:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T00:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060146007137230891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1790197101319671808",
+          "start": 3,
+          "username": "Jinxjiu"
+        },
+        {
+          "end": 22,
+          "id": "1939704603882504193",
+          "start": 13,
+          "username": "bushi11f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060146007137230891",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059914641476898833",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jinxjiu: @bushi11f 一直觉得出轨的人很恶心 明明有问题可以沟通 沟通不了就选择分手 为什么既要又要 这种行为完全在侮辱这段感情和侮辱被出轨方"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2060146007137230891",
+        "created_at": "2026-05-28T23:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060146007137230891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1790197101319671808",
+              "start": 3,
+              "username": "Jinxjiu"
+            },
+            {
+              "end": 22,
+              "id": "1939704603882504193",
+              "start": 13,
+              "username": "bushi11f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060146007137230891",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059914641476898833",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jinxjiu: @bushi11f 一直觉得出轨的人很恶心 明明有问题可以沟通 沟通不了就选择分手 为什么既要又要 这种行为完全在侮辱这段感情和侮辱被出轨方"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1790197101319671808",
+        "conversation_id": "2059815294047322343",
+        "created_at": "2026-05-28T08:28:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T09:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059914641476898833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1939704603882504193",
+              "start": 0,
+              "username": "bushi11f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059914641476898833",
+        "in_reply_to_user_id": "1939704603882504193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 73601,
+          "like_count": 1092,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059815294047322343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bushi11f 一直觉得出轨的人很恶心 明明有问题可以沟通 沟通不了就选择分手 为什么既要又要 这种行为完全在侮辱这段感情和侮辱被出轨方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个冷漠的女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 418,
+          "like_count": 16724,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1488
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T01:47:16.000Z",
+        "description": "小狗人格丨粘人精丨中宅女丨游戏狂丨树洞丨想聊天请随意私信丨病态人格丨塔罗牌丨",
+        "id": "1790197101319671808",
+        "location": "纯绿🚪288可验证丨游戏陪玩请私信我🐾",
+        "name": "巴掌印",
+        "pinned_tweet_id": "2016683123472490858",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051417795653742592/AyCuuefh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 5,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 213
+        },
+        "username": "Jinxjiu",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-30T15:17:06.000Z",
+        "description": "该用户是个angel       https://t.co/3CL6uxUqMB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/11f50097",
+                "end": 40,
+                "expanded_url": "https://ngl.link/11f50097",
+                "start": 17,
+                "url": "https://t.co/3CL6uxUqMB"
+              }
+            ]
+          }
+        },
+        "id": "1939704603882504193",
+        "name": "11f",
+        "pinned_tweet_id": "2059324164394438770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939704841112293376/UWwdrnVt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 22,
+          "like_count": 76,
+          "listed_count": 2,
+          "media_count": 136,
+          "tweet_count": 443
+        },
+        "username": "bushi11f",
+        "verified": false
+      }
+    ]
+  }
+}

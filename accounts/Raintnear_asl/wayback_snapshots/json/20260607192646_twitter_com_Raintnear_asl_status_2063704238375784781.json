@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2063677463667085688",
+    "created_at": "2026-06-07T19:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T20:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063704238375784781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1770649444939427840",
+          "start": 0,
+          "username": "Artemisel06"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063704238375784781",
+    "in_reply_to_user_id": "1770649444939427840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063679842550505608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Artemisel06 好萌的表情！谢谢宝宝呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2063677463667085688",
+        "created_at": "2026-06-07T19:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T20:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063704238375784781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1770649444939427840",
+              "start": 0,
+              "username": "Artemisel06"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063704238375784781",
+        "in_reply_to_user_id": "1770649444939427840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063679842550505608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Artemisel06 好萌的表情！谢谢宝宝呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770649444939427840",
+        "conversation_id": "2063677463667085688",
+        "created_at": "2026-06-07T17:49:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T18:49:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063679842550505608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063679842550505608",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063677463667085688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl ∧＿∧\n（´・ω・ )つ ＿ ∧\n（つ　    / ( ・ω・｡)\n    しーＪ　 (nnノ)  不必理会那些人，摸摸你呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 421,
+          "like_count": 17234,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1560
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-21T03:11:59.000Z",
+        "description": "愿望是不被重伤",
+        "id": "1770649444939427840",
+        "name": "零",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062192275351044096/45CSr6HP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 33,
+          "like_count": 3564,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 36
+        },
+        "username": "Artemisel06",
+        "verified": false
+      }
+    ]
+  }
+}

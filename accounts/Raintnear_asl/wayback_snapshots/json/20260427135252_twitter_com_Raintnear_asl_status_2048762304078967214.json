@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2048762304078967214",
+    "created_at": "2026-04-27T13:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048762304078967214"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048762304078967214",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我留不住任何一个人 虽然我嘴上说着如果你走了我就把你杀了再自杀 但是我发现我根本不忍心伤害你 就算你骂我我也觉得没关系呀 至少你没有狠心切段我们的联系"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2048762304078967214",
+        "created_at": "2026-04-27T13:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048762304078967214"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048762304078967214",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我留不住任何一个人 虽然我嘴上说着如果你走了我就把你杀了再自杀 但是我发现我根本不忍心伤害你 就算你骂我我也觉得没关系呀 至少你没有狠心切段我们的联系"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 368,
+          "like_count": 13338,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1134
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

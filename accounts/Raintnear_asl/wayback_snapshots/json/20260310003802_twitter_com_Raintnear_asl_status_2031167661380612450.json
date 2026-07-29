@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2031167661380612450",
+    "created_at": "2026-03-10T00:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T01:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031167661380612450"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/somejj045/stat…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/somejj045/status/2030853395360473449",
+          "start": 6,
+          "url": "https://t.co/rlrxWLIhch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031167661380612450",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030853395360473449",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我就这样！ https://t.co/rlrxWLIhch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2031167661380612450",
+        "created_at": "2026-03-10T00:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T01:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031167661380612450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/somejj045/stat…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/somejj045/status/2030853395360473449",
+              "start": 6,
+              "url": "https://t.co/rlrxWLIhch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031167661380612450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030853395360473449",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我就这样！ https://t.co/rlrxWLIhch"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813583417893584896",
+        "conversation_id": "2030853395360473449",
+        "created_at": "2026-03-09T03:49:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T04:49:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030853395360473449"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2030853395360473449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12568,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 28,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一群恶心人 男的都恶心，发个自己观点被说男女对立，出门前治治脑子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个神神叨叨的神秘女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 316,
+          "like_count": 9469,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 784
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-17T14:36:05.000Z",
+        "description": "女大学生发牢骚 爱看就看🥰谢谢大家  脑子有病去看病",
+        "id": "1813583417893584896",
+        "location": "中国",
+        "name": "没有肉肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992154181977976832/grbCqRoY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1022,
+          "following_count": 37,
+          "like_count": 59,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 49
+        },
+        "username": "somejj045",
+        "verified": false
+      }
+    ]
+  }
+}

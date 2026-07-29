@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2005421591099023426",
+    "created_at": "2025-12-28T23:32:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T00:32:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005421591099023426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1784985181511712769",
+          "start": 3,
+          "username": "bbdsmdbzd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005421591099023426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005269998047264799",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bbdsmdbzd: 我不觉得你有所谓的负能量你只是一个容易伤心的小孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2005421591099023426",
+        "created_at": "2025-12-28T23:32:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T00:32:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005421591099023426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1784985181511712769",
+              "start": 3,
+              "username": "bbdsmdbzd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005421591099023426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005269998047264799",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bbdsmdbzd: 我不觉得你有所谓的负能量你只是一个容易伤心的小孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1784985181511712769",
+        "conversation_id": "2005269998047264799",
+        "created_at": "2025-12-28T13:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T14:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005269998047264799"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005269998047264799",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 10292,
+          "like_count": 159,
+          "quote_count": 5,
+          "reply_count": 22,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "我不觉得你有所谓的负能量你只是一个容易伤心的小孩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 265,
+          "like_count": 7154,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 555
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-29T16:36:58.000Z",
+        "description": "其他平台没有账号",
+        "id": "1784985181511712769",
+        "location": "🚪520              ",
+        "name": "随地大小鱼",
+        "pinned_tweet_id": "1847822510412443684",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004626666661052417/rtoXCxcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14475,
+          "following_count": 245,
+          "like_count": 12982,
+          "listed_count": 22,
+          "media_count": 151,
+          "tweet_count": 4945
+        },
+        "username": "bbdsmdbzd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2046260081524920406",
+    "created_at": "2026-04-20T16:09:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:09:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046260081524920406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/404heartlost/s…",
+          "end": 75,
+          "expanded_url": "https://twitter.com/404heartlost/status/2045948825513480373",
+          "start": 52,
+          "url": "https://t.co/iwSCjauprj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046260081524920406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045948825513480373",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "16岁，还在房间里意淫幸福。16岁还在用眼泪解决问题。16岁，还在责备命运不公。16岁，还是一个傻逼。 https://t.co/iwSCjauprj"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2046260081524920406",
+        "created_at": "2026-04-20T16:09:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:09:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046260081524920406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/404heartlost/s…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/404heartlost/status/2045948825513480373",
+              "start": 52,
+              "url": "https://t.co/iwSCjauprj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046260081524920406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045948825513480373",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "16岁，还在房间里意淫幸福。16岁还在用眼泪解决问题。16岁，还在责备命运不公。16岁，还是一个傻逼。 https://t.co/iwSCjauprj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023448969343545344",
+        "conversation_id": "2045948825513480373",
+        "created_at": "2026-04-19T19:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T20:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045948825513480373"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045948825513480373",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 5113,
+          "like_count": 207,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "17岁，还在房间里意淫幸福。17岁还在用眼泪解决问题。17岁，还在责备命运不公。17岁，还是一个傻逼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 351,
+          "like_count": 12077,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1033
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-16T17:26:52.000Z",
+        "description": "前世@XWXbl00dbunn1 一个弱智精神病｜🚪 58/88",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "XWXbl00dbunn1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/bzd83462",
+                "end": 23,
+                "expanded_url": "https://ngl.link/bzd83462",
+                "start": 0,
+                "url": "https://t.co/64OlqtP7mt"
+              }
+            ]
+          }
+        },
+        "id": "2023448969343545344",
+        "location": "notfound",
+        "name": "你总是xwx",
+        "pinned_tweet_id": "2045938663528530263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023449449012539392/5BVYYafb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 227,
+          "like_count": 1522,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 270
+        },
+        "url": "https://t.co/64OlqtP7mt",
+        "username": "404heartlost",
+        "verified": false
+      }
+    ]
+  }
+}

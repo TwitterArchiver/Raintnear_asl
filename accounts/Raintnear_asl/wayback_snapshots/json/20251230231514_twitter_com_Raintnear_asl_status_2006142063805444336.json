@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2006142063805444336",
+    "created_at": "2025-12-30T23:15:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T00:15:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006142063805444336"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2006142063805444336",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "2025马上要结束了，新的一年里祝大家行大运，O大D，吃药不伤身，幻觉超好看，买药不被标，卖药不被抓，pr不成瘾，米沙不耐受，烷胺不恐幻，白兔不心悸。新的一年，越o越有劲！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2006142063805444336",
+        "created_at": "2025-12-30T23:15:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T00:15:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006142063805444336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006142063805444336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025马上要结束了，新的一年里祝大家行大运，O大D，吃药不伤身，幻觉超好看，买药不被标，卖药不被抓，pr不成瘾，米沙不耐受，烷胺不恐幻，白兔不心悸。新的一年，越o越有劲！！！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 264,
+          "like_count": 7263,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 586
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

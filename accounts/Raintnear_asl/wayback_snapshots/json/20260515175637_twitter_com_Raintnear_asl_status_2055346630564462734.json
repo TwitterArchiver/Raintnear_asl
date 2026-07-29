@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2055346630564462734",
+    "created_at": "2026-05-15T17:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T18:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055346630564462734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1945131290564681728",
+          "start": 3,
+          "username": "yaya1276519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055346630564462734",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054958056241525029",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaya1276519: 我可以已读不回 因为我会意念回复 但是你已读不回我我看你是想死全家了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2055346630564462734",
+        "created_at": "2026-05-15T17:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T18:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055346630564462734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1945131290564681728",
+              "start": 3,
+              "username": "yaya1276519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055346630564462734",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054958056241525029",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaya1276519: 我可以已读不回 因为我会意念回复 但是你已读不回我我看你是想死全家了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945131290564681728",
+        "conversation_id": "2054958056241525029",
+        "created_at": "2026-05-14T16:12:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T17:12:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054958056241525029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054958056241525029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3433,
+          "like_count": 96,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我可以已读不回 因为我会意念回复 但是你已读不回我我看你是想死全家了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 409,
+          "like_count": 16162,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1401
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T14:40:22.000Z",
+        "description": "我不怪你 是我太过爱你 于是所有的情绪只有恨",
+        "id": "1945131290564681728",
+        "name": "丫丫滴s",
+        "pinned_tweet_id": "2027069699130020201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045125364071219202/cX7reIjJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 938,
+          "following_count": 65,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 1043
+        },
+        "username": "yaya1276519",
+        "verified": false
+      }
+    ]
+  }
+}

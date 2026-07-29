@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2046266287270264927",
+    "created_at": "2026-04-20T16:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046266287270264927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1472022007797719048",
+          "start": 3,
+          "username": "user0000O0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046266287270264927",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1181
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046007080138551737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @user0000O0: fuck everything"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2046266287270264927",
+        "created_at": "2026-04-20T16:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046266287270264927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1472022007797719048",
+              "start": 3,
+              "username": "user0000O0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046266287270264927",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1181
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046007080138551737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @user0000O0: fuck everything"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472022007797719048",
+        "conversation_id": "2046007080138551737",
+        "created_at": "2026-04-19T23:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T00:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046007080138551737"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046007080138551737",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 46002,
+          "like_count": 1902,
+          "quote_count": 19,
+          "reply_count": 23,
+          "retweet_count": 1181
+        },
+        "reply_settings": "everyone",
+        "text": "fuck everything"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 352,
+          "like_count": 12132,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1042
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-18T01:52:57.000Z",
+        "description": "in my restless dreams",
+        "id": "1472022007797719048",
+        "location": "silent hill ",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039665398208159744/sDo192OK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122966,
+          "following_count": 310,
+          "like_count": 12494,
+          "listed_count": 155,
+          "media_count": 2983,
+          "tweet_count": 10240
+        },
+        "username": "user0000O0",
+        "verified": true
+      }
+    ]
+  }
+}

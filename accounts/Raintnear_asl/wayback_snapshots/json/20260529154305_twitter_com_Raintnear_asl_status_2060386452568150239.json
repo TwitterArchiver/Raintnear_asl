@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2060386452568150239",
+    "created_at": "2026-05-29T15:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T16:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060386452568150239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2041399663467577344",
+          "start": 3,
+          "username": "YesNavajas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060386452568150239",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3068
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060141246576750676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YesNavajas: mis opciones para mi vida actualmente son\n1. suicidarme\n2. acabar con mi vida\n3. cometer auto homicidio \n4. automurición\n5.…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2060386452568150239",
+        "created_at": "2026-05-29T15:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060386452568150239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2041399663467577344",
+              "start": 3,
+              "username": "YesNavajas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060386452568150239",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3068
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060141246576750676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YesNavajas: mis opciones para mi vida actualmente son\n1. suicidarme\n2. acabar con mi vida\n3. cometer auto homicidio \n4. automurición\n5.…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2041399663467577344",
+        "conversation_id": "2060141246576750676",
+        "created_at": "2026-05-28T23:28:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T00:28:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060141246576750676"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060141246576750676",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 380,
+          "impression_count": 185424,
+          "like_count": 11398,
+          "quote_count": 41,
+          "reply_count": 87,
+          "retweet_count": 3068
+        },
+        "reply_settings": "everyone",
+        "text": "mis opciones para mi vida actualmente son\n1. suicidarme\n2. acabar con mi vida\n3. cometer auto homicidio \n4. automurición\n5. muerte\n6. 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个冷漠的女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 415,
+          "like_count": 16748,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1491
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-07T06:16:34.000Z",
+        "description": "#nirvana #keion / Navajita / bautista / programador junior / 🫪",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "nirvana"
+              },
+              {
+                "end": 15,
+                "start": 9,
+                "tag": "keion"
+              }
+            ]
+          }
+        },
+        "id": "2041399663467577344",
+        "location": "HE / 15y / 🇻🇪 ",
+        "name": "Navaja- :p",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054475343143063552/nYwZ-dKT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 31,
+          "like_count": 2654,
+          "listed_count": 1,
+          "media_count": 41,
+          "tweet_count": 472
+        },
+        "username": "YesNavajas",
+        "verified": false
+      }
+    ]
+  }
+}

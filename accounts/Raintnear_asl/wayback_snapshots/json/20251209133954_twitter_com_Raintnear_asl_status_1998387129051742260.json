@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998324294678384640"
+      ],
+      "media_source_tweet_id": [
+        "1998324303515852852"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1998387129051742260",
+    "created_at": "2025-12-09T13:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998387129051742260"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1464977259425632256",
+          "start": 3,
+          "username": "eternalbleed"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RWnb3KbUTi",
+          "end": 41,
+          "expanded_url": "https://x.com/eternalbleed/status/1998324303515852852/photo/1",
+          "media_key": "3_1998324294678384640",
+          "start": 18,
+          "url": "https://t.co/RWnb3KbUTi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998387129051742260",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 312
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998324303515852852",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eternalbleed: https://t.co/RWnb3KbUTi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1482,
+        "media_key": "3_1998324294678384640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7t5W8JWkAAhy2i.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998324294678384640"
+          ],
+          "media_source_tweet_id": [
+            "1998324303515852852"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1998387129051742260",
+        "created_at": "2025-12-09T13:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998387129051742260"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1464977259425632256",
+              "start": 3,
+              "username": "eternalbleed"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWnb3KbUTi",
+              "end": 41,
+              "expanded_url": "https://x.com/eternalbleed/status/1998324303515852852/photo/1",
+              "media_key": "3_1998324294678384640",
+              "start": 18,
+              "url": "https://t.co/RWnb3KbUTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998387129051742260",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998324303515852852",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eternalbleed: https://t.co/RWnb3KbUTi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998324294678384640"
+          ]
+        },
+        "author_id": "1464977259425632256",
+        "conversation_id": "1998324303515852852",
+        "created_at": "2025-12-09T09:30:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T10:30:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998324303515852852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RWnb3KbUTi",
+              "end": 23,
+              "expanded_url": "https://x.com/eternalbleed/status/1998324303515852852/photo/1",
+              "media_key": "3_1998324294678384640",
+              "start": 0,
+              "url": "https://t.co/RWnb3KbUTi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998324303515852852",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 148,
+          "impression_count": 32125,
+          "like_count": 2989,
+          "quote_count": 8,
+          "reply_count": 0,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RWnb3KbUTi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "09｜重抑重焦｜ed｜od｜自残｜欢迎互fo交友🥰",
+        "id": "1741871837464694784",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 188,
+          "like_count": 5666,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 415
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-28T15:19:41.000Z",
+        "description": "by @naifutil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "naifutil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/user/ozox9fp0m…",
+                "end": 23,
+                "expanded_url": "https://open.spotify.com/user/ozox9fp0mxn152mtd3p5nebsz?si=NDO-plODQJ2ClNX2_iAj-w",
+                "start": 0,
+                "url": "https://t.co/dVi0gXZH7i"
+              }
+            ]
+          }
+        },
+        "id": "1464977259425632256",
+        "name": "ᅠ ᅠᅠ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908620914129797120/-Xi-LGQ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128420,
+          "following_count": 15,
+          "like_count": 9,
+          "listed_count": 359,
+          "media_count": 115,
+          "tweet_count": 122
+        },
+        "url": "https://t.co/dVi0gXZH7i",
+        "username": "eternalbleed",
+        "verified": false
+      }
+    ]
+  }
+}

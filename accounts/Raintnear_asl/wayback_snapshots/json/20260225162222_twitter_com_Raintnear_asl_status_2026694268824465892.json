@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2026694268824465892",
+    "created_at": "2026-02-25T16:22:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:22:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026694268824465892"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2023094857947115521",
+          "start": 3,
+          "username": "ForOneInMyHeart"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026694268824465892",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 176
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026333777929355447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ForOneInMyHeart: 恨意是隐翅虫 ，轻轻放生就好了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2026694268824465892",
+        "created_at": "2026-02-25T16:22:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:22:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026694268824465892"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2023094857947115521",
+              "start": 3,
+              "username": "ForOneInMyHeart"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026694268824465892",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 176
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026333777929355447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ForOneInMyHeart: 恨意是隐翅虫 ，轻轻放生就好了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023094857947115521",
+        "conversation_id": "2026333777929355447",
+        "created_at": "2026-02-24T16:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T17:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026333777929355447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026333777929355447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 54369,
+          "like_count": 1190,
+          "quote_count": 10,
+          "reply_count": 30,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "恨意是隐翅虫 ，轻轻放生就好了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 270,
+          "like_count": 7376,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 614
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-15T17:59:44.000Z",
+        "description": "一頭憂鬱的豬，特立獨行地看著這個讓人懵逼的世界。",
+        "id": "2023094857947115521",
+        "location": "屠宰場",
+        "name": "悲情豬仔",
+        "pinned_tweet_id": "2026293891721470189",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023095448756715520/k-OiJMGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 49,
+          "like_count": 1968,
+          "listed_count": 2,
+          "media_count": 38,
+          "tweet_count": 1095
+        },
+        "username": "ForOneInMyHeart",
+        "verified": false
+      }
+    ]
+  }
+}

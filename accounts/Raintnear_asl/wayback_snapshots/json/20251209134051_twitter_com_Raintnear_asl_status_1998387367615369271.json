@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "1998379342523752918",
+    "created_at": "2025-12-09T13:40:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T14:40:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998387367615369271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1926509265792950272",
+          "start": 0,
+          "username": "xjaxja217379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998387367615369271",
+    "in_reply_to_user_id": "1926509265792950272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998379342523752918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjaxja217379 一过的不好全世界都吻上来了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "1998379342523752918",
+        "created_at": "2025-12-09T13:40:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:40:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998387367615369271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1926509265792950272",
+              "start": 0,
+              "username": "xjaxja217379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998387367615369271",
+        "in_reply_to_user_id": "1926509265792950272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998379342523752918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjaxja217379 一过的不好全世界都吻上来了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926509265792950272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "1998379342523752918",
+        "created_at": "2025-12-09T13:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T14:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998379342523752918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1998379342523752918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1273,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我真的越来越讨厌朋友圈，我只要发我喜欢的任何东西，像我喜欢的游戏，衣服，美食，电影啥的，基本都没人在意，但只要我发的是那种对我而言不太开心或者抱怨的事，像是我水课期末考试53分、凌晨泡火鸡面掉地上、买pdd26.8元的红色大棉衣之类的事，评论区立马就超级热闹了，大家和我的互动就会很多……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "09｜重抑重焦｜ed｜od｜自残｜欢迎互fo交友🥰",
+        "id": "1741871837464694784",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 188,
+          "like_count": 5668,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 416
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:23:06.000Z",
+        "description": "困住我的不僅是時間",
+        "id": "1926509265792950272",
+        "name": "彼岸花开时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996111026945970176/ncyjQHIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 160,
+          "like_count": 41507,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 650
+        },
+        "username": "xjaxja217379",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2065009865463095447",
+    "created_at": "2026-06-11T09:54:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:54:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065009865463095447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1415147647183187968",
+          "start": 3,
+          "username": "Kjuiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065009865463095447",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064644116609396935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kjuiw: 구도훈 살인까지는 진짜 놀란마음을 어찌저찌 모른척 눈감고 밤마다 눈물을 흘리며 보냈는데 혼자서 불륜및아다뗀건 이제 씨발 더는참을수없다. 구도훈의 엉덩이를 8갈래로 찢어버릴것이다."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2065009865463095447",
+        "created_at": "2026-06-11T09:54:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:54:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065009865463095447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1415147647183187968",
+              "start": 3,
+              "username": "Kjuiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065009865463095447",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064644116609396935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kjuiw: 구도훈 살인까지는 진짜 놀란마음을 어찌저찌 모른척 눈감고 밤마다 눈물을 흘리며 보냈는데 혼자서 불륜및아다뗀건 이제 씨발 더는참을수없다. 구도훈의 엉덩이를 8갈래로 찢어버릴것이다."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415147647183187968",
+        "conversation_id": "2064644116609396935",
+        "created_at": "2026-06-10T09:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064644116609396935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064644116609396935",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 12802,
+          "like_count": 408,
+          "quote_count": 12,
+          "reply_count": 2,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "구도훈 살인까지는 진짜 놀란마음을 어찌저찌 모른척 눈감고 밤마다 눈물을 흘리며 보냈는데 혼자서 불륜및아다뗀건 이제 씨발 더는참을수없다. 구도훈의 엉덩이를 8갈래로 찢어버릴것이다."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 416,
+          "like_count": 17257,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1570
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T03:14:35.000Z",
+        "description": "본인이 정유원이다 싶으시면 팔워거세요",
+        "id": "1415147647183187968",
+        "location": "훈냐",
+        "name": "구도훈대사봇",
+        "pinned_tweet_id": "2039670351844802716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446927695990784/XqTa6DPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 105,
+          "like_count": 27218,
+          "listed_count": 0,
+          "media_count": 808,
+          "tweet_count": 11625
+        },
+        "username": "Kjuiw",
+        "verified": false
+      }
+    ]
+  }
+}

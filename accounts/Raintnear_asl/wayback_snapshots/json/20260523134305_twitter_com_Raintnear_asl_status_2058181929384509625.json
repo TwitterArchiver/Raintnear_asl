@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2058181929384509625",
+    "created_at": "2026-05-23T13:43:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T14:43:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058181929384509625"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2058181929384509625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我的认知里，如果一个人让你感到痛苦，那才意味着他在乎你。因为你在他的眼里有价值，他才会有力气去伤害你，折磨你，然后再花费他的精力去安抚你，好让你留在原地"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2058181929384509625",
+        "created_at": "2026-05-23T13:43:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T14:43:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058181929384509625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058181929384509625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我的认知里，如果一个人让你感到痛苦，那才意味着他在乎你。因为你在他的眼里有价值，他才会有力气去伤害你，折磨你，然后再花费他的精力去安抚你，好让你留在原地"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 419,
+          "like_count": 16555,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1470
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

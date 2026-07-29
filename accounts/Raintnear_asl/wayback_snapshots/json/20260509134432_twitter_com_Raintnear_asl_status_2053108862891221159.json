@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052473552662589925",
+    "created_at": "2026-05-09T13:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053108862891221159"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1764297587404972032",
+          "start": 0,
+          "username": "Genoooeeoo"
+        },
+        {
+          "end": 20,
+          "id": "2039058778469908480",
+          "start": 12,
+          "username": "_XiaoRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053108862891221159",
+    "in_reply_to_user_id": "1764297587404972032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053094782231318777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Genoooeeoo @_XiaoRS 你这样一说感觉就是这个意思🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052473552662589925",
+        "created_at": "2026-05-09T13:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053108862891221159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1764297587404972032",
+              "start": 0,
+              "username": "Genoooeeoo"
+            },
+            {
+              "end": 20,
+              "id": "2039058778469908480",
+              "start": 12,
+              "username": "_XiaoRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053108862891221159",
+        "in_reply_to_user_id": "1764297587404972032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053094782231318777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Genoooeeoo @_XiaoRS 你这样一说感觉就是这个意思🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764297587404972032",
+        "conversation_id": "2052473552662589925",
+        "created_at": "2026-05-09T12:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T13:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053094782231318777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039058778469908480",
+              "start": 0,
+              "username": "_XiaoRS"
+            },
+            {
+              "end": 23,
+              "id": "1741871837464694784",
+              "start": 9,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053094782231318777",
+        "in_reply_to_user_id": "1764297587404972032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053094683644215310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_XiaoRS @Raintnear_asl 墙内的骑士一般是这个"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 405,
+          "like_count": 15397,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1341
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-03T14:31:50.000Z",
+        "description": "音游重度依赖，主要玩Arcaea和Chunithm\n08高中在读，不开心了欢迎来找我聊天（不过我一般只在晚上凌晨出没）",
+        "id": "1764297587404972032",
+        "location": "67m",
+        "name": "Geno",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041464930491342848/R14caVlu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 340,
+          "like_count": 1354,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 63
+        },
+        "username": "Genoooeeoo",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T19:15:14.000Z",
+        "description": "分享你的小烦恼来我们一起伤脑筋🎩|•|无🚪QV，免费福利|•|人仅能自己救自己，我以陪伴待你重拾直面生命的勇气。",
+        "id": "2039058778469908480",
+        "name": "XR诗",
+        "pinned_tweet_id": "2051833222816833991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039061968922038272/D6KQAuWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 20,
+          "like_count": 1534,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 276
+        },
+        "username": "_XiaoRS",
+        "verified": false
+      }
+    ]
+  }
+}

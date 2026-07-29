@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2049757096607097204",
+    "created_at": "2026-04-30T07:45:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T08:45:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049757096607097204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1965778226627911680",
+          "start": 3,
+          "username": "cidao2310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049757096607097204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049496330926719011",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cidao2310: 我真的很想对私信里那些人说，你家里养小猫小狗的你就给我发小猫小狗的照片呀、你会做饭的就给我发你做的饭呀，你爱出去玩的就发路上拍的风景呀，你爱看书的发你最近看的书呀，你每天上班上学的给我吐槽一下老板同学呀，实在不行你发你游戏战绩也行啊，你发个“认识一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2049757096607097204",
+        "created_at": "2026-04-30T07:45:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:45:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049757096607097204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1965778226627911680",
+              "start": 3,
+              "username": "cidao2310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049757096607097204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049496330926719011",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cidao2310: 我真的很想对私信里那些人说，你家里养小猫小狗的你就给我发小猫小狗的照片呀、你会做饭的就给我发你做的饭呀，你爱出去玩的就发路上拍的风景呀，你爱看书的发你最近看的书呀，你每天上班上学的给我吐槽一下老板同学呀，实在不行你发你游戏战绩也行啊，你发个“认识一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965778226627911680",
+        "conversation_id": "2049496330926719011",
+        "created_at": "2026-04-29T14:29:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:29:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049496330926719011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049496330926719011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 27054,
+          "like_count": 553,
+          "quote_count": 12,
+          "reply_count": 35,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "我真的很想对私信里那些人说，你家里养小猫小狗的你就给我发小猫小狗的照片呀、你会做饭的就给我发你做的饭呀，你爱出去玩的就发路上拍的风景呀，你爱看书的发你最近看的书呀，你每天上班上学的给我吐槽一下老板同学呀，实在不行你发你游戏战绩也行啊，你发个“认识一下”，到底想让我回什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 372,
+          "like_count": 13466,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1152
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-10T14:03:57.000Z",
+        "description": "我是叨叨。随便叨叨。约炮的别找我。我才19岁别叫我姐姐。\n📪 https://t.co/gK9nreqZ6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cidao31181",
+                "end": 54,
+                "expanded_url": "https://ngl.link/cidao31181",
+                "start": 31,
+                "url": "https://t.co/gK9nreqZ6m"
+              }
+            ]
+          }
+        },
+        "id": "1965778226627911680",
+        "location": "小舟",
+        "name": "兔子的脚",
+        "pinned_tweet_id": "2038336506067386508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029816491932364801/lEpnxFAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 660,
+          "following_count": 165,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 136,
+          "tweet_count": 1756
+        },
+        "username": "cidao2310",
+        "verified": false
+      }
+    ]
+  }
+}

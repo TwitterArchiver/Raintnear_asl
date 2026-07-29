@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2060130402795221464",
+    "created_at": "2026-05-28T22:45:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T23:45:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060130402795221464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1996590430654533632",
+          "start": 3,
+          "username": "missusnbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060130402795221464",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3344
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059593619607363905",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @missusnbang: 사람은 왜이렇게 엄마뱃속에서\n크게 큰 다음에 낳아짐\n\n실바니안 크기정도로 기른 뒤 나으면\n엄마가 조금은 덜아플텐데"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2060130402795221464",
+        "created_at": "2026-05-28T22:45:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T23:45:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060130402795221464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1996590430654533632",
+              "start": 3,
+              "username": "missusnbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060130402795221464",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3344
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059593619607363905",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @missusnbang: 사람은 왜이렇게 엄마뱃속에서\n크게 큰 다음에 낳아짐\n\n실바니안 크기정도로 기른 뒤 나으면\n엄마가 조금은 덜아플텐데"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1996590430654533632",
+        "conversation_id": "2059593619607363905",
+        "created_at": "2026-05-27T11:12:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T12:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059593619607363905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059593619607363905",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 572,
+          "impression_count": 1146495,
+          "like_count": 24545,
+          "quote_count": 552,
+          "reply_count": 52,
+          "retweet_count": 3344
+        },
+        "reply_settings": "everyone",
+        "text": "사람은 왜이렇게 엄마뱃속에서\n크게 큰 다음에 낳아짐\n\n실바니안 크기정도로 기른 뒤 나으면\n엄마가 조금은 덜아플텐데"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个冷漠的女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 416,
+          "like_count": 16688,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1481
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-04T14:40:37.000Z",
+        "description": "미녀가 운영하는 계정📱영화랑 카페해요오",
+        "id": "1996590430654533632",
+        "name": "나방이",
+        "pinned_tweet_id": "2029090938069631472",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027622409776594944/vz_1cmX__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3285,
+          "following_count": 2361,
+          "like_count": 36280,
+          "listed_count": 40,
+          "media_count": 851,
+          "tweet_count": 29918
+        },
+        "username": "missusnbang",
+        "verified": true
+      }
+    ]
+  }
+}

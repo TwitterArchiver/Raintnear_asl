@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2005416785357791510",
+    "created_at": "2025-12-28T23:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T00:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005416785357791510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1814242147605893120",
+          "start": 3,
+          "username": "hehuan333202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005416785357791510",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005293166224965848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hehuan333202: 只亲你好不好，只喜欢你好不好，只握紧你的手，擦去你的眼泪好不好，无论如何给你撑腰站在你这边好不好，一起听歌，看雨，看雪，看落日，看烟花，吃饭睡觉打游戏。就这样爱下去直到世界尽头好不好。你的敏感，焦虑，痛苦，眼泪，我都照单全收悉心珍藏好不好。回…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2005416785357791510",
+        "created_at": "2025-12-28T23:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T00:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005416785357791510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1814242147605893120",
+              "start": 3,
+              "username": "hehuan333202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005416785357791510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005293166224965848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hehuan333202: 只亲你好不好，只喜欢你好不好，只握紧你的手，擦去你的眼泪好不好，无论如何给你撑腰站在你这边好不好，一起听歌，看雨，看雪，看落日，看烟花，吃饭睡觉打游戏。就这样爱下去直到世界尽头好不好。你的敏感，焦虑，痛苦，眼泪，我都照单全收悉心珍藏好不好。回…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1814242147605893120",
+        "conversation_id": "2005293166224965848",
+        "created_at": "2025-12-28T15:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T16:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005293166224965848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2005293166224965848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 63,
+          "impression_count": 27286,
+          "like_count": 1044,
+          "quote_count": 29,
+          "reply_count": 24,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "只亲你好不好，只喜欢你好不好，只握紧你的手，擦去你的眼泪好不好，无论如何给你撑腰站在你这边好不好，一起听歌，看雨，看雪，看落日，看烟花，吃饭睡觉打游戏。就这样爱下去直到世界尽头好不好。你的敏感，焦虑，痛苦，眼泪，我都照单全收悉心珍藏好不好。回答我吧不要说不知道。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 264,
+          "like_count": 7109,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 551
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T10:13:52.000Z",
+        "description": "INFJ/le /dom1/\n世事无常，难免哽咽",
+        "id": "1814242147605893120",
+        "location": "52🚪",
+        "name": "疑心病",
+        "pinned_tweet_id": "2004061767031574634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998374972038041600/locMNsW__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 337,
+          "like_count": 2016,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 307
+        },
+        "username": "hehuan333202",
+        "verified": false
+      }
+    ]
+  }
+}

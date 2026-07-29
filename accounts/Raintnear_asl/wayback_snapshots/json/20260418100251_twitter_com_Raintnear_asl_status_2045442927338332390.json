@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2045368582520107114",
+    "created_at": "2026-04-18T10:02:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:02:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045442927338332390"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1689147370515169280",
+          "start": 0,
+          "username": "Mzz863657763483"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045442927338332390",
+    "in_reply_to_user_id": "1689147370515169280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045442170132590903",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mzz863657763483 我也是🚬"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2045368582520107114",
+        "created_at": "2026-04-18T10:02:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:02:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045442927338332390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1689147370515169280",
+              "start": 0,
+              "username": "Mzz863657763483"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045442927338332390",
+        "in_reply_to_user_id": "1689147370515169280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045442170132590903",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mzz863657763483 我也是🚬"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689147370515169280",
+        "conversation_id": "2045368582520107114",
+        "created_at": "2026-04-18T09:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045442170132590903"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045442170132590903",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045368582520107114",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 事实上我每天发疯也没人会在意😢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 345,
+          "like_count": 11774,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 997
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T05:31:56.000Z",
+        "description": "我想发疯就发疯想看黄就看黄想看猫就看猫我觉得对的就觉得对的",
+        "id": "1689147370515169280",
+        "name": "哈惊米",
+        "pinned_tweet_id": "2045441925218697304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036373030906265600/JneD2fmY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 31,
+          "like_count": 2169,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 267
+        },
+        "username": "Mzz863657763483",
+        "verified": false
+      }
+    ]
+  }
+}

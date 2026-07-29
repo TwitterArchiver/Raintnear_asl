@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2049494900752949477",
+    "created_at": "2026-04-29T14:23:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T15:23:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049494900752949477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1972559113948364800",
+          "start": 3,
+          "username": "towanttoyour"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049494900752949477",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049391588024156451",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @towanttoyour: 你的关注又新增了一个女的 我要杀了你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2049494900752949477",
+        "created_at": "2026-04-29T14:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T15:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049494900752949477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1972559113948364800",
+              "start": 3,
+              "username": "towanttoyour"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049494900752949477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049391588024156451",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @towanttoyour: 你的关注又新增了一个女的 我要杀了你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1972559113948364800",
+        "conversation_id": "2049391588024156451",
+        "created_at": "2026-04-29T07:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049391588024156451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2049391588024156451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 11144,
+          "like_count": 197,
+          "quote_count": 7,
+          "reply_count": 15,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "你的关注又新增了一个女的 我要杀了你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 372,
+          "like_count": 13465,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1152
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-29T07:08:45.000Z",
+        "description": "物质虚荣拜金女一枚 不要找我闲聊 🚪",
+        "id": "1972559113948364800",
+        "location": "猫窝",
+        "name": "3Q",
+        "pinned_tweet_id": "2013571864115720649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028669483372732416/xrE1hXre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2991,
+          "following_count": 55,
+          "like_count": 1,
+          "listed_count": 5,
+          "media_count": 159,
+          "tweet_count": 634
+        },
+        "username": "towanttoyour",
+        "verified": false
+      }
+    ]
+  }
+}

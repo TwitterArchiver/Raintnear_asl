@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052486986464985450",
+    "created_at": "2026-05-07T20:42:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T21:42:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052489380074344806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975129821111074816",
+          "start": 0,
+          "username": "woaiuai0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052489380074344806",
+    "in_reply_to_user_id": "1975129821111074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052486986464985450",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woaiuai0721 小宝宝你怎么了🥺我抱抱你呀🫂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22345,
+        "height": 720,
+        "media_key": "13_2052486877622702080",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2052486877622702080/img/PGfIGG-845hH-H2Z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052486877622702080/vid/avc1/480x270/lgYRWWfvThOqPPP2.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052486877622702080/vid/avc1/640x360/AZkEoVJbKAhU0cEw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2052486877622702080/vid/avc1/1280x720/90GZBKr7XRM4amyg.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2052486877622702080/pl/n0FzAC2zQEnrXdsh.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052486986464985450",
+        "created_at": "2026-05-07T20:42:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T21:42:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052489380074344806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975129821111074816",
+              "start": 0,
+              "username": "woaiuai0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052489380074344806",
+        "in_reply_to_user_id": "1975129821111074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052486986464985450",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woaiuai0721 小宝宝你怎么了🥺我抱抱你呀🫂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2052486877622702080"
+          ]
+        },
+        "author_id": "1975129821111074816",
+        "conversation_id": "2052486986464985450",
+        "created_at": "2026-05-07T20:33:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T21:33:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052486986464985450"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0Q4tnwhQ07",
+              "end": 23,
+              "expanded_url": "https://x.com/woaiuai0721/status/2052486986464985450/video/1",
+              "media_key": "13_2052486877622702080",
+              "start": 0,
+              "url": "https://t.co/0Q4tnwhQ07"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052486986464985450",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0Q4tnwhQ07"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 398,
+          "like_count": 15076,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1291
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-06T09:24:02.000Z",
+        "description": "很无聊的初二小朋友，ip：浙江，11年生人，不善交流所以可能会比较冒犯，然后如果我哪里惹到你了就和我说，声音很难听很油腻，我会视奸你们，暂时就先这样吧…哦对了你们千万要给我私信发消息不然我就无聊死",
+        "id": "1975129821111074816",
+        "location": "低頭看看",
+        "name": "朱雨辰牛逼",
+        "pinned_tweet_id": "2051729374035218686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040900649588768769/fUXi9OrW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 69,
+          "like_count": 4322,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 1245
+        },
+        "username": "woaiuai0721",
+        "verified": false
+      }
+    ]
+  }
+}

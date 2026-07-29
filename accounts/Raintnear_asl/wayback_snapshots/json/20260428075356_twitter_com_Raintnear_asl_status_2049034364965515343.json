@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2049034364965515343",
+    "created_at": "2026-04-28T07:53:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T08:53:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049034364965515343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1889200694986756096",
+          "start": 3,
+          "username": "OvOxiaomi8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049034364965515343",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048418622616519146",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OvOxiaomi8964: 你是一个特别可爱的女孩。我不想跟你聊前任和你的创伤。你快说说你每次拿起画笔画画，是先画小鸟还是先画太阳呢?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2049034364965515343",
+        "created_at": "2026-04-28T07:53:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T08:53:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049034364965515343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1889200694986756096",
+              "start": 3,
+              "username": "OvOxiaomi8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049034364965515343",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048418622616519146",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OvOxiaomi8964: 你是一个特别可爱的女孩。我不想跟你聊前任和你的创伤。你快说说你每次拿起画笔画画，是先画小鸟还是先画太阳呢?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889200694986756096",
+        "conversation_id": "2048418622616519146",
+        "created_at": "2026-04-26T15:07:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:07:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048418622616519146"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048418622616519146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 21215,
+          "like_count": 575,
+          "quote_count": 9,
+          "reply_count": 118,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "你是一个特别可爱的女孩。我不想跟你聊前任和你的创伤。你快说说你每次拿起画笔画画，是先画小鸟还是先画太阳呢?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 368,
+          "like_count": 13357,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1140
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-11T06:32:08.000Z",
+        "description": "搬我帖子到墙内的人死全家。我没素质。\n俺不互fo不回私信! @OnOxiaomi（⬅️仅过互关）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "OnOxiaomi"
+              }
+            ]
+          }
+        },
+        "id": "1889200694986756096",
+        "name": "我的智齿可疼了",
+        "pinned_tweet_id": "1970395598131208203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046810726686433280/YI_-e75p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4101,
+          "following_count": 286,
+          "like_count": 30834,
+          "listed_count": 13,
+          "media_count": 1023,
+          "tweet_count": 17128
+        },
+        "username": "OvOxiaomi8964",
+        "verified": false
+      }
+    ]
+  }
+}

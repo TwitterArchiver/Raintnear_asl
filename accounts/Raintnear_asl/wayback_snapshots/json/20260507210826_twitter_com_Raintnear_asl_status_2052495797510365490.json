@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052495797510365490",
+    "created_at": "2026-05-07T21:08:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T22:08:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052495797510365490"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052495797510365490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我就是一个性格很怪的神经病 我对所有在意的人情绪都淡淡的 就算他故意的刺激我 我也会假装无所谓不在乎 假装对他无所谓对我们这段关系也无所谓 但是其实背地里我会一直视奸他 就算是他推荐的视频我也会一条一条翻他有没有评论过 直到他真的要离开我我才会爆发 去威胁辱骂他 伤害自己 只是不想让他离开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052495797510365490",
+        "created_at": "2026-05-07T21:08:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T22:08:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052495797510365490"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052495797510365490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我就是一个性格很怪的神经病 我对所有在意的人情绪都淡淡的 就算他故意的刺激我 我也会假装无所谓不在乎 假装对他无所谓对我们这段关系也无所谓 但是其实背地里我会一直视奸他 就算是他推荐的视频我也会一条一条翻他有没有评论过 直到他真的要离开我我才会爆发 去威胁辱骂他 伤害自己 只是不想让他离开"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 398,
+          "like_count": 15074,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1293
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

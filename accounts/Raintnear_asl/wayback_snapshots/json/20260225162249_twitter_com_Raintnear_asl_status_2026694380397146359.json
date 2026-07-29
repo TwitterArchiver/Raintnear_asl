@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2026694380397146359",
+    "created_at": "2026-02-25T16:22:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T17:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026694380397146359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1926509265792950272",
+          "start": 3,
+          "username": "xjaxja217379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026694380397146359",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026362233043955770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xjaxja217379: 总以为自己烫了头发打了钉子做了美甲就会变得特别点 可明天依旧 生活依旧 痛苦依旧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2026694380397146359",
+        "created_at": "2026-02-25T16:22:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026694380397146359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1926509265792950272",
+              "start": 3,
+              "username": "xjaxja217379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026694380397146359",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026362233043955770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xjaxja217379: 总以为自己烫了头发打了钉子做了美甲就会变得特别点 可明天依旧 生活依旧 痛苦依旧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1926509265792950272",
+        "conversation_id": "2026362233043955770",
+        "created_at": "2026-02-24T18:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T19:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026362233043955770"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026362233043955770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1716,
+          "like_count": 71,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "总以为自己烫了头发打了钉子做了美甲就会变得特别点 可明天依旧 生活依旧 痛苦依旧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026692339121664001/cwmcalPm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 176,
+          "following_count": 270,
+          "like_count": 7380,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 615
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-25T05:23:06.000Z",
+        "description": "ithinkimgoinginsane",
+        "id": "1926509265792950272",
+        "name": "彼岸花开时",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996111026945970176/ncyjQHIP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 196,
+          "like_count": 135599,
+          "listed_count": 1,
+          "media_count": 79,
+          "tweet_count": 1134
+        },
+        "username": "xjaxja217379",
+        "verified": false
+      }
+    ]
+  }
+}

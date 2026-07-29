@@ -1,0 +1,132 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1997246875133460480"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1997246919878279676",
+    "created_at": "2025-12-06T10:09:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T11:09:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1997246919878279676"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sByc4EdUeK",
+          "end": 28,
+          "expanded_url": "https://x.com/Raintnear_asl/status/1997246919878279676/photo/1",
+          "media_key": "3_1997246875133460480",
+          "start": 5,
+          "url": "https://t.co/sByc4EdUeK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997246919878279676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "漂亮死了 https://t.co/sByc4EdUeK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1997246875133460480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7elc3kWwAAQfaT.jpg",
+        "width": 1584
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997246875133460480"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1997246919878279676",
+        "created_at": "2025-12-06T10:09:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T11:09:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997246919878279676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sByc4EdUeK",
+              "end": 28,
+              "expanded_url": "https://x.com/Raintnear_asl/status/1997246919878279676/photo/1",
+              "media_key": "3_1997246875133460480",
+              "start": 5,
+              "url": "https://t.co/sByc4EdUeK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997246919878279676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "漂亮死了 https://t.co/sByc4EdUeK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996943907469312000/bXUUgN3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 186,
+          "like_count": 5602,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 408
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

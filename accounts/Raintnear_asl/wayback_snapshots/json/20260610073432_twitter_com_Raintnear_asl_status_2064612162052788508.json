@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2064612162052788508",
+    "created_at": "2026-06-10T07:34:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T08:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064612162052788508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1932373286488580097",
+          "start": 3,
+          "username": "jickmuckelier25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064612162052788508",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064333995089998052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jickmuckelier25: 야 찜기에다 고추넣고 고온살균해라 시발\n때밀이로 벅벅 밀고\n못하겠으면 고추 수납해"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2064612162052788508",
+        "created_at": "2026-06-10T07:34:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T08:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064612162052788508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1932373286488580097",
+              "start": 3,
+              "username": "jickmuckelier25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064612162052788508",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064333995089998052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jickmuckelier25: 야 찜기에다 고추넣고 고온살균해라 시발\n때밀이로 벅벅 밀고\n못하겠으면 고추 수납해"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932373286488580097",
+        "conversation_id": "2064333995089998052",
+        "created_at": "2026-06-09T13:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T14:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064333995089998052"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064333995089998052",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2115,
+          "like_count": 31,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "야 찜기에다 고추넣고 고온살균해라 시발\n때밀이로 벅벅 밀고\n못하겠으면 고추 수납해"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 419,
+          "like_count": 17316,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1571
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T09:45:36.000Z",
+        "description": "찍먹이 결심했다.\n마음 먹었어, 방금.\n\n오늘부터 ㅇㅇ이의 지뢰되기로. \n 🔄올라운더 리버시블🔄 비팔🔕\nhttps://t.co/SowHFL8v53",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/Jickmuck",
+                "end": 81,
+                "expanded_url": "https://spin-spin.com/Jickmuck",
+                "start": 58,
+                "url": "https://t.co/SowHFL8v53"
+              }
+            ]
+          }
+        },
+        "id": "1932373286488580097",
+        "location": "유원불변합니다.",
+        "name": "찍먹(한섭이는훈육이필요한아이예요)",
+        "pinned_tweet_id": "2035365124417232975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016886179975876614/0-62XAVJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 83,
+          "like_count": 20106,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2273
+        },
+        "username": "jickmuckelier25",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2001972536171761990",
+    "created_at": "2025-12-19T15:19:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T16:19:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002036047174365325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1754805561856790528",
+          "start": 0,
+          "username": "Lenso946499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002036047174365325",
+    "in_reply_to_user_id": "1754805561856790528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001972536171761990",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lenso946499 舍曲林也敢o俺不中了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2001972536171761990",
+        "created_at": "2025-12-19T15:19:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T16:19:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002036047174365325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1754805561856790528",
+              "start": 0,
+              "username": "Lenso946499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002036047174365325",
+        "in_reply_to_user_id": "1754805561856790528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001972536171761990",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lenso946499 舍曲林也敢o俺不中了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754805561856790528",
+        "conversation_id": "2001972536171761990",
+        "created_at": "2025-12-19T11:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T12:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001972536171761990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tiandaidaidai/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Tiandaidaidai/status/2001307016359264594",
+              "start": 7,
+              "url": "https://t.co/Nk0uw17SOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001972536171761990",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 65,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001307016359264594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼笑死我了 https://t.co/Nk0uw17SOO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "一具小女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 203,
+          "like_count": 6100,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 451
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T09:54:01.000Z",
+        "description": "中國語/日本語/English is OK｜08年FtX🏳️‍⚧️she/he/they｜hrt开始于2025.11.28｜自傷 od｜双相 ADHD｜可互粉｜你的态度＝我的态度 玻璃心 擅用拉黑｜🚪52好友位 ｜\n小宝贝 @WaiMainb666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 112,
+                "username": "WaiMainb666"
+              }
+            ]
+          }
+        },
+        "id": "1754805561856790528",
+        "location": "東京 渋谷区",
+        "name": "伊琳🍥💊",
+        "pinned_tweet_id": "1993292063908282455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990833835047858181/Rf6yqhOl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 402,
+          "like_count": 2938,
+          "listed_count": 2,
+          "media_count": 144,
+          "tweet_count": 813
+        },
+        "username": "Lenso946499",
+        "verified": false
+      }
+    ]
+  }
+}

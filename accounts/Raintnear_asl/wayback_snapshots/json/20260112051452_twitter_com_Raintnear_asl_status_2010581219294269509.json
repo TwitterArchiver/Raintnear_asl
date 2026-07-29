@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2010581219294269509",
+    "created_at": "2026-01-12T05:14:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T06:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010581219294269509"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1883491513206034432",
+          "start": 3,
+          "username": "Maverickssurr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010581219294269509",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010227462001831962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Maverickssurr: 我需要一个能听话而且会天天围着我转的小狗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2010581219294269509",
+        "created_at": "2026-01-12T05:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T06:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010581219294269509"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1883491513206034432",
+              "start": 3,
+              "username": "Maverickssurr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010581219294269509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010227462001831962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Maverickssurr: 我需要一个能听话而且会天天围着我转的小狗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1883491513206034432",
+        "conversation_id": "2010227462001831962",
+        "created_at": "2026-01-11T05:49:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T06:49:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010227462001831962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2010227462001831962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 33328,
+          "like_count": 286,
+          "quote_count": 4,
+          "reply_count": 60,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我需要一个能听话而且会天天围着我转的小狗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007494314616877056/H3po3qIm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 264,
+          "like_count": 7206,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 600
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-26T12:26:51.000Z",
+        "description": "这个人又凶又饥渴 @mavericks_surr",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 9,
+                "username": "mavericks_surr"
+              }
+            ]
+          }
+        },
+        "id": "1883491513206034432",
+        "location": "shandong",
+        "name": "水仙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981031537232535554/GBXm87fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8101,
+          "following_count": 160,
+          "like_count": 1782,
+          "listed_count": 10,
+          "media_count": 38,
+          "tweet_count": 561
+        },
+        "username": "Maverickssurr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2077896046727021015",
+    "created_at": "2026-07-16T23:19:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T00:19:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077896046727021015"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2077896046727021015",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我又一次做错了，一件会让我后悔一辈子的事情，会让我愧疚一辈子的事情，我无法原谅。一想到在以后的生命中会在某些时刻想起那个人，都会让我痛苦，像爸爸的死亡一样永远在我心里。他也死亡了，我好痛苦，怎么办？两个人不断在我的脑海里。该拿什么拯救我？该拿什么拯救你？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2077896046727021015",
+        "created_at": "2026-07-16T23:19:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:19:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077896046727021015"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077896046727021015",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我又一次做错了，一件会让我后悔一辈子的事情，会让我愧疚一辈子的事情，我无法原谅。一想到在以后的生命中会在某些时刻想起那个人，都会让我痛苦，像爸爸的死亡一样永远在我心里。他也死亡了，我好痛苦，怎么办？两个人不断在我的脑海里。该拿什么拯救我？该拿什么拯救你？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 415,
+          "like_count": 17205,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1577
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

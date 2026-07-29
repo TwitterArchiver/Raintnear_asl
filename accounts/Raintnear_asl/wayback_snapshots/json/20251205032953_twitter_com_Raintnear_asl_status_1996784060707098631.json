@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996433344809058305"
+      ],
+      "media_source_tweet_id": [
+        "1996433348106047516"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1996784060707098631",
+    "created_at": "2025-12-05T03:29:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T04:29:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996784060707098631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1714810307443314688",
+          "start": 3,
+          "username": "DigitalD1sgust"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/81AVUMCadE",
+          "end": 43,
+          "expanded_url": "https://x.com/DigitalD1sgust/status/1996433348106047516/photo/1",
+          "media_key": "3_1996433344809058305",
+          "start": 20,
+          "url": "https://t.co/81AVUMCadE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996784060707098631",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 560
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996433348106047516",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DigitalD1sgust: https://t.co/81AVUMCadE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_1996433344809058305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7TBjK8WwAEAbhP.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996433344809058305"
+          ],
+          "media_source_tweet_id": [
+            "1996433348106047516"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1996784060707098631",
+        "created_at": "2025-12-05T03:29:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T04:29:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996784060707098631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1714810307443314688",
+              "start": 3,
+              "username": "DigitalD1sgust"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/81AVUMCadE",
+              "end": 43,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/1996433348106047516/photo/1",
+              "media_key": "3_1996433344809058305",
+              "start": 20,
+              "url": "https://t.co/81AVUMCadE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996784060707098631",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 560
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996433348106047516",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DigitalD1sgust: https://t.co/81AVUMCadE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996433344809058305"
+          ]
+        },
+        "author_id": "1714810307443314688",
+        "conversation_id": "1996433348106047516",
+        "created_at": "2025-12-04T04:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T05:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996433348106047516"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/81AVUMCadE",
+              "end": 23,
+              "expanded_url": "https://x.com/DigitalD1sgust/status/1996433348106047516/photo/1",
+              "media_key": "3_1996433344809058305",
+              "start": 0,
+              "url": "https://t.co/81AVUMCadE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996433348106047516",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 152,
+          "impression_count": 25835,
+          "like_count": 2481,
+          "quote_count": 25,
+          "reply_count": 2,
+          "retweet_count": 560
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/81AVUMCadE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192811927085056/sENQGjhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 185,
+          "like_count": 5436,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 396
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-19T01:07:04.000Z",
+        "description": "23-MDNI𖤐Artist!!! I collect dolls/toys. 🕷️🌿🪱🫀🐌 infp-t 2w3🦭",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/uurgothgf",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/uurgothgf",
+                "start": 0,
+                "url": "https://t.co/WvGkYaRCE1"
+              }
+            ]
+          }
+        },
+        "id": "1714810307443314688",
+        "location": "Hell",
+        "name": "≽^• ˕ • ྀི≼",
+        "pinned_tweet_id": "1991261098004107656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984865213594603520/Jasd_ZSz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9119,
+          "following_count": 574,
+          "like_count": 35413,
+          "listed_count": 21,
+          "media_count": 5999,
+          "tweet_count": 26177
+        },
+        "url": "https://t.co/WvGkYaRCE1",
+        "username": "DigitalD1sgust",
+        "verified": false
+      }
+    ]
+  }
+}

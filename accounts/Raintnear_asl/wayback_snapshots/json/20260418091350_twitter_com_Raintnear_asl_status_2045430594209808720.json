@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2045400833521603016",
+    "created_at": "2026-04-18T09:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T10:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045430594209808720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1817803292875083776",
+          "start": 0,
+          "username": "utlramanzero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045430594209808720",
+    "in_reply_to_user_id": "1817803292875083776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045411184078389623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utlramanzero 他不是我对象呀 是我朋友 而且找替代品的话对另一个人不公平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2045400833521603016",
+        "created_at": "2026-04-18T09:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045430594209808720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1817803292875083776",
+              "start": 0,
+              "username": "utlramanzero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045430594209808720",
+        "in_reply_to_user_id": "1817803292875083776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045411184078389623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utlramanzero 他不是我对象呀 是我朋友 而且找替代品的话对另一个人不公平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1817803292875083776",
+        "conversation_id": "2045400833521603016",
+        "created_at": "2026-04-18T07:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T08:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045411184078389623"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045411184078389623",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045400833521603016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 换个对象得了，放下一段关系的最佳方式就是找个替代品补位"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 345,
+          "like_count": 11728,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 989
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-29T06:04:20.000Z",
+        "description": "90顺直男老登/肥宅丑比/焦虑型话唠/四处嘴贱评论抖机灵/不发文，查成分的看推文没用得看回复",
+        "id": "1817803292875083776",
+        "name": "Mr.North",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869266250876243968/LLy6ZOXc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 140,
+          "like_count": 7240,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 3157
+        },
+        "username": "utlramanzero",
+        "verified": false
+      }
+    ]
+  }
+}

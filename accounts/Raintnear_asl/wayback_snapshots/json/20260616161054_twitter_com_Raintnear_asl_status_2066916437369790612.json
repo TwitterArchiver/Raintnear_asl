@@ -1,0 +1,398 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066641913332273153"
+      ],
+      "media_source_tweet_id": [
+        "2066641920739467694"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2066916437369790612",
+    "created_at": "2026-06-16T16:10:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T17:10:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066916437369790612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1916124356289433604",
+          "start": 3,
+          "username": "TanekaLowd31369"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PQEpw3bhXH",
+          "end": 49,
+          "expanded_url": "https://x.com/TanekaLowd31369/status/2066641920739467694/photo/1",
+          "media_key": "3_2066641913332273153",
+          "start": 26,
+          "url": "https://t.co/PQEpw3bhXH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066916437369790612",
+    "lang": "de",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2161
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066641920739467694",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TanekaLowd31369: rkgk https://t.co/PQEpw3bhXH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066641913332273153",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK4v3uIakAENcnr.jpg",
+        "width": 1423
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066641913332273153"
+          ],
+          "media_source_tweet_id": [
+            "2066641920739467694"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2066916437369790612",
+        "created_at": "2026-06-16T16:10:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:10:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066916437369790612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1916124356289433604",
+              "start": 3,
+              "username": "TanekaLowd31369"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQEpw3bhXH",
+              "end": 49,
+              "expanded_url": "https://x.com/TanekaLowd31369/status/2066641920739467694/photo/1",
+              "media_key": "3_2066641913332273153",
+              "start": 26,
+              "url": "https://t.co/PQEpw3bhXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066916437369790612",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2161
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066641920739467694",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TanekaLowd31369: rkgk https://t.co/PQEpw3bhXH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066641913332273153"
+          ]
+        },
+        "author_id": "1916124356289433604",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2066641920739467694",
+        "created_at": "2026-06-15T22:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T23:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066641920739467694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PQEpw3bhXH",
+              "end": 28,
+              "expanded_url": "https://x.com/TanekaLowd31369/status/2066641920739467694/photo/1",
+              "media_key": "3_2066641913332273153",
+              "start": 5,
+              "url": "https://t.co/PQEpw3bhXH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066641920739467694",
+        "lang": "de",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2421,
+          "impression_count": 124235,
+          "like_count": 20206,
+          "quote_count": 109,
+          "reply_count": 7,
+          "retweet_count": 2161
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk https://t.co/PQEpw3bhXH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065275168306733056/E5iByraj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 417,
+          "like_count": 17123,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1571
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-26T13:37:11.000Z",
+        "description": "適当",
+        "id": "1916124356289433604",
+        "location": "村瀬クリニック",
+        "name": "瀬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058596312153837568/Z8NGj38z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 769,
+          "following_count": 44,
+          "like_count": 638,
+          "listed_count": 1,
+          "media_count": 24,
+          "tweet_count": 229
+        },
+        "username": "TanekaLowd31369",
+        "verified": false
+      }
+    ]
+  }
+}

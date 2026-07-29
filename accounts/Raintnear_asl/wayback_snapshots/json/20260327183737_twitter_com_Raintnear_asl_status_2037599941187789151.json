@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037599934338465792"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2037599941187789151",
+    "created_at": "2026-03-27T18:37:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T19:37:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037599941187789151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OsWpvh6bHs",
+          "end": 32,
+          "expanded_url": "https://x.com/Raintnear_asl/status/2037599941187789151/photo/1",
+          "media_key": "3_2037599934338465792",
+          "start": 9,
+          "url": "https://t.co/OsWpvh6bHs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037599941187789151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严浩翔对得起谁… https://t.co/OsWpvh6bHs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 833,
+        "media_key": "3_2037599934338465792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEcCWDiagAA-uBq.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037599934338465792"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037599941187789151",
+        "created_at": "2026-03-27T18:37:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T19:37:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037599941187789151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OsWpvh6bHs",
+              "end": 32,
+              "expanded_url": "https://x.com/Raintnear_asl/status/2037599941187789151/photo/1",
+              "media_key": "3_2037599934338465792",
+              "start": 9,
+              "url": "https://t.co/OsWpvh6bHs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037599941187789151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严浩翔对得起谁… https://t.co/OsWpvh6bHs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 341,
+          "like_count": 11062,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 881
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

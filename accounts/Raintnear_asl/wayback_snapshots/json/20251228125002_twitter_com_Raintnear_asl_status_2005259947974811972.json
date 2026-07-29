@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2005246956126539985",
+    "created_at": "2025-12-28T12:50:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T13:50:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005259947974811972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1634598602126540800",
+          "start": 0,
+          "username": "234qaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005259947974811972",
+    "in_reply_to_user_id": "1634598602126540800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005248102987702493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@234qaq 那我还是更喜欢和平精英多一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2005246956126539985",
+        "created_at": "2025-12-28T12:50:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:50:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005259947974811972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1634598602126540800",
+              "start": 0,
+              "username": "234qaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005259947974811972",
+        "in_reply_to_user_id": "1634598602126540800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005248102987702493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@234qaq 那我还是更喜欢和平精英多一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634598602126540800",
+        "conversation_id": "2005246956126539985",
+        "created_at": "2025-12-28T12:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T13:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005248102987702493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005248102987702493",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005246956126539985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 和我玩暗区猛猛杀人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 262,
+          "like_count": 6946,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 536
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T16:54:16.000Z",
+        "description": "喜欢小猫 🚪0/9999/99999/",
+        "id": "1634598602126540800",
+        "name": "1",
+        "pinned_tweet_id": "2001602896178356646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004859859259568128/sGFfmyVw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 129,
+          "like_count": 2419,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 756
+        },
+        "username": "234qaq",
+        "verified": false
+      }
+    ]
+  }
+}

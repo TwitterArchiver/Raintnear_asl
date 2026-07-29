@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2064493190191988853",
+    "created_at": "2026-06-09T23:41:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T00:41:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064493190191988853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1903785474944372736",
+          "start": 3,
+          "username": "ppppppaaang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064493190191988853",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064364198784831934",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @ppppppaaang: 인생을 대체품으로 살아온 아이가\n결국 자신도 사랑하는 사람의 대체품을 찾게된게 \n진짜 너무 너무 슬 프 고 요 ........"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2064493190191988853",
+        "created_at": "2026-06-09T23:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T00:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064493190191988853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1903785474944372736",
+              "start": 3,
+              "username": "ppppppaaang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064493190191988853",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064364198784831934",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @ppppppaaang: 인생을 대체품으로 살아온 아이가\n결국 자신도 사랑하는 사람의 대체품을 찾게된게 \n진짜 너무 너무 슬 프 고 요 ........"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1903785474944372736",
+        "conversation_id": "2064364198784831934",
+        "created_at": "2026-06-09T15:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064364198784831934"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064364198784831934",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1163,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "following",
+        "text": "인생을 대체품으로 살아온 아이가\n결국 자신도 사랑하는 사람의 대체품을 찾게된게 \n진짜 너무 너무 슬 프 고 요 ........"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 419,
+          "like_count": 17286,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1566
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-23T12:26:49.000Z",
+        "description": "유원불변, 햇유동 외 1차bl • 준빵",
+        "id": "1903785474944372736",
+        "location": "비팔🔕",
+        "name": "나고양이",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061091415401394176/dehRZkDB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 88,
+          "like_count": 3924,
+          "listed_count": 0,
+          "media_count": 719,
+          "tweet_count": 5215
+        },
+        "username": "ppppppaaang",
+        "verified": false
+      }
+    ]
+  }
+}

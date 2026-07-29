@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2048762529694753263",
+    "created_at": "2026-04-27T13:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048762529694753263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029139367995076608",
+          "start": 3,
+          "username": "vunnjg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048762529694753263",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048057025796743326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @vunnjg: 其实我也幻想过类似于广州青少年的挂壁生活，但其实仔细想想就能发现这里面有有多大的坑，你以为是找到了一个安身之处，实际上是一群神人的互相撕逼，并且所有人都互相看不顺眼，一群人乱搞想想觉得还不如进厂呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2048762529694753263",
+        "created_at": "2026-04-27T13:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048762529694753263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029139367995076608",
+              "start": 3,
+              "username": "vunnjg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048762529694753263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048057025796743326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @vunnjg: 其实我也幻想过类似于广州青少年的挂壁生活，但其实仔细想想就能发现这里面有有多大的坑，你以为是找到了一个安身之处，实际上是一群神人的互相撕逼，并且所有人都互相看不顺眼，一群人乱搞想想觉得还不如进厂呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029139367995076608",
+        "conversation_id": "2048057025796743326",
+        "created_at": "2026-04-25T15:10:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T16:10:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048057025796743326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048057025796743326",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 7181,
+          "like_count": 179,
+          "quote_count": 2,
+          "reply_count": 14,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "其实我也幻想过类似于广州青少年的挂壁生活，但其实仔细想想就能发现这里面有有多大的坑，你以为是找到了一个安身之处，实际上是一群神人的互相撕逼，并且所有人都互相看不顺眼，一群人乱搞想想觉得还不如进厂呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 368,
+          "like_count": 13342,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1135
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T10:21:48.000Z",
+        "description": "爱嗑药的傻逼喜欢无差别攻击｜可互fo直fo会查成分",
+        "id": "2029139367995076608",
+        "location": "日本",
+        "name": "我才是真正的yyuz",
+        "pinned_tweet_id": "2029345765588648192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043969143054184449/twmsQgEO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 94,
+          "like_count": 3218,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 2474
+        },
+        "username": "vunnjg",
+        "verified": false
+      }
+    ]
+  }
+}

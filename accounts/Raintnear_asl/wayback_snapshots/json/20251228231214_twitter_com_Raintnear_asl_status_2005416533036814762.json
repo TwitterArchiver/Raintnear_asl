@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2005264662930309463",
+    "created_at": "2025-12-28T23:12:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T00:12:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005416533036814762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1788839920569872384",
+          "start": 0,
+          "username": "gxioyn276752"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005416533036814762",
+    "in_reply_to_user_id": "1788839920569872384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005368067363422571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gxioyn276752 ‘痛苦来自未来，却滞留在过去’这个说法天呢 把我一些朦胧的感受精准地语言化了😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2005264662930309463",
+        "created_at": "2025-12-28T23:12:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T00:12:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005416533036814762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1788839920569872384",
+              "start": 0,
+              "username": "gxioyn276752"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005416533036814762",
+        "in_reply_to_user_id": "1788839920569872384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005368067363422571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gxioyn276752 ‘痛苦来自未来，却滞留在过去’这个说法天呢 把我一些朦胧的感受精准地语言化了😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788839920569872384",
+        "conversation_id": "2005264662930309463",
+        "created_at": "2025-12-28T19:59:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T20:59:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005368067363422571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005368067363422571",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005264662930309463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 痛苦总是源于“特异”，幸福是有一个标准的，但痛苦总会从各种意想不到的角度袭来，痛苦来自未来，但始终停留在过去，幸福源于过去的积累，总是留在当下与可以遇见的未来，所以痛苦，创伤才总是和各种特异和小众的标签挂钩吧。很多亚一开始也都是在通过僭越和反叛来娱乐化消解掉那些“我之所以为我”的事物"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 264,
+          "like_count": 7096,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 550
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-10T07:54:23.000Z",
+        "description": "“但是哪怕是这样子还是想要被有心的人看见我身边人不为人知的细腻的另一面啊”                      \n\n                    男，非🍥，infp，q2977344354，八字，命理师卦师，塔罗🔮星盘～，欢迎骚扰喵QvQ",
+        "id": "1788839920569872384",
+        "location": "无锡",
+        "name": "祢霖洛拉～（人类观察ing）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974709432211886080/XxPel8-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 104,
+          "like_count": 451,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 378
+        },
+        "username": "gxioyn276752",
+        "verified": false
+      }
+    ]
+  }
+}

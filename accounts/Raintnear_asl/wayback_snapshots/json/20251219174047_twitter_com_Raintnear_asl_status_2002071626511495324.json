@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2002056891749548344",
+    "created_at": "2025-12-19T17:40:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T18:40:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002071626511495324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1581270347713810434",
+          "start": 0,
+          "username": "23arhson"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002071626511495324",
+    "in_reply_to_user_id": "1581270347713810434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002056891749548344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@23arhson 我也是！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2002056891749548344",
+        "created_at": "2025-12-19T17:40:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T18:40:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002071626511495324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1581270347713810434",
+              "start": 0,
+              "username": "23arhson"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002071626511495324",
+        "in_reply_to_user_id": "1581270347713810434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002056891749548344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@23arhson 我也是！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1581270347713810434",
+        "conversation_id": "2002056891749548344",
+        "created_at": "2025-12-19T16:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T17:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002056891749548344"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2002056891749548344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么吃了药也睡不着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "求互fo交友！QvQ",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "1999971147161776602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001851804276129792/YNp2RRwj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 204,
+          "like_count": 6168,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 458
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-15T13:07:01.000Z",
+        "description": "我叫冰蛾\n本账号的内容可能含有\n精神状态抽象/负能/会发带有敏感标记的血图/FTX/ASD/ADHD  \n不键政，大部分都在自言自语不必理会\n称呼我请用你/他/它\n互fo查成分后会回，  精神健全的号https://t.co/SQIlbwIFS6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/220284ami_nums…",
+                "end": 123,
+                "expanded_url": "https://x.com/220284ami_nums?t=qtEUH4JJVzlUSO-ozumqjQ&s=09",
+                "start": 100,
+                "url": "https://t.co/SQIlbwIFS6"
+              }
+            ]
+          }
+        },
+        "id": "1581270347713810434",
+        "location": "生化楼503",
+        "name": "火花飞蛾🏳️‍⚧️",
+        "pinned_tweet_id": "1962564270300012912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932467253951569920/p9TK_1FP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 229,
+          "like_count": 4054,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 914
+        },
+        "username": "23arhson",
+        "verified": false
+      }
+    ]
+  }
+}

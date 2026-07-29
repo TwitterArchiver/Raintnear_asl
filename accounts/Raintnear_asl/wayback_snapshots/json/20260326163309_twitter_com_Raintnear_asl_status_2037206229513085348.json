@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2037206229513085348",
+    "created_at": "2026-03-26T16:33:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T17:33:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037206229513085348"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1623016625204252673",
+          "start": 3,
+          "username": "71411z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037206229513085348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 46
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036853529193963989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @71411z: 很喜欢好不好这个词 感觉很亲密"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2037206229513085348",
+        "created_at": "2026-03-26T16:33:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T17:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037206229513085348"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1623016625204252673",
+              "start": 3,
+              "username": "71411z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037206229513085348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 46
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036853529193963989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @71411z: 很喜欢好不好这个词 感觉很亲密"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1623016625204252673",
+        "conversation_id": "2036853529193963989",
+        "created_at": "2026-03-25T17:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T18:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036853529193963989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036853529193963989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 60244,
+          "like_count": 708,
+          "quote_count": 14,
+          "reply_count": 69,
+          "retweet_count": 46
+        },
+        "reply_settings": "everyone",
+        "text": "很喜欢好不好这个词 感觉很亲密"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 340,
+          "like_count": 10953,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 874
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-07T17:51:43.000Z",
+        "description": "我会幸福的 ➡️互关通过@evszv",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 12,
+                "username": "evszv"
+              }
+            ]
+          }
+        },
+        "id": "1623016625204252673",
+        "name": "收敛水",
+        "pinned_tweet_id": "1987814546795569393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843336344086736896/ZgfJD3XW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4992,
+          "following_count": 279,
+          "like_count": 4086,
+          "listed_count": 14,
+          "media_count": 228,
+          "tweet_count": 1025
+        },
+        "username": "71411z",
+        "verified": false
+      }
+    ]
+  }
+}

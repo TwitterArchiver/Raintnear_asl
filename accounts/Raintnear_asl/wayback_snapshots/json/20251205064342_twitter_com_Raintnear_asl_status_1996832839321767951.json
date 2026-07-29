@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1996483985271119872"
+      ],
+      "media_source_tweet_id": [
+        "1996483987624063339"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1996832839321767951",
+    "created_at": "2025-12-05T06:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-05T07:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996832839321767951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1452431255740506116",
+          "start": 3,
+          "username": "H4TESEX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jNjxjX7bdG",
+          "end": 36,
+          "expanded_url": "https://x.com/H4TESEX/status/1996483987624063339/photo/1",
+          "media_key": "3_1996483985271119872",
+          "start": 13,
+          "url": "https://t.co/jNjxjX7bdG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996832839321767951",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 324
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996483987624063339",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @H4TESEX: https://t.co/jNjxjX7bdG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_1996483985271119872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7Tvm1XXYAAJY2t.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996483985271119872"
+          ],
+          "media_source_tweet_id": [
+            "1996483987624063339"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1996832839321767951",
+        "created_at": "2025-12-05T06:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T07:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996832839321767951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1452431255740506116",
+              "start": 3,
+              "username": "H4TESEX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNjxjX7bdG",
+              "end": 36,
+              "expanded_url": "https://x.com/H4TESEX/status/1996483987624063339/photo/1",
+              "media_key": "3_1996483985271119872",
+              "start": 13,
+              "url": "https://t.co/jNjxjX7bdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996832839321767951",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 324
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996483987624063339",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @H4TESEX: https://t.co/jNjxjX7bdG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996483985271119872"
+          ]
+        },
+        "author_id": "1452431255740506116",
+        "conversation_id": "1996483987624063339",
+        "created_at": "2025-12-04T07:37:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-04T08:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996483987624063339"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jNjxjX7bdG",
+              "end": 23,
+              "expanded_url": "https://x.com/H4TESEX/status/1996483987624063339/photo/1",
+              "media_key": "3_1996483985271119872",
+              "start": 0,
+              "url": "https://t.co/jNjxjX7bdG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996483987624063339",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 116,
+          "impression_count": 22854,
+          "like_count": 1574,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 324
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/jNjxjX7bdG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "name": "阿什莉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996192811927085056/sENQGjhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 186,
+          "like_count": 5526,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 400
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-25T00:26:28.000Z",
+        "description": "peace in the uncanny valley",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/nobodys_talking",
+                "end": 23,
+                "expanded_url": "http://x.com/nobodys_talking",
+                "start": 0,
+                "url": "https://t.co/a0wM7bYf0j"
+              }
+            ]
+          }
+        },
+        "id": "1452431255740506116",
+        "name": "hater",
+        "pinned_tweet_id": "1459713948740210690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1459377557325893633/xuoesSyr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18341,
+          "following_count": 364,
+          "like_count": 10384,
+          "listed_count": 85,
+          "media_count": 24920,
+          "tweet_count": 30092
+        },
+        "url": "https://t.co/a0wM7bYf0j",
+        "username": "H4TESEX",
+        "verified": false
+      }
+    ]
+  }
+}

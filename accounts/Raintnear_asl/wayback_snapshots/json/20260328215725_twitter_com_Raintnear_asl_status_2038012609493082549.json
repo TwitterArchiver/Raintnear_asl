@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2038012609493082549",
+    "created_at": "2026-03-28T21:57:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T22:57:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038012609493082549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1979627040157667328",
+          "start": 3,
+          "username": "Not0wned_zhao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038012609493082549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037841792218108009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Not0wned_zhao: 我不是早就警告过你不要乱跟别人玩了吗？为什么你还是不听我的？为什么你每天都在跟别人一起聊天也不来找我？你知道我每天盯着聊天框等着新消息有多难受吗？为什么不来找我？是因为别人长得比我好看吗？你看腻我了？还是觉得我性格不好？我讲话很难听？觉得我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2038012609493082549",
+        "created_at": "2026-03-28T21:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038012609493082549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1979627040157667328",
+              "start": 3,
+              "username": "Not0wned_zhao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038012609493082549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037841792218108009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Not0wned_zhao: 我不是早就警告过你不要乱跟别人玩了吗？为什么你还是不听我的？为什么你每天都在跟别人一起聊天也不来找我？你知道我每天盯着聊天框等着新消息有多难受吗？为什么不来找我？是因为别人长得比我好看吗？你看腻我了？还是觉得我性格不好？我讲话很难听？觉得我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979627040157667328",
+        "conversation_id": "2037841792218108009",
+        "created_at": "2026-03-28T10:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037841792218108009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037841792218108009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6500,
+          "like_count": 88,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "我不是早就警告过你不要乱跟别人玩了吗？为什么你还是不听我的？为什么你每天都在跟别人一起聊天也不来找我？你知道我每天盯着聊天框等着新消息有多难受吗？为什么不来找我？是因为别人长得比我好看吗？你看腻我了？还是觉得我性格不好？我讲话很难听？觉得我很烦？我明明已经努力忍着不烦你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 343,
+          "like_count": 11163,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 886
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-18T19:14:52.000Z",
+        "description": "我叫昭昭｜♒️05/173/50 ｜发自己爱看的(o^^o) ｜只看高壮帅男｜不聊骚不线下不约无门不加v｜不闲聊没有义务回答别骚扰🙏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pilot.damoplane.com/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://pilot.damoplane.com/#/register?code=xiadQvfC",
+                "start": 0,
+                "url": "https://t.co/SlnWdFFnZT"
+              }
+            ]
+          }
+        },
+        "id": "1979627040157667328",
+        "name": "魅魔村村长",
+        "pinned_tweet_id": "2023800898447904980",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018701608016830464/R7efrGA-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1310,
+          "following_count": 13,
+          "like_count": 199,
+          "listed_count": 5,
+          "media_count": 209,
+          "tweet_count": 1799
+        },
+        "url": "https://t.co/SlnWdFFnZT",
+        "username": "Not0wned_zhao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2046841721859039693",
+    "created_at": "2026-04-22T17:15:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T18:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047001246654218562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2045933877688999936",
+          "start": 0,
+          "username": "hanchun233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047001246654218562",
+    "in_reply_to_user_id": "2045933877688999936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046905031895781667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hanchun233 我不知道 我怕我讲出一些不太好的话所以我就选择不讲了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2046841721859039693",
+        "created_at": "2026-04-22T17:15:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047001246654218562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2045933877688999936",
+              "start": 0,
+              "username": "hanchun233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047001246654218562",
+        "in_reply_to_user_id": "2045933877688999936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046905031895781667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hanchun233 我不知道 我怕我讲出一些不太好的话所以我就选择不讲了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045933877688999936",
+        "conversation_id": "2046841721859039693",
+        "created_at": "2026-04-22T10:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T11:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046905031895781667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046905031895781667",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046841721859039693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 可是如果是你的朋友的话是不会在意你这些的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 359,
+          "like_count": 12378,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1058
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-19T18:33:51.000Z",
+        "description": "混吃等死的废物",
+        "id": "2045933877688999936",
+        "location": "Hong Kong",
+        "name": "娢椿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045944509247504385/XiHIY_LM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 47,
+          "like_count": 114,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 115
+        },
+        "username": "hanchun233",
+        "verified": false
+      }
+    ]
+  }
+}

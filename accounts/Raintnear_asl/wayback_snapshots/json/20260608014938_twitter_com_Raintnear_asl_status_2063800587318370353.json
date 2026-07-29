@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2063800587318370353",
+    "created_at": "2026-06-08T01:49:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T02:49:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063800587318370353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1286947328834838528",
+          "start": 3,
+          "username": "xianatonta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063800587318370353",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063283853536489675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xianatonta: amor t dedico mi carta de suicidio"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2063800587318370353",
+        "created_at": "2026-06-08T01:49:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T02:49:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063800587318370353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1286947328834838528",
+              "start": 3,
+              "username": "xianatonta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063800587318370353",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063283853536489675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xianatonta: amor t dedico mi carta de suicidio"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1286947328834838528",
+        "conversation_id": "2063283853536489675",
+        "created_at": "2026-06-06T15:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063283853536489675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063283853536489675",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 175,
+          "impression_count": 59895,
+          "like_count": 3827,
+          "quote_count": 35,
+          "reply_count": 3,
+          "retweet_count": 1282
+        },
+        "reply_settings": "everyone",
+        "text": "amor t dedico mi carta de suicidio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 421,
+          "like_count": 17262,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1560
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-25T08:52:19.000Z",
+        "description": "una perra inteligente como un border collie",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/xianaassilva/p…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/xianaassilva/profilecard/?igsh=aGhvejk0czhoOTlj",
+                "start": 0,
+                "url": "https://t.co/XwWyK4CZYV"
+              }
+            ]
+          }
+        },
+        "id": "1286947328834838528",
+        "location": "Galicia, España",
+        "name": "༒",
+        "pinned_tweet_id": "1967715202243449173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060735495248793602/9DNTnRUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 244,
+          "like_count": 79157,
+          "listed_count": 5,
+          "media_count": 379,
+          "tweet_count": 8572
+        },
+        "url": "https://t.co/XwWyK4CZYV",
+        "username": "xianatonta",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2073510111868522646",
+    "created_at": "2026-07-04T20:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T21:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073510111868522646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567668955661144064",
+          "start": 3,
+          "username": "jxtsummer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073510111868522646",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11064
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073033923785802225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jxtsummer: i been picking myself up since i was a kid i promise i will be alright"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2073510111868522646",
+        "created_at": "2026-07-04T20:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T21:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073510111868522646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567668955661144064",
+              "start": 3,
+              "username": "jxtsummer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073510111868522646",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11064
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073033923785802225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jxtsummer: i been picking myself up since i was a kid i promise i will be alright"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567668955661144064",
+        "conversation_id": "2073033923785802225",
+        "created_at": "2026-07-03T13:19:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073033923785802225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073033923785802225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2511,
+          "impression_count": 525007,
+          "like_count": 33137,
+          "quote_count": 248,
+          "reply_count": 81,
+          "retweet_count": 11064
+        },
+        "reply_settings": "everyone",
+        "text": "i been picking myself up since i was a kid i promise i will be alright"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 417,
+          "like_count": 17177,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1574
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-08T00:19:53.000Z",
+        "description": "ɹǝsɐɥɔ ɯɐǝɹp || 𝚍𝚖 𝚏𝚘𝚛 𝚊𝚍𝚜 𝚊𝚗𝚍 𝚙𝚛📩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/jxtsummer_?igs…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/jxtsummer_?igsh=MWZkMDNoMHpoNGdhYQ==",
+                "start": 0,
+                "url": "https://t.co/62rc7asXlE"
+              }
+            ]
+          }
+        },
+        "id": "1567668955661144064",
+        "name": "$",
+        "pinned_tweet_id": "2046214707464249396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019237494219329536/eOvPb-5N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7828,
+          "following_count": 531,
+          "like_count": 8163,
+          "listed_count": 10,
+          "media_count": 392,
+          "tweet_count": 6731
+        },
+        "url": "https://t.co/62rc7asXlE",
+        "username": "jxtsummer",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1977049587245289472"
+      ],
+      "media_source_tweet_id": [
+        "1977049599266415047"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "1998585128776511843",
+    "created_at": "2025-12-10T02:46:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T03:46:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998585128776511843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1798445367345754112",
+          "start": 3,
+          "username": "kidutuskone"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8cZ8MwcSWD",
+          "end": 40,
+          "expanded_url": "https://x.com/kidutuskone/status/1977049599266415047/photo/1",
+          "media_key": "3_1977049587245289472",
+          "start": 17,
+          "url": "https://t.co/8cZ8MwcSWD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998585128776511843",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 553
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977049599266415047",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kidutuskone: https://t.co/8cZ8MwcSWD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_1977049587245289472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2_kH-8WkAAr3hv.png",
+        "width": 695
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977049587245289472"
+          ],
+          "media_source_tweet_id": [
+            "1977049599266415047"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "1998585128776511843",
+        "created_at": "2025-12-10T02:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T03:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998585128776511843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1798445367345754112",
+              "start": 3,
+              "username": "kidutuskone"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cZ8MwcSWD",
+              "end": 40,
+              "expanded_url": "https://x.com/kidutuskone/status/1977049599266415047/photo/1",
+              "media_key": "3_1977049587245289472",
+              "start": 17,
+              "url": "https://t.co/8cZ8MwcSWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998585128776511843",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 553
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977049599266415047",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kidutuskone: https://t.co/8cZ8MwcSWD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977049587245289472"
+          ]
+        },
+        "author_id": "1798445367345754112",
+        "conversation_id": "1977049599266415047",
+        "created_at": "2025-10-11T16:32:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T17:32:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1977049599266415047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8cZ8MwcSWD",
+              "end": 23,
+              "expanded_url": "https://x.com/kidutuskone/status/1977049599266415047/photo/1",
+              "media_key": "3_1977049587245289472",
+              "start": 0,
+              "url": "https://t.co/8cZ8MwcSWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977049599266415047",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 574,
+          "impression_count": 79209,
+          "like_count": 5831,
+          "quote_count": 13,
+          "reply_count": 9,
+          "retweet_count": 553
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/8cZ8MwcSWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "09｜重抑重焦｜ed｜od｜自残｜欢迎互fo交友qwq",
+        "id": "1741871837464694784",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998384976228757504/8vMYdond_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 194,
+          "like_count": 5755,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 423
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-05T20:03:02.000Z",
+        "description": "guro/nsfw 18 ↑ First fullbody 4D Model @konekidutus",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "konekidutus"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kidutuskone.straw.page",
+                "end": 23,
+                "expanded_url": "https://kidutuskone.straw.page",
+                "start": 0,
+                "url": "https://t.co/ecoL2eEtlX"
+              }
+            ]
+          }
+        },
+        "id": "1798445367345754112",
+        "name": "father Mary",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872778902550032384/SXN-TeAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34433,
+          "following_count": 99,
+          "like_count": 2148,
+          "listed_count": 39,
+          "media_count": 95,
+          "tweet_count": 348
+        },
+        "url": "https://t.co/ecoL2eEtlX",
+        "username": "kidutuskone",
+        "verified": false
+      }
+    ]
+  }
+}

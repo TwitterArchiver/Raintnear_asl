@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2057802128446341366",
+    "created_at": "2026-05-22T12:33:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057802128446341366"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1703120704214855680",
+          "start": 3,
+          "username": "xiaozhou966"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057802128446341366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 58
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057392038333849740",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xiaozhou966: 谁想维持关系谁就付出 这句话很难懂吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2057802128446341366",
+        "created_at": "2026-05-22T12:33:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057802128446341366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1703120704214855680",
+              "start": 3,
+              "username": "xiaozhou966"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057802128446341366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 58
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057392038333849740",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xiaozhou966: 谁想维持关系谁就付出 这句话很难懂吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1703120704214855680",
+        "conversation_id": "2057392038333849740",
+        "created_at": "2026-05-21T09:24:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:24:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057392038333849740"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057392038333849740",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 72546,
+          "like_count": 826,
+          "quote_count": 13,
+          "reply_count": 157,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "谁想维持关系谁就付出 这句话很难懂吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "而我呢，只是一头路人。一座陌生人。一片用户。一只老百姓。一粒普通人。你把手机关掉，我就死了。放下屠刀，好吗？佛在救你。",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 418,
+          "like_count": 16524,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1464
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-16T18:56:50.000Z",
+        "description": "brat/已婚/碎碎念/不加v",
+        "id": "1703120704214855680",
+        "location": "0.18km",
+        "name": "周周",
+        "pinned_tweet_id": "2048359258698428669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1727540741763993600/fwONyw4p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 100,
+          "like_count": 113,
+          "listed_count": 4,
+          "media_count": 306,
+          "tweet_count": 1241
+        },
+        "username": "xiaozhou966",
+        "verified": false
+      }
+    ]
+  }
+}

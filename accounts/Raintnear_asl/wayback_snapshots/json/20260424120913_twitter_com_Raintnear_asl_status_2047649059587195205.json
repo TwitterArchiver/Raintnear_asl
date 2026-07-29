@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2047649059587195205",
+    "created_at": "2026-04-24T12:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T13:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047649059587195205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1270254879370440707",
+          "start": 3,
+          "username": "WaFFsdzAiNop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047649059587195205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047313400842055976",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WaFFsdzAiNop: 中国人表达感情很含蓄，但在说话伤人的时候真的很直接。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2047649059587195205",
+        "created_at": "2026-04-24T12:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T13:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047649059587195205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1270254879370440707",
+              "start": 3,
+              "username": "WaFFsdzAiNop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047649059587195205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047313400842055976",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @WaFFsdzAiNop: 中国人表达感情很含蓄，但在说话伤人的时候真的很直接。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1270254879370440707",
+        "conversation_id": "2047313400842055976",
+        "created_at": "2026-04-23T13:55:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T14:55:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047313400842055976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047313400842055976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 89895,
+          "like_count": 1443,
+          "quote_count": 24,
+          "reply_count": 340,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "中国人表达感情很含蓄，但在说话伤人的时候真的很直接。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 362,
+          "like_count": 12603,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1081
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-09T07:22:36.000Z",
+        "description": "",
+        "id": "1270254879370440707",
+        "name": "Kiki",
+        "pinned_tweet_id": "1903100872285925555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045459413855596544/4XQCAYO3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14934,
+          "following_count": 565,
+          "like_count": 22703,
+          "listed_count": 46,
+          "media_count": 1085,
+          "tweet_count": 5561
+        },
+        "username": "WaFFsdzAiNop",
+        "verified": true
+      }
+    ]
+  }
+}

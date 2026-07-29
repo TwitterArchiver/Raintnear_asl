@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2064571360593191399",
+    "created_at": "2026-06-11T15:18:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T16:18:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065091411834544440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1415147647183187968",
+          "start": 0,
+          "username": "Kjuiw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065091411834544440",
+    "in_reply_to_user_id": "1415147647183187968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064571360593191399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kjuiw 我是中国人，我支持你"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 675,
+        "media_key": "3_2064571236617977856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKbUmeQagAAhknF.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2064571360593191399",
+        "created_at": "2026-06-11T15:18:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T16:18:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065091411834544440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1415147647183187968",
+              "start": 0,
+              "username": "Kjuiw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065091411834544440",
+        "in_reply_to_user_id": "1415147647183187968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064571360593191399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kjuiw 我是中国人，我支持你"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064571236617977856"
+          ]
+        },
+        "author_id": "1415147647183187968",
+        "conversation_id": "2064571360593191399",
+        "created_at": "2026-06-10T04:52:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:52:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064571360593191399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N0dpXt6cyS",
+              "end": 97,
+              "expanded_url": "https://x.com/Kjuiw/status/2064571360593191399/photo/1",
+              "media_key": "3_2064571236617977856",
+              "start": 74,
+              "url": "https://t.co/N0dpXt6cyS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064571360593191399",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 27709,
+          "like_count": 937,
+          "quote_count": 53,
+          "reply_count": 29,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "중국쪽 유불단분들이 저한테 계속 불안하다고 멘션 다시는데 구도훈이 정말로 외간남자랑 잤다면 제가 그냥 구도훈 엉덩이를 찢어드릴게요. https://t.co/N0dpXt6cyS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "一个女孩",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "死了也是艳尸一具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062554708003508225/NUe-a4Jc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 416,
+          "like_count": 17061,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1570
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-14T03:14:35.000Z",
+        "description": "본인이 정유원이다 싶으시면 팔워거세요",
+        "id": "1415147647183187968",
+        "location": "훈냐",
+        "name": "구도훈대사봇",
+        "pinned_tweet_id": "2039670351844802716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040446927695990784/XqTa6DPT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 104,
+          "like_count": 27272,
+          "listed_count": 0,
+          "media_count": 805,
+          "tweet_count": 11588
+        },
+        "username": "Kjuiw",
+        "verified": false
+      }
+    ]
+  }
+}

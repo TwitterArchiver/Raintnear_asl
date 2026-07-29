@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052068209268777104",
+    "created_at": "2026-05-06T17:48:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T18:48:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052083016009175228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2039058778469908480",
+          "start": 0,
+          "username": "_XiaoRS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052083016009175228",
+    "in_reply_to_user_id": "2039058778469908480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052068209268777104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_XiaoRS 好大（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2052068207154880514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHppKX5W4AImrMv.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052068209268777104",
+        "created_at": "2026-05-06T17:48:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T18:48:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052083016009175228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2039058778469908480",
+              "start": 0,
+              "username": "_XiaoRS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052083016009175228",
+        "in_reply_to_user_id": "2039058778469908480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052068209268777104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_XiaoRS 好大（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052068207154880514"
+          ]
+        },
+        "author_id": "2039058778469908480",
+        "conversation_id": "2052068209268777104",
+        "created_at": "2026-05-06T16:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052068209268777104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vZA7RkAh1I",
+              "end": 43,
+              "expanded_url": "https://x.com/_XiaoRS/status/2052068209268777104/photo/1",
+              "media_key": "3_2052068207154880514",
+              "start": 20,
+              "url": "https://t.co/vZA7RkAh1I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052068209268777104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "请你自己去厨房吃蟑螂药好吗🏳️🏳️🏳️ https://t.co/vZA7RkAh1I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我 不要给我发任何关于性的消息",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 392,
+          "like_count": 14731,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1255
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T19:15:14.000Z",
+        "description": "我很喜欢这个帽子🎩",
+        "id": "2039058778469908480",
+        "name": "XR诗",
+        "pinned_tweet_id": "2051833222816833991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039061968922038272/D6KQAuWv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 24,
+          "like_count": 1431,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 237
+        },
+        "username": "_XiaoRS",
+        "verified": false
+      }
+    ]
+  }
+}

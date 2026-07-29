@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2037231053878812730",
+    "created_at": "2026-03-26T18:11:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T19:11:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037231053878812730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1585942498253238273",
+          "start": 3,
+          "username": "AliceEslight"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037231053878812730",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 242
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036425423257800893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AliceEslight: 5岁：想要安宁一生\n7岁：想意外死亡。\n10岁：想自杀。\n12岁：想自杀。\n15岁：想自杀。\n18岁：想自杀。\n现在：想自杀。\n关于我人生目标的变化。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2037231053878812730",
+        "created_at": "2026-03-26T18:11:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:11:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037231053878812730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1585942498253238273",
+              "start": 3,
+              "username": "AliceEslight"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037231053878812730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 242
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036425423257800893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AliceEslight: 5岁：想要安宁一生\n7岁：想意外死亡。\n10岁：想自杀。\n12岁：想自杀。\n15岁：想自杀。\n18岁：想自杀。\n现在：想自杀。\n关于我人生目标的变化。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1585942498253238273",
+        "conversation_id": "2036425423257800893",
+        "created_at": "2026-03-24T12:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T13:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036425423257800893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036425423257800893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 40066,
+          "like_count": 1764,
+          "quote_count": 10,
+          "reply_count": 58,
+          "retweet_count": 242
+        },
+        "reply_settings": "everyone",
+        "text": "5岁：想要安宁一生\n7岁：想意外死亡。\n10岁：想自杀。\n12岁：想自杀。\n15岁：想自杀。\n18岁：想自杀。\n现在：想自杀。\n关于我人生目标的变化。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "什么都发 只是碎碎念而已 不要批判我",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 340,
+          "like_count": 10962,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 873
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-28T10:32:40.000Z",
+        "description": "爱丽丝，明天是什么颜色呢？",
+        "id": "1585942498253238273",
+        "location": "无人可以替代",
+        "name": "疯子酱&爱丽丝",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967640168355205120/rB48nN0F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 89,
+          "like_count": 37340,
+          "listed_count": 4,
+          "media_count": 627,
+          "tweet_count": 13836
+        },
+        "username": "AliceEslight",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2052042766385811562",
+    "created_at": "2026-05-06T15:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052042766385811562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052042766385811562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 310
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051607785658585136",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @pearl0812lucky: 你想陪我多久？\n一秒钟？那刚好够我勾住你的小指\n一分钟？那我们可以短暂地接个吻\n一小时？那我要带你去喜欢的公园散散步\n一天？那收藏的菜谱可以做完十分之一了\n一个月？那我们至少可以一起做一次大扫除\n一年？那我会定制最独特的周年纪念蛋糕。\n一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2052042766385811562",
+        "created_at": "2026-05-06T15:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052042766385811562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052042766385811562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051607785658585136",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @pearl0812lucky: 你想陪我多久？\n一秒钟？那刚好够我勾住你的小指\n一分钟？那我们可以短暂地接个吻\n一小时？那我要带你去喜欢的公园散散步\n一天？那收藏的菜谱可以做完十分之一了\n一个月？那我们至少可以一起做一次大扫除\n一年？那我会定制最独特的周年纪念蛋糕。\n一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2051607785658585136",
+        "created_at": "2026-05-05T10:19:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051607785658585136"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051607785658585136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 32782,
+          "like_count": 1513,
+          "quote_count": 16,
+          "reply_count": 0,
+          "retweet_count": 310
+        },
+        "reply_settings": "following",
+        "text": "你想陪我多久？\n一秒钟？那刚好够我勾住你的小指\n一分钟？那我们可以短暂地接个吻\n一小时？那我要带你去喜欢的公园散散步\n一天？那收藏的菜谱可以做完十分之一了\n一个月？那我们至少可以一起做一次大扫除\n一年？那我会定制最独特的周年纪念蛋糕。\n一辈子？…对不起，我好像又说了什么很傻的话"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "什么都发 只是碎碎念而已 不要批判我 不要给我发任何关于性的消息",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035757207099158528/o84Uzxpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 388,
+          "like_count": 14588,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 1244
+        },
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地   匿名https://t.co/KI0NDjJlXB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangecat60022",
+                "end": 40,
+                "expanded_url": "https://ngl.link/orangecat60022",
+                "start": 17,
+                "url": "https://t.co/KI0NDjJlXB"
+              }
+            ]
+          }
+        },
+        "id": "1991711672684421121",
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003664682989522944/wMmqYGn__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6810,
+          "following_count": 64,
+          "like_count": 6981,
+          "listed_count": 7,
+          "media_count": 154,
+          "tweet_count": 1669
+        },
+        "username": "pearl0812lucky",
+        "verified": false
+      }
+    ]
+  }
+}
