@@ -1,0 +1,111 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2082882925952217401",
+    "created_at": "2026-07-30T17:36:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T18:36:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082882925952217401"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2082882925952217401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你的朋友好多好受欢迎啊，我都是一个人在房间里等死呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2082882925952217401",
+        "created_at": "2026-07-30T17:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T18:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082882925952217401"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082882925952217401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你的朋友好多好受欢迎啊，我都是一个人在房间里等死呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 417,
+          "like_count": 17262,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1590
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}

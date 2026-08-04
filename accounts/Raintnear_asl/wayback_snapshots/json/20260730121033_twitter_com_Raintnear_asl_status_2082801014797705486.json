@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2082801014797705486",
+    "created_at": "2026-07-30T12:10:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082801014797705486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1469027102536380416",
+          "start": 3,
+          "username": "auesea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082801014797705486",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 644
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082462571983241683",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @auesea: 사랑에 무슨 이유가 있겠어요 이유가 없는 게 사랑인데"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2082801014797705486",
+        "created_at": "2026-07-30T12:10:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082801014797705486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1469027102536380416",
+              "start": 3,
+              "username": "auesea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082801014797705486",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 644
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082462571983241683",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @auesea: 사랑에 무슨 이유가 있겠어요 이유가 없는 게 사랑인데"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1469027102536380416",
+        "conversation_id": "2082462571983241683",
+        "created_at": "2026-07-29T13:45:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:45:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082462571983241683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082462571983241683",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 142,
+          "impression_count": 66178,
+          "like_count": 1999,
+          "quote_count": 77,
+          "reply_count": 0,
+          "retweet_count": 644
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "사랑에 무슨 이유가 있겠어요 이유가 없는 게 사랑인데"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 416,
+          "like_count": 17205,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1580
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-09T19:32:24.000Z",
+        "description": "",
+        "id": "1469027102536380416",
+        "name": "໊",
+        "pinned_tweet_id": "1862826866912231706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076644065647747072/13c69AqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59601,
+          "following_count": 0,
+          "like_count": 100248,
+          "listed_count": 136,
+          "media_count": 1194,
+          "tweet_count": 16414
+        },
+        "url": "",
+        "username": "auesea",
+        "verified": false
+      }
+    ]
+  }
+}

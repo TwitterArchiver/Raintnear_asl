@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2082804670813053086",
+    "created_at": "2026-07-30T12:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T13:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082804670813053086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2055948143481511936",
+          "start": 3,
+          "username": "chudology"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082804670813053086",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2792
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082213361010585675",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chudology: why do i dress like that and talk like that and laugh like that and speak like that and look like that and sound like that a…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2082804670813053086",
+        "created_at": "2026-07-30T12:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T13:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082804670813053086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2055948143481511936",
+              "start": 3,
+              "username": "chudology"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082804670813053086",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2792
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082213361010585675",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chudology: why do i dress like that and talk like that and laugh like that and speak like that and look like that and sound like that a…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055948143481511936",
+        "conversation_id": "2082213361010585675",
+        "created_at": "2026-07-28T21:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T22:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082213361010585675"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082213361010585675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 269,
+          "impression_count": 51067,
+          "like_count": 6878,
+          "quote_count": 22,
+          "reply_count": 8,
+          "retweet_count": 2792
+        },
+        "reply_settings": "everyone",
+        "text": "why do i dress like that and talk like that and laugh like that and speak like that and look like that and sound like that and walk like that"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 416,
+          "like_count": 17206,
+          "listed_count": 1,
+          "media_count": 15,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T09:48:06.000Z",
+        "description": "⠀what if gay apple store monkey had whatsapp ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ ⠀ @twinkhotline ⠀ ⠀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "twinkhotline"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rentry.co/boyhentai",
+                "end": 23,
+                "expanded_url": "http://rentry.co/boyhentai",
+                "start": 0,
+                "url": "https://t.co/NtQYPzrZU4"
+              }
+            ]
+          }
+        },
+        "id": "2055948143481511936",
+        "location": "17 he him ",
+        "name": "َ",
+        "pinned_tweet_id": "2082399108539752593",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081078535725232128/BubOzZ60_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 269,
+          "like_count": 3814,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 1995
+        },
+        "url": "https://t.co/NtQYPzrZU4",
+        "username": "chudology",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2084328879196610961",
+    "created_at": "2026-08-03T17:21:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:21:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084328879196610961"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2084328879196610961",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "出轨滥交的人和动物有什么区别"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2084328879196610961",
+        "created_at": "2026-08-03T17:21:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:21:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084328879196610961"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084328879196610961",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "出轨滥交的人和动物有什么区别"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 415,
+          "like_count": 17275,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1589
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      }
+    ]
+  }
+}
