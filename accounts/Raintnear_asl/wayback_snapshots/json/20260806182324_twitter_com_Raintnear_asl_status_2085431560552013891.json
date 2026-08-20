@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2085089059467042993",
+    "created_at": "2026-08-06T18:23:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:23:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085431560552013891"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1258860847612538880",
+          "start": 0,
+          "username": "thisisarammyy"
+        },
+        {
+          "end": 25,
+          "id": "2038121090510114816",
+          "start": 15,
+          "username": "doidissss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085431560552013891",
+    "in_reply_to_user_id": "1258860847612538880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085260293056221575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thisisarammyy @doidissss 死全家的傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2085089059467042993",
+        "created_at": "2026-08-06T18:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085431560552013891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1258860847612538880",
+              "start": 0,
+              "username": "thisisarammyy"
+            },
+            {
+              "end": 25,
+              "id": "2038121090510114816",
+              "start": 15,
+              "username": "doidissss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085431560552013891",
+        "in_reply_to_user_id": "1258860847612538880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085260293056221575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thisisarammyy @doidissss 死全家的傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258860847612538880",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1427561726438871042",
+              "name": "Ni-Ki"
+            }
+          }
+        ],
+        "conversation_id": "2085089059467042993",
+        "created_at": "2026-08-06T07:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T08:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085260293056221575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2038121090510114816",
+              "start": 0,
+              "username": "doidissss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085260293056221575",
+        "in_reply_to_user_id": "2038121090510114816",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 58623,
+          "like_count": 564,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085089059467042993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@doidissss i don’t even want to think about how he might be feeling if he found out. its not your fault, ni-ki. we love you."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 420,
+          "like_count": 17675,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-08T20:46:48.000Z",
+        "description": "━･ pro-boycott, ot7 \nit’s my fate ⊹ ࣪ ˖ ໒꒱ ⊹ ࣪ ˖ enhypen is seven-",
+        "id": "1258860847612538880",
+        "name": "amy",
+        "pinned_tweet_id": "2070374326453350668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070373247430848512/xqMm44_U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 60,
+          "like_count": 274,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 213
+        },
+        "url": "",
+        "username": "thisisarammyy",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-29T05:10:00.000Z",
+        "description": "2 акк @doidisss",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "doidisss"
+              }
+            ]
+          }
+        },
+        "id": "2038121090510114816",
+        "name": "Хана | ENHYPEN IS 7",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067682781795061760/q0JS4RqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 144,
+          "like_count": 2432,
+          "listed_count": 3,
+          "media_count": 902,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "doidissss",
+        "verified": false
+      }
+    ]
+  }
+}

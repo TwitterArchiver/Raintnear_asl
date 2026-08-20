@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085332908114690049"
+      ],
+      "media_source_tweet_id": [
+        "2085332912707432775"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2085745431296757979",
+    "created_at": "2026-08-07T15:10:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T16:10:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085745431296757979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1836982576646606849",
+          "start": 3,
+          "username": "ramen_hime_max"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/e5anSycUDq",
+          "end": 53,
+          "expanded_url": "https://x.com/ramen_hime_max/status/2085332912707432775/photo/1",
+          "media_key": "3_2085332908114690049",
+          "start": 30,
+          "url": "https://t.co/e5anSycUDq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085745431296757979",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 283
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085332912707432775",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ramen_hime_max: MINAちゃん。… https://t.co/e5anSycUDq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2085332908114690049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPCXOzqbwAEWnKf.jpg",
+        "width": 834
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085332908114690049"
+          ]
+        },
+        "author_id": "1836982576646606849",
+        "conversation_id": "2085332912707432775",
+        "created_at": "2026-08-06T11:51:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085332912707432775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5anSycUDq",
+              "end": 32,
+              "expanded_url": "https://x.com/ramen_hime_max/status/2085332912707432775/photo/1",
+              "media_key": "3_2085332908114690049",
+              "start": 9,
+              "url": "https://t.co/e5anSycUDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085332912707432775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "MINAちゃん。\nニキために用意したひまわりの花束を抱え、ステージを見つめて笑っている写真を見るたび胸が締めつけられる。純粋に好きという気持ちだけで応援していたはずなのに、たった一度の配信で発せられた言葉が憶測を呼び、悪意となって彼女に向けられた。誰かを心から応援する気持ちは、決して攻撃される理由になってはいけない。何気ない一言が、ニキを人生のすべてのように想っていた一人の命を奪ってしまった。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1093,
+          "impression_count": 1975030,
+          "like_count": 9542,
+          "quote_count": 62,
+          "reply_count": 76,
+          "retweet_count": 283
+        },
+        "reply_settings": "everyone",
+        "text": "MINAちゃん。 https://t.co/e5anSycUDq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085332908114690049"
+          ],
+          "media_source_tweet_id": [
+            "2085332912707432775"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2085745431296757979",
+        "created_at": "2026-08-07T15:10:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T16:10:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085745431296757979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1836982576646606849",
+              "start": 3,
+              "username": "ramen_hime_max"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5anSycUDq",
+              "end": 53,
+              "expanded_url": "https://x.com/ramen_hime_max/status/2085332912707432775/photo/1",
+              "media_key": "3_2085332908114690049",
+              "start": 30,
+              "url": "https://t.co/e5anSycUDq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085745431296757979",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 283
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085332912707432775",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ramen_hime_max: MINAちゃん。… https://t.co/e5anSycUDq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 420,
+          "like_count": 17725,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1601
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-20T04:16:01.000Z",
+        "description": "ラーメンは呼吸。1日3杯は最低ライン。\n世界のラーメン全部制覇するまで寝れません。\nA world beyond the headlines.\nThe stories they scroll past.\nThe moments worth remembering.",
+        "id": "1836982576646606849",
+        "name": "🍜無限麺子🍜",
+        "pinned_tweet_id": "2057775508818153924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084557189340114944/WkiI2Agv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12214,
+          "following_count": 594,
+          "like_count": 6417,
+          "listed_count": 36,
+          "media_count": 633,
+          "tweet_count": 6508
+        },
+        "url": "",
+        "username": "ramen_hime_max",
+        "verified": true
+      }
+    ]
+  }
+}

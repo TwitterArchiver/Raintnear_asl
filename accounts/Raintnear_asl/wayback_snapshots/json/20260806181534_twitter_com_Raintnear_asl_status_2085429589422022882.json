@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2085429589422022882",
+    "created_at": "2026-08-06T18:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085429589422022882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1922389433510461442",
+          "start": 3,
+          "username": "RieXwX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085429589422022882",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 41
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085237014694334570",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RieXwX: 烦的要死 所有人嘴上都在假惺惺的说“哇好担心好心疼你哦 可是我做不到什么呢”\n傻逼你可以给我买吃痛药吃啊 可以给我买礼物啊 可以给我转钱啊 可以给我点外卖啊 花钱的事一个不做 嘴上把自己说的多关心我一样\n我对亲近的人都是能行动的地方绝不只是嘴上说说 嘴上…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2085429589422022882",
+        "created_at": "2026-08-06T18:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085429589422022882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1922389433510461442",
+              "start": 3,
+              "username": "RieXwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085429589422022882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085237014694334570",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RieXwX: 烦的要死 所有人嘴上都在假惺惺的说“哇好担心好心疼你哦 可是我做不到什么呢”\n傻逼你可以给我买吃痛药吃啊 可以给我买礼物啊 可以给我转钱啊 可以给我点外卖啊 花钱的事一个不做 嘴上把自己说的多关心我一样\n我对亲近的人都是能行动的地方绝不只是嘴上说说 嘴上…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1922389433510461442",
+        "conversation_id": "2085237014694334570",
+        "created_at": "2026-08-06T05:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085237014694334570"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085237014694334570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 9447,
+          "like_count": 235,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "烦的要死 所有人嘴上都在假惺惺的说“哇好担心好心疼你哦 可是我做不到什么呢”\n傻逼你可以给我买吃痛药吃啊 可以给我买礼物啊 可以给我转钱啊 可以给我点外卖啊 花钱的事一个不做 嘴上把自己说的多关心我一样\n我对亲近的人都是能行动的地方绝不只是嘴上说说 嘴上说有什么用 真的关心就用行动和钱表示啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 419,
+          "like_count": 17656,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1598
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-13T20:32:33.000Z",
+        "description": "而我就是一个只爱打游戏的老实人，我什么也不懂。",
+        "id": "1922389433510461442",
+        "name": "リエ様",
+        "pinned_tweet_id": "1934267577569853845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978013469522960384/Ykrg_bKr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10134,
+          "following_count": 53,
+          "like_count": 439,
+          "listed_count": 11,
+          "media_count": 389,
+          "tweet_count": 1435
+        },
+        "url": "",
+        "username": "RieXwX",
+        "verified": false
+      }
+    ]
+  }
+}

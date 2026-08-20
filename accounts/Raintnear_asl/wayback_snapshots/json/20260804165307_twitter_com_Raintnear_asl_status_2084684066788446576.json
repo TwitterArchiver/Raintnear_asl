@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2084684066788446576",
+    "created_at": "2026-08-04T16:53:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T17:53:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084684066788446576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1824037197210898432",
+          "start": 3,
+          "username": "ivan23389"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084684066788446576",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 785
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084298010809540640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ivan23389: 我明明上辈子就该自杀了\n我明明上一年就该自杀了\n我明明上个月就该自杀了\n我明明上一天就该自杀了\n我明明上一小时就该自杀了\n我明明上一分钟就该自杀了\n我明明上一秒就该自杀了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2084684066788446576",
+        "created_at": "2026-08-04T16:53:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T17:53:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084684066788446576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1824037197210898432",
+              "start": 3,
+              "username": "ivan23389"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084684066788446576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 785
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084298010809540640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ivan23389: 我明明上辈子就该自杀了\n我明明上一年就该自杀了\n我明明上个月就该自杀了\n我明明上一天就该自杀了\n我明明上一小时就该自杀了\n我明明上一分钟就该自杀了\n我明明上一秒就该自杀了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1824037197210898432",
+        "conversation_id": "2084298010809540640",
+        "created_at": "2026-08-03T15:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084298010809540640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084298010809540640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 182,
+          "impression_count": 47438,
+          "like_count": 3279,
+          "quote_count": 29,
+          "reply_count": 32,
+          "retweet_count": 785
+        },
+        "reply_settings": "everyone",
+        "text": "我明明上辈子就该自杀了\n我明明上一年就该自杀了\n我明明上个月就该自杀了\n我明明上一天就该自杀了\n我明明上一小时就该自杀了\n我明明上一分钟就该自杀了\n我明明上一秒就该自杀了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 418,
+          "like_count": 17289,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1592
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-15T10:55:45.000Z",
+        "description": "=Tomorin_燈/09抑郁od蛆/双向\n友好一切/同类互fo/自杀三次被救\n我的人生像假烟一样受万人唾弃",
+        "id": "1824037197210898432",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "確信犯（淡推",
+        "pinned_tweet_id": "2057467986320269339",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079288288435900416/CSOt7JXF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 454,
+          "like_count": 1457,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 851
+        },
+        "url": "",
+        "username": "ivan23389",
+        "verified": false
+      }
+    ]
+  }
+}

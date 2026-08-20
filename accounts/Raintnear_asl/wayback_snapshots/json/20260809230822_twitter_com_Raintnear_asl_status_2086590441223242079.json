@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2065075703058702642",
+    "created_at": "2026-08-09T23:08:22.000Z",
+    "display_text_range": [
+      23,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T00:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086590441223242079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "361248768",
+          "start": 0,
+          "username": "R1kOx033w"
+        },
+        {
+          "end": 22,
+          "id": "2013863981132455937",
+          "start": 11,
+          "username": "candle0099"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086590441223242079",
+    "in_reply_to_user_id": "361248768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065596671917256871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@R1kOx033w @candle0099 可以问一下大概怎么跟医生说呀😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2065075703058702642",
+        "created_at": "2026-08-09T23:08:22.000Z",
+        "display_text_range": [
+          23,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086590441223242079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "361248768",
+              "start": 0,
+              "username": "R1kOx033w"
+            },
+            {
+              "end": 22,
+              "id": "2013863981132455937",
+              "start": 11,
+              "username": "candle0099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086590441223242079",
+        "in_reply_to_user_id": "361248768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065596671917256871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@R1kOx033w @candle0099 可以问一下大概怎么跟医生说呀😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "361248768",
+        "conversation_id": "2065075703058702642",
+        "created_at": "2026-06-13T00:46:38.000Z",
+        "display_text_range": [
+          12,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-13T01:46:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065596671917256871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2013863981132455937",
+              "start": 0,
+              "username": "candle0099"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065596671917256871",
+        "in_reply_to_user_id": "2013863981132455937",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 173,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065075703058702642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@candle0099 说带状疱疹后期神经痛 别的医院诊断过了 疱疹消得快一般不留疤 说在腰间肋骨处 基本都能开到"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2086590441223242079",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 420,
+          "like_count": 17786,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1610
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-24T13:58:30.000Z",
+        "description": "转生为鲤#双相II型#混乱善良#镇定剂构成的虚假幻想生物#",
+        "id": "361248768",
+        "is_identity_verified": false,
+        "location": "伽蓝洞",
+        "most_recent_tweet_id": "2083615150897242577",
+        "name": "鲤",
+        "pinned_tweet_id": "2075389383709208885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/361248768/1774439187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063720447561347072/ht3bAq-U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 84,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 363
+        },
+        "url": "",
+        "username": "R1kOx033w",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-21T06:39:32.000Z",
+        "description": "9",
+        "id": "2013863981132455937",
+        "is_identity_verified": false,
+        "location": "在你心里",
+        "most_recent_tweet_id": "2066576774268616759",
+        "name": "烛芯",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050699347675820032/Gn0z3DuD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 129,
+          "like_count": 176,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 133
+        },
+        "url": "",
+        "username": "candle0099",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

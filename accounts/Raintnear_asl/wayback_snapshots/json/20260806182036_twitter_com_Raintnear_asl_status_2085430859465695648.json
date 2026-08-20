@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2085430859465695648",
+    "created_at": "2026-08-06T18:20:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T19:20:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085430859465695648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1988926483314991104",
+          "start": 3,
+          "username": "hoon77kiss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085430859465695648",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2687
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084816690005897625",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hoon77kiss: 다들 자기 몸 잘 챙겼으면 좋겠어 남돌이든 남자든 뭐든 절대 다른 사람 때문에 자기 몸 해치지 마 너 자신이 항상 세상에서 제일 중요해 다들 자기 자신을 잘 사랑했으면 좋겠어 힘들면 그냥 쉬어남 생각 신경 쓰지 마 네 생…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2085430859465695648",
+        "created_at": "2026-08-06T18:20:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T19:20:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085430859465695648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1988926483314991104",
+              "start": 3,
+              "username": "hoon77kiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085430859465695648",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2687
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084816690005897625",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hoon77kiss: 다들 자기 몸 잘 챙겼으면 좋겠어 남돌이든 남자든 뭐든 절대 다른 사람 때문에 자기 몸 해치지 마 너 자신이 항상 세상에서 제일 중요해 다들 자기 자신을 잘 사랑했으면 좋겠어 힘들면 그냥 쉬어남 생각 신경 쓰지 마 네 생…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988926483314991104",
+        "conversation_id": "2084816690005897625",
+        "created_at": "2026-08-05T01:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T02:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084816690005897625"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084816690005897625",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 670,
+          "impression_count": 776048,
+          "like_count": 21543,
+          "quote_count": 247,
+          "reply_count": 2,
+          "retweet_count": 2687
+        },
+        "reply_settings": "following",
+        "text": "다들 자기 몸 잘 챙겼으면 좋겠어 남돌이든 남자든 뭐든 절대 다른 사람 때문에 자기 몸 해치지 마 너 자신이 항상 세상에서 제일 중요해 다들 자기 자신을 잘 사랑했으면 좋겠어 힘들면 그냥 쉬어남 생각 신경 쓰지 마 네 생각이 제일 중요해 다들 매일매일 행복하게 보냈으면 좋겠어 사랑해요"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 420,
+          "like_count": 17668,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1599
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T11:06:49.000Z",
+        "description": "성훈아 나 방금 종이컵으로 너한테 전화 걸었는데 왜 안 받어",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/hoon77kiss",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/hoon77kiss",
+                "start": 0,
+                "url": "https://t.co/zVHLAAtjcR"
+              }
+            ]
+          }
+        },
+        "id": "1988926483314991104",
+        "location": "૮₍.•︤ ·•︤ ₎ა ",
+        "name": "了了",
+        "pinned_tweet_id": "2067447262154981875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069393340282683392/aBGACg8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1415,
+          "following_count": 676,
+          "like_count": 400,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 172
+        },
+        "url": "https://t.co/zVHLAAtjcR",
+        "username": "hoon77kiss",
+        "verified": false
+      }
+    ]
+  }
+}

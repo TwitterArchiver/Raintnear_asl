@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2084326147635216583",
+    "created_at": "2026-08-03T17:10:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T18:10:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084326147635216583"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634793712302604289",
+          "start": 3,
+          "username": "1oonatism"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084326147635216583",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 495
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083454049194844330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1oonatism: 一想到我口中的巨大创伤在别人眼里不过是一个人格失调的情绪巨婴在每天无病呻吟我就忍不住崩溃大哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2084326147635216583",
+        "created_at": "2026-08-03T17:10:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T18:10:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084326147635216583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634793712302604289",
+              "start": 3,
+              "username": "1oonatism"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084326147635216583",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 495
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083454049194844330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1oonatism: 一想到我口中的巨大创伤在别人眼里不过是一个人格失调的情绪巨婴在每天无病呻吟我就忍不住崩溃大哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634793712302604289",
+        "conversation_id": "2083454049194844330",
+        "created_at": "2026-08-01T07:25:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T08:25:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083454049194844330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083454049194844330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 75520,
+          "like_count": 3063,
+          "quote_count": 44,
+          "reply_count": 91,
+          "retweet_count": 495
+        },
+        "reply_settings": "everyone",
+        "text": "一想到我口中的巨大创伤在别人眼里不过是一个人格失调的情绪巨婴在每天无病呻吟我就忍不住崩溃大哭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 415,
+          "like_count": 17266,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1588
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-12T05:49:44.000Z",
+        "description": "",
+        "id": "1634793712302604289",
+        "name": "່",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084175518908452864/TL9SqRWI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11300,
+          "following_count": 122,
+          "like_count": 2016,
+          "listed_count": 17,
+          "media_count": 228,
+          "tweet_count": 999
+        },
+        "url": "",
+        "username": "1oonatism",
+        "verified": false
+      }
+    ]
+  }
+}

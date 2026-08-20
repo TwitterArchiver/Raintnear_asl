@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2084992771400540268",
+    "created_at": "2026-08-05T13:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T14:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084992771400540268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2032247657947947008",
+          "start": 3,
+          "username": "14mxxy37"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084992771400540268",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084395242808303760",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @14mxxy37: 哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2084992771400540268",
+        "created_at": "2026-08-05T13:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T14:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084992771400540268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2032247657947947008",
+              "start": 3,
+              "username": "14mxxy37"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084992771400540268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084395242808303760",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @14mxxy37: 哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032247657947947008",
+        "conversation_id": "2084395242808303760",
+        "created_at": "2026-08-03T21:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T22:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084395242808303760"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084395242808303760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5828,
+          "like_count": 123,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "哎 我操你妈 和你们这些健全人拼了 我和你们很熟吗  动不动就问我为什么休学 为什么割手 为什么嗑药 后不后悔 操你妈 老子吃的又不是后悔药 到底是真的情商低 还是带着恶意 自己心里清楚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "location": "天国",
+        "name": "世界你是否知晓一切？",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 418,
+          "like_count": 17297,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1593
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-13T00:09:48.000Z",
+        "description": "无人在意的路边野狗",
+        "id": "2032247657947947008",
+        "name": "没什么用的无能",
+        "pinned_tweet_id": "2084013986300006516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059504344018595840/PVoZBko__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 63,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "14mxxy37",
+        "verified": false
+      }
+    ]
+  }
+}

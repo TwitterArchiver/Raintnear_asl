@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2088555618290319757",
+    "created_at": "2026-08-15T09:17:17.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T10:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088555618290319757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1775688932203626497",
+          "start": 3,
+          "username": "Cici060611"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088555618290319757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088272703316988410",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cici060611: 这个世界可以给内向的人多一点生存空间吗。小时候丢手绢，击鼓传花，讲台上的自我介绍，每一项被冠以活跃气氛的游戏都感觉在霸凌我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2088555618290319757",
+        "created_at": "2026-08-15T09:17:17.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T10:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088555618290319757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1775688932203626497",
+              "start": 3,
+              "username": "Cici060611"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088555618290319757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088272703316988410",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cici060611: 这个世界可以给内向的人多一点生存空间吗。小时候丢手绢，击鼓传花，讲台上的自我介绍，每一项被冠以活跃气氛的游戏都感觉在霸凌我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1775688932203626497",
+        "conversation_id": "2088272703316988410",
+        "created_at": "2026-08-14T14:33:05.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088272703316988410"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088272703316988410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 13395,
+          "like_count": 591,
+          "quote_count": 6,
+          "reply_count": 37,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "这个世界可以给内向的人多一点生存空间吗。小时候丢手绢，击鼓传花，讲台上的自我介绍，每一项被冠以活跃气氛的游戏都感觉在霸凌我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2088555618290319757",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072117205211443200/B_4f5GGY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 419,
+          "like_count": 17811,
+          "listed_count": 1,
+          "media_count": 13,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-04T00:57:03.000Z",
+        "description": "meitiandouhenfan",
+        "id": "1775688932203626497",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088432828648476760",
+        "name": "ra1ny_",
+        "pinned_tweet_id": "1959928354288587104",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1775688932203626497/1765944041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066598886786105344/G3tlFwKB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 79,
+          "like_count": 528,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 1850
+        },
+        "url": "",
+        "username": "Cici060611",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
