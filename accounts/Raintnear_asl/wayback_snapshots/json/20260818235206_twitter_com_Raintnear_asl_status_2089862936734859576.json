@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2089862936734859576",
+    "created_at": "2026-08-18T23:52:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T00:52:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089862936734859576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1906170707329069057",
+          "start": 3,
+          "username": "Insomniacangel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089862936734859576",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1004
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089533567546318989",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Insomniacangel_: No quiero mejorar, quiero morir. No hay salida, no tengo arreglo, no tengo futuro, no tengo ningún deseo de estar vivo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2089862936734859576",
+        "created_at": "2026-08-18T23:52:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:52:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089862936734859576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1906170707329069057",
+              "start": 3,
+              "username": "Insomniacangel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089862936734859576",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1004
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089533567546318989",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Insomniacangel_: No quiero mejorar, quiero morir. No hay salida, no tengo arreglo, no tengo futuro, no tengo ningún deseo de estar vivo…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906170707329069057",
+        "conversation_id": "2089533567546318989",
+        "created_at": "2026-08-18T02:03:18.000Z",
+        "display_text_range": [
+          0,
+          193
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089533567546318989"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089533567546318989",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 25412,
+          "like_count": 2870,
+          "quote_count": 21,
+          "reply_count": 19,
+          "retweet_count": 1004
+        },
+        "reply_settings": "everyone",
+        "text": "No quiero mejorar, quiero morir. No hay salida, no tengo arreglo, no tengo futuro, no tengo ningún deseo de estar vivo, ya no quiero, quiero morir, no pongan expectativas sobre mí, quiero morir"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2089862936734859576",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 424,
+          "like_count": 17931,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1629
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T02:24:55.000Z",
+        "description": "𖦹 𝘎𝘦𝘯𝘥𝘦𝘳 𝘍𝘭𝘶𝘪𝘥⭑.ᐟ #subtwt #edtw #animetwt #shtwt #suicidetwt #yaoitwt  i'm autistic  𖦹 INFP-T⭑.ᐟ \n Vent acc 🧷 He/him 𖦹 asexual ♱\nm/w: @Sr_Friki0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "subtwt"
+              },
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "edtw"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "animetwt"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "yaoitwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "Sr_Friki0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/insomniacangel…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/insomniacangel_?igsh=YXAzNnZ0Mmt4eHJr",
+                "start": 0,
+                "url": "https://t.co/0OtUzcKYGs"
+              }
+            ]
+          }
+        },
+        "id": "1906170707329069057",
+        "is_identity_verified": false,
+        "location": "18y a guy with mental issues ",
+        "most_recent_tweet_id": "2089857770635849845",
+        "name": "𝑴𝒂𝒓𝒖𝒌𝒊 🪽",
+        "pinned_tweet_id": "2089739733765112298",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906170707329069057/1786916345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070942276700839936/Cs3VUJyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4971,
+          "following_count": 3472,
+          "like_count": 68950,
+          "listed_count": 27,
+          "media_count": 1959,
+          "tweet_count": 31912
+        },
+        "url": "https://t.co/0OtUzcKYGs",
+        "username": "Insomniacangel_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

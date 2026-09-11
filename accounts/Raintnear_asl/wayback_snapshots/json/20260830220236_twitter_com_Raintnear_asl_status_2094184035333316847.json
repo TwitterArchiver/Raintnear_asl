@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2094184035333316847",
+    "created_at": "2026-08-30T22:02:36.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T23:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094184035333316847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2077805068607524864",
+          "start": 3,
+          "username": "apsgpfksus"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094184035333316847",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 231
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093658422503940379",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @apsgpfksus: 애정결핍 채우려고 싸구려 사랑이라도 받고싶엇는데 난 싸구려 사랑도 못받네"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2094184035333316847",
+        "created_at": "2026-08-30T22:02:36.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T23:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094184035333316847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2077805068607524864",
+              "start": 3,
+              "username": "apsgpfksus"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094184035333316847",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 231
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093658422503940379",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @apsgpfksus: 애정결핍 채우려고 싸구려 사랑이라도 받고싶엇는데 난 싸구려 사랑도 못받네"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077805068607524864",
+        "conversation_id": "2093658422503940379",
+        "created_at": "2026-08-29T11:14:00.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T12:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093658422503940379"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093658422503940379",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 50,
+          "impression_count": 14440,
+          "like_count": 602,
+          "quote_count": 52,
+          "reply_count": 1,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "애정결핍 채우려고 싸구려 사랑이라도 받고싶엇는데 난 싸구려 사랑도 못받네"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094184035333316847",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 410,
+          "like_count": 18942,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1757
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-16T17:19:25.000Z",
+        "description": "@Aa9zkd 비계",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "Aa9zkd"
+              }
+            ]
+          }
+        },
+        "id": "2077805068607524864",
+        "is_identity_verified": false,
+        "location": "정병멘헤라",
+        "most_recent_tweet_id": "2093658422503940379",
+        "name": "ラ",
+        "pinned_tweet_id": "2089375487365972212",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091001602895425536/Vg2Od6_2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 190,
+          "like_count": 786,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "url": "",
+        "username": "apsgpfksus",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

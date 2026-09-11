@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092680219878371600",
+    "created_at": "2026-08-26T18:26:59.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:26:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092680219878371600"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1882937199735590912",
+          "start": 3,
+          "username": "mmng_yu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092680219878371600",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092537228954325091",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmng_yu: 好きな人への嫉妬と独占欲の感情は、どうやったら消え去るんだろう？？「絶対に誰にも取られたくない」って思っちゃう。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092680219878371600",
+        "created_at": "2026-08-26T18:26:59.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092680219878371600"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1882937199735590912",
+              "start": 3,
+              "username": "mmng_yu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092680219878371600",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092537228954325091",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmng_yu: 好きな人への嫉妬と独占欲の感情は、どうやったら消え去るんだろう？？「絶対に誰にも取られたくない」って思っちゃう。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882937199735590912",
+        "conversation_id": "2092537228954325091",
+        "created_at": "2026-08-26T08:58:47.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T09:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092537228954325091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092537228954325091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 210494,
+          "like_count": 2572,
+          "quote_count": 43,
+          "reply_count": 15,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "好きな人への嫉妬と独占欲の感情は、どうやったら消え去るんだろう？？「絶対に誰にも取られたくない」って思っちゃう。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092680219878371600",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 436,
+          "like_count": 18487,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1700
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-24T23:43:13.000Z",
+        "description": "幸せになりたい人の味方🤍",
+        "id": "1882937199735590912",
+        "is_identity_verified": false,
+        "location": "報われたいね‎",
+        "most_recent_tweet_id": "2092585524834050282",
+        "name": "もも",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882937199735590912/1741190035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891779799380893696/wS2YIh5R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23502,
+          "following_count": 1,
+          "like_count": 1916,
+          "listed_count": 37,
+          "media_count": 2,
+          "tweet_count": 1634
+        },
+        "url": "",
+        "username": "mmng_yu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

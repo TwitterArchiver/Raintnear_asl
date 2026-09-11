@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090105953022534060",
+    "created_at": "2026-08-19T15:57:46.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T16:57:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090105953022534060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1980303732542967808",
+          "start": 3,
+          "username": "U2se3_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090105953022534060",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089956378035270060",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @U2se3_: 自分のこともまともに愛せないやつが、恋愛に向いてるわけがなくてだな"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090105953022534060",
+        "created_at": "2026-08-19T15:57:46.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T16:57:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090105953022534060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1980303732542967808",
+              "start": 3,
+              "username": "U2se3_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090105953022534060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089956378035270060",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @U2se3_: 自分のこともまともに愛せないやつが、恋愛に向いてるわけがなくてだな"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1980303732542967808",
+        "conversation_id": "2089956378035270060",
+        "created_at": "2026-08-19T06:03:24.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089956378035270060"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089956378035270060",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 29886,
+          "like_count": 1554,
+          "quote_count": 78,
+          "reply_count": 2,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "自分のこともまともに愛せないやつが、恋愛に向いてるわけがなくてだな"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090105953022534060",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 426,
+          "like_count": 18001,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1646
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-20T16:03:04.000Z",
+        "description": "蝉は嫌いです 鍵@oOS2x 傷@U2Sn_zzz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 8,
+                "username": "oOS2x"
+              },
+              {
+                "end": 25,
+                "start": 16,
+                "username": "U2Sn_zzz"
+              }
+            ]
+          }
+        },
+        "id": "1980303732542967808",
+        "is_identity_verified": false,
+        "location": "15歳 ︎︎ ♀ ",
+        "most_recent_tweet_id": "2090103301559988474",
+        "name": "うつせみ",
+        "pinned_tweet_id": "2031965112782008670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1980303732542967808/1769072172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980515699631034368/-cpdqCQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 54,
+          "like_count": 9061,
+          "listed_count": 1,
+          "media_count": 148,
+          "tweet_count": 1441
+        },
+        "url": "",
+        "username": "U2se3_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

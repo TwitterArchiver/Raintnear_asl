@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092797128250937344",
+        "3_2092797128234131457",
+        "3_2092797128234123264"
+      ],
+      "media_source_tweet_id": [
+        "2092797140607389883",
+        "2092797140607389883",
+        "2092797140607389883"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2093046756242284831",
+    "created_at": "2026-08-27T18:43:28.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:43:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093046756242284831"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 21,
+          "start": 14,
+          "tag": "edrtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2055575077429932032",
+          "start": 3,
+          "username": "blvebel1"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/t8XSbR66bK",
+          "end": 71,
+          "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+          "media_key": "3_2092797128250937344",
+          "start": 48,
+          "url": "https://t.co/t8XSbR66bK"
+        },
+        {
+          "display_url": "pic.x.com/t8XSbR66bK",
+          "end": 71,
+          "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+          "media_key": "3_2092797128234131457",
+          "start": 48,
+          "url": "https://t.co/t8XSbR66bK"
+        },
+        {
+          "display_url": "pic.x.com/t8XSbR66bK",
+          "end": 71,
+          "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+          "media_key": "3_2092797128234123264",
+          "start": 48,
+          "url": "https://t.co/t8XSbR66bK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093046756242284831",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2092797128250937344"
+      },
+      {
+        "media_key": "3_2092797128234131457"
+      },
+      {
+        "media_key": "3_2092797128234123264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 68
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092797140607389883",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @blvebel1: #edrtwt bmi guesses? Bad lighting https://t.co/t8XSbR66bK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2092797128250937344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsb5mha0AAe9_K.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2092797128234131457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsb5mdaYAENAKt.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092797128234123264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsb5mdaQAAQWqv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092797128250937344",
+            "3_2092797128234131457",
+            "3_2092797128234123264"
+          ],
+          "media_source_tweet_id": [
+            "2092797140607389883",
+            "2092797140607389883",
+            "2092797140607389883"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2093046756242284831",
+        "created_at": "2026-08-27T18:43:28.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:43:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093046756242284831"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 14,
+              "tag": "edrtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2055575077429932032",
+              "start": 3,
+              "username": "blvebel1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8XSbR66bK",
+              "end": 71,
+              "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+              "media_key": "3_2092797128250937344",
+              "start": 48,
+              "url": "https://t.co/t8XSbR66bK"
+            },
+            {
+              "display_url": "pic.x.com/t8XSbR66bK",
+              "end": 71,
+              "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+              "media_key": "3_2092797128234131457",
+              "start": 48,
+              "url": "https://t.co/t8XSbR66bK"
+            },
+            {
+              "display_url": "pic.x.com/t8XSbR66bK",
+              "end": 71,
+              "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+              "media_key": "3_2092797128234123264",
+              "start": 48,
+              "url": "https://t.co/t8XSbR66bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093046756242284831",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092797128250937344"
+          },
+          {
+            "media_key": "3_2092797128234131457"
+          },
+          {
+            "media_key": "3_2092797128234123264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 68
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092797140607389883",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @blvebel1: #edrtwt bmi guesses? Bad lighting https://t.co/t8XSbR66bK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092797128250937344",
+            "3_2092797128234131457",
+            "3_2092797128234123264"
+          ]
+        },
+        "author_id": "2055575077429932032",
+        "conversation_id": "2092797140607389883",
+        "created_at": "2026-08-27T02:11:35.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T03:11:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092797140607389883"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "edrtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/t8XSbR66bK",
+              "end": 57,
+              "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+              "media_key": "3_2092797128250937344",
+              "start": 34,
+              "url": "https://t.co/t8XSbR66bK"
+            },
+            {
+              "display_url": "pic.x.com/t8XSbR66bK",
+              "end": 57,
+              "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+              "media_key": "3_2092797128234131457",
+              "start": 34,
+              "url": "https://t.co/t8XSbR66bK"
+            },
+            {
+              "display_url": "pic.x.com/t8XSbR66bK",
+              "end": 57,
+              "expanded_url": "https://x.com/blvebel1/status/2092797140607389883/photo/1",
+              "media_key": "3_2092797128234123264",
+              "start": 34,
+              "url": "https://t.co/t8XSbR66bK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092797140607389883",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2092797128250937344"
+          },
+          {
+            "media_key": "3_2092797128234131457"
+          },
+          {
+            "media_key": "3_2092797128234123264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 174,
+          "impression_count": 13970,
+          "like_count": 1462,
+          "quote_count": 0,
+          "reply_count": 63,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "#edrtwt bmi guesses? Bad lighting https://t.co/t8XSbR66bK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2093046756242284831",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 409,
+          "like_count": 18724,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1733
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-16T09:04:24.000Z",
+        "description": "❀⋆.ೃ࿔*:･\nHello! Anorexic with MCAS+ from PANDAS :3. \nDiagnosed also with ocd, anxiety, depression\nI would LOVE to moot with anybody 15+!\n˚⋅˖* ⊱❀⊰ *˖",
+        "id": "2055575077429932032",
+        "is_identity_verified": false,
+        "location": "Québec, Canada",
+        "most_recent_tweet_id": "2092824174981230603",
+        "name": "Ashley",
+        "pinned_tweet_id": "2071008622142955826",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055575077429932032/1779186550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055575453893832705/PrMzdUWO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2638,
+          "following_count": 671,
+          "like_count": 1200,
+          "listed_count": 5,
+          "media_count": 76,
+          "tweet_count": 465
+        },
+        "url": "",
+        "username": "blvebel1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

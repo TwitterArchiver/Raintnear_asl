@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2097233468061352146",
+    "created_at": "2026-09-08T07:59:58.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T08:59:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097233468061352146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1868064268031250432",
+          "start": 3,
+          "username": "nanitakl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097233468061352146",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1483
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096908274515767596",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nanitakl: mamá pq me tratas asi no ves que estoy intentando no matarme"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2097233468061352146",
+        "created_at": "2026-09-08T07:59:58.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T08:59:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097233468061352146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1868064268031250432",
+              "start": 3,
+              "username": "nanitakl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097233468061352146",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1483
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096908274515767596",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nanitakl: mamá pq me tratas asi no ves que estoy intentando no matarme"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868064268031250432",
+        "conversation_id": "2096908274515767596",
+        "created_at": "2026-09-07T10:27:45.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096908274515767596"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096908274515767596",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 240,
+          "impression_count": 39625,
+          "like_count": 5162,
+          "quote_count": 53,
+          "reply_count": 3,
+          "retweet_count": 1483
+        },
+        "reply_settings": "everyone",
+        "text": "mamá pq me tratas asi no ves que estoy intentando no matarme"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097233468061352146",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 427,
+          "like_count": 19642,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1841
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-14T22:43:34.000Z",
+        "description": "drums please, fab\n#shtwt | #suicidetwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 18,
+                "tag": "shtwt"
+              },
+              {
+                "end": 38,
+                "start": 27,
+                "tag": "suicidetwt"
+              }
+            ]
+          }
+        },
+        "id": "1868064268031250432",
+        "is_identity_verified": false,
+        "location": " ",
+        "most_recent_tweet_id": "2097144327872917992",
+        "name": "nanita",
+        "pinned_tweet_id": "2090879447154962466",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868064268031250432/1788318081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094983630225354758/cRZmmG_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 383,
+          "following_count": 271,
+          "like_count": 16590,
+          "listed_count": 2,
+          "media_count": 404,
+          "tweet_count": 5145
+        },
+        "url": "",
+        "username": "nanitakl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

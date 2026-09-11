@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092462540093616128"
+      ],
+      "media_source_tweet_id": [
+        "2092462546804461974"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092742697194807499",
+    "created_at": "2026-08-26T22:35:14.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T23:35:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092742697194807499"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2037534633407995904",
+          "start": 3,
+          "username": "wall_st_groyper"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5CmylzOZuH",
+          "end": 44,
+          "expanded_url": "https://x.com/wall_st_groyper/status/2092462546804461974/photo/1",
+          "media_key": "3_2092462540093616128",
+          "start": 21,
+          "url": "https://t.co/5CmylzOZuH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092742697194807499",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2092462540093616128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 39
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092462546804461974",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wall_st_groyper: https://t.co/5CmylzOZuH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1729,
+        "media_key": "3_2092462540093616128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnrmAgXcAAV4Rh.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092462540093616128"
+          ],
+          "media_source_tweet_id": [
+            "2092462546804461974"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092742697194807499",
+        "created_at": "2026-08-26T22:35:14.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:35:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092742697194807499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2037534633407995904",
+              "start": 3,
+              "username": "wall_st_groyper"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CmylzOZuH",
+              "end": 44,
+              "expanded_url": "https://x.com/wall_st_groyper/status/2092462546804461974/photo/1",
+              "media_key": "3_2092462540093616128",
+              "start": 21,
+              "url": "https://t.co/5CmylzOZuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092742697194807499",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092462540093616128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092462546804461974",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wall_st_groyper: https://t.co/5CmylzOZuH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092462540093616128"
+          ]
+        },
+        "author_id": "2037534633407995904",
+        "conversation_id": "2092462546804461974",
+        "created_at": "2026-08-26T04:02:01.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092462546804461974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5CmylzOZuH",
+              "end": 23,
+              "expanded_url": "https://x.com/wall_st_groyper/status/2092462546804461974/photo/1",
+              "media_key": "3_2092462540093616128",
+              "start": 0,
+              "url": "https://t.co/5CmylzOZuH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092462546804461974",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092462540093616128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 5777,
+          "like_count": 872,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 39
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/5CmylzOZuH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092742697194807499",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 439,
+          "like_count": 18597,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1713
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-27T14:18:15.000Z",
+        "description": "jumanji kitterson",
+        "id": "2037534633407995904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092741363582263382",
+        "name": "wall street groyper",
+        "pinned_tweet_id": "2085410547936190626",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037534633407995904/1785741812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086110989892612096/O5_JlUNC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 68,
+          "like_count": 48056,
+          "listed_count": 0,
+          "media_count": 460,
+          "tweet_count": 3457
+        },
+        "url": "",
+        "username": "wall_st_groyper",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

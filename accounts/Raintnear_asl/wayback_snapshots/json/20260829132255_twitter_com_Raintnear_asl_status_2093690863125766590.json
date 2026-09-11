@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2093690863125766590",
+    "created_at": "2026-08-29T13:22:55.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T14:22:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093690863125766590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2090348740250906624",
+          "start": 3,
+          "username": "Uuucvea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093690863125766590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 57
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093350957325090935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uuucvea: 至今不能理解如果真的喜欢一个人，怎么可能忍得住不给对方花钱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2093690863125766590",
+        "created_at": "2026-08-29T13:22:55.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:22:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093690863125766590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2090348740250906624",
+              "start": 3,
+              "username": "Uuucvea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093690863125766590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 57
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093350957325090935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uuucvea: 至今不能理解如果真的喜欢一个人，怎么可能忍得住不给对方花钱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090348740250906624",
+        "conversation_id": "2093350957325090935",
+        "created_at": "2026-08-28T14:52:15.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093350957325090935"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093350957325090935",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 40813,
+          "like_count": 738,
+          "quote_count": 21,
+          "reply_count": 96,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "至今不能理解如果真的喜欢一个人，怎么可能忍得住不给对方花钱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2093690863125766590",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 410,
+          "like_count": 18846,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1745
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T08:03:03.000Z",
+        "description": "礼貌你我他｜172cm｜46kg｜年龄是永远18岁｜屁话巨多的碎碎念大王\n此账号用来发抽象文字和日常碎碎念（屁话真多）每天不定时发帖 帖子内容..是想到啥发啥",
+        "id": "2090348740250906624",
+        "is_identity_verified": false,
+        "location": "🚪188 288 588",
+        "most_recent_tweet_id": "2093686880017457530",
+        "name": "Uuu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090348740250906624/1787213505",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090350108348932096/B6xaOmpc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2581,
+          "following_count": 11,
+          "like_count": 669,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "Uuucvea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

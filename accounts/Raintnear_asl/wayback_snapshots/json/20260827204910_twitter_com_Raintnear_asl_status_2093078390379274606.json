@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1511323041464168451",
+          "name": "Graduation 2022"
+        }
+      }
+    ],
+    "conversation_id": "2093078390379274606",
+    "created_at": "2026-08-27T20:49:10.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093078390379274606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1276443202900246529",
+          "start": 3,
+          "username": "be2gi2026"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093078390379274606",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 438
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092830707840381002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @be2gi2026: 졸업후 뭐할지 정했다 \n그건바로 자살임"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2093078390379274606",
+        "created_at": "2026-08-27T20:49:10.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093078390379274606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1276443202900246529",
+              "start": 3,
+              "username": "be2gi2026"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093078390379274606",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 438
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092830707840381002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @be2gi2026: 졸업후 뭐할지 정했다 \n그건바로 자살임"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276443202900246529",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1511323041464168451",
+              "name": "Graduation 2022"
+            }
+          }
+        ],
+        "conversation_id": "2092830707840381002",
+        "created_at": "2026-08-27T04:24:58.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T05:24:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092830707840381002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092830707840381002",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 19492,
+          "like_count": 1261,
+          "quote_count": 37,
+          "reply_count": 8,
+          "retweet_count": 438
+        },
+        "reply_settings": "everyone",
+        "text": "졸업후 뭐할지 정했다 \n그건바로 자살임"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2093078390379274606",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 411,
+          "like_count": 18828,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1741
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-26T09:12:36.000Z",
+        "description": "rt위주 / 유해함 주의 / 자주 헛소리함 / 우울트 있음 / 덕질용(잡덕)\n부계 @uumuumuumuum\n프맞: @sadamgea__",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "uumuumuumuum"
+              },
+              {
+                "end": 75,
+                "start": 64,
+                "username": "sadamgea__"
+              }
+            ]
+          }
+        },
+        "id": "1276443202900246529",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092970367744942250",
+        "name": "비둘기",
+        "pinned_tweet_id": "2055566788143030544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1276443202900246529/1779601274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090235344285511680/QLSOYBum_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 501,
+          "like_count": 173103,
+          "listed_count": 19,
+          "media_count": 3176,
+          "tweet_count": 90249
+        },
+        "url": "",
+        "username": "be2gi2026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

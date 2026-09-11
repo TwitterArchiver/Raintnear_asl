@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093921251756822528"
+      ],
+      "media_source_tweet_id": [
+        "2093921257008050617"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2094178344438727114",
+    "created_at": "2026-08-30T21:39:59.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T22:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094178344438727114"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636839098332897282",
+          "start": 3,
+          "username": "amikoiiko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/LrN4m2OgNQ",
+          "end": 38,
+          "expanded_url": "https://x.com/amikoiiko/status/2093921257008050617/photo/1",
+          "media_key": "3_2093921251756822528",
+          "start": 15,
+          "url": "https://t.co/LrN4m2OgNQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094178344438727114",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2093921251756822528"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4021
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093921257008050617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amikoiiko: https://t.co/LrN4m2OgNQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093921251756822528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ8aSM6bUAA_VEd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093921251756822528"
+          ],
+          "media_source_tweet_id": [
+            "2093921257008050617"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2094178344438727114",
+        "created_at": "2026-08-30T21:39:59.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094178344438727114"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636839098332897282",
+              "start": 3,
+              "username": "amikoiiko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrN4m2OgNQ",
+              "end": 38,
+              "expanded_url": "https://x.com/amikoiiko/status/2093921257008050617/photo/1",
+              "media_key": "3_2093921251756822528",
+              "start": 15,
+              "url": "https://t.co/LrN4m2OgNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094178344438727114",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093921251756822528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4021
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093921257008050617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amikoiiko: https://t.co/LrN4m2OgNQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093921251756822528"
+          ]
+        },
+        "author_id": "1636839098332897282",
+        "conversation_id": "2093921257008050617",
+        "created_at": "2026-08-30T04:38:25.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T05:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093921257008050617"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LrN4m2OgNQ",
+              "end": 23,
+              "expanded_url": "https://x.com/amikoiiko/status/2093921257008050617/photo/1",
+              "media_key": "3_2093921251756822528",
+              "start": 0,
+              "url": "https://t.co/LrN4m2OgNQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093921257008050617",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2093921251756822528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9176,
+          "impression_count": 867820,
+          "like_count": 61268,
+          "quote_count": 397,
+          "reply_count": 70,
+          "retweet_count": 4021
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LrN4m2OgNQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094178344438727114",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 410,
+          "like_count": 18905,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1755
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-17T21:17:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/cw/Amikoiikooo",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/cw/Amikoiikooo",
+                "start": 0,
+                "url": "https://t.co/EFT3jt73XL"
+              }
+            ]
+          }
+        },
+        "id": "1636839098332897282",
+        "is_identity_verified": false,
+        "location": "Baka ppl dni",
+        "most_recent_tweet_id": "2093921257008050617",
+        "name": "阿弥子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1636839098332897282/1775049250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039623123436466176/jPlJDdcz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33625,
+          "following_count": 85,
+          "like_count": 33728,
+          "listed_count": 72,
+          "media_count": 897,
+          "tweet_count": 9282
+        },
+        "url": "https://t.co/EFT3jt73XL",
+        "username": "amikoiiko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

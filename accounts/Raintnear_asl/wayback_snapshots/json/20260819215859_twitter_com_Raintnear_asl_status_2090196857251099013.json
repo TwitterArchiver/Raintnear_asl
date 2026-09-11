@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090196857251099013",
+    "created_at": "2026-08-19T21:58:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:58:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090196857251099013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2025522453376872448",
+          "start": 3,
+          "username": "honey_danji127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090196857251099013",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2927
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089937501003841793",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @honey_danji127: 세삼 나랑 잘 맞는 친구 찾기 진짜 어려운듯\n서로에 대한 애정도가 같진 않아도 비슷해야하고\n관심사도 겹쳐야하고\n가치관도 비슷해야하고\n대화하는 주제도 한쪽은 가벼운 주제로 웃는걸 좋아하는데 다른 한쪽은 진지한 얘기를…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090196857251099013",
+        "created_at": "2026-08-19T21:58:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:58:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090196857251099013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2025522453376872448",
+              "start": 3,
+              "username": "honey_danji127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090196857251099013",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2927
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089937501003841793",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @honey_danji127: 세삼 나랑 잘 맞는 친구 찾기 진짜 어려운듯\n서로에 대한 애정도가 같진 않아도 비슷해야하고\n관심사도 겹쳐야하고\n가치관도 비슷해야하고\n대화하는 주제도 한쪽은 가벼운 주제로 웃는걸 좋아하는데 다른 한쪽은 진지한 얘기를…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025522453376872448",
+        "conversation_id": "2089937501003841793",
+        "created_at": "2026-08-19T04:48:24.000Z",
+        "display_text_range": [
+          0,
+          151
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:48:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089937501003841793"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089937501003841793",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1352,
+          "impression_count": 501431,
+          "like_count": 10556,
+          "quote_count": 1961,
+          "reply_count": 9,
+          "retweet_count": 2927
+        },
+        "reply_settings": "everyone",
+        "text": "세삼 나랑 잘 맞는 친구 찾기 진짜 어려운듯\n서로에 대한 애정도가 같진 않아도 비슷해야하고\n관심사도 겹쳐야하고\n가치관도 비슷해야하고\n대화하는 주제도 한쪽은 가벼운 주제로 웃는걸 좋아하는데 다른 한쪽은 진지한 얘기를 더 좋아하면 그건 또 그거대로 대화가 안되고\n\n아 어려워"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090196857251099013",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 432,
+          "like_count": 18125,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1665
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-22T10:46:25.000Z",
+        "description": "세상은 순애를 중심으로 돌아가는거예요",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/userdanji",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/userdanji",
+                "start": 0,
+                "url": "https://t.co/vR4yg4c0mY"
+              }
+            ]
+          }
+        },
+        "id": "2025522453376872448",
+        "is_identity_verified": false,
+        "location": "나루토 보는중",
+        "most_recent_tweet_id": "2090153426365849794",
+        "name": "꿀단지",
+        "pinned_tweet_id": "2089754222841790873",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2025522453376872448/1784377647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052044209151250432/70DIr5KG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 133,
+          "like_count": 10690,
+          "listed_count": 1,
+          "media_count": 333,
+          "tweet_count": 4582
+        },
+        "url": "https://t.co/vR4yg4c0mY",
+        "username": "honey_danji127",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

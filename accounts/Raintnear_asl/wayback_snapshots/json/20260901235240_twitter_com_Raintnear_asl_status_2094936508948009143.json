@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2094936508948009143",
+    "created_at": "2026-09-01T23:52:40.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:52:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094936508948009143"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hungryunikitty…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/hungryunikitty/status/2094442663797743814",
+          "start": 19,
+          "url": "https://t.co/RdaHA6Ju9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094936508948009143",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094442663797743814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我只有每天在家躺着才能做到两天不进食 https://t.co/RdaHA6Ju9e"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2094936508948009143",
+        "created_at": "2026-09-01T23:52:40.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094936508948009143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hungryunikitty…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/hungryunikitty/status/2094442663797743814",
+              "start": 19,
+              "url": "https://t.co/RdaHA6Ju9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094936508948009143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094442663797743814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我只有每天在家躺着才能做到两天不进食 https://t.co/RdaHA6Ju9e"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1660746550899888128",
+        "conversation_id": "2094442663797743814",
+        "created_at": "2026-08-31T15:10:18.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T16:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094442663797743814"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094442663797743814",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 191,
+          "impression_count": 114558,
+          "like_count": 10687,
+          "quote_count": 64,
+          "reply_count": 128,
+          "retweet_count": 261
+        },
+        "reply_settings": "everyone",
+        "text": "I'm convinced that most people on edtwt are jobless cause there's no way your doing a 48+ hour fast and clocking in to a shift"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094936508948009143",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 416,
+          "like_count": 19208,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1784
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-22T20:37:21.000Z",
+        "description": "19!\ni am unikitty, and i am hungry\nedtwt",
+        "id": "1660746550899888128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094917465306189870",
+        "name": "Unikitty!!🍭",
+        "pinned_tweet_id": "2089775226401772003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1660746550899888128/1786556004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087593043931140096/ambmeWkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 102,
+          "like_count": 10593,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "HungryUnikitty",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

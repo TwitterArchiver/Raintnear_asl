@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090039841882857808",
+    "created_at": "2026-08-19T11:35:04.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T12:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090039841882857808"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1906170707329069057",
+          "start": 3,
+          "username": "Insomniacangel_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090039841882857808",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089534376795115634",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Insomniacangel_: La gente piensa que me quiero morir por tener una mala vida. No, me quiero matar porque me odio, me desprecio, no me s…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090039841882857808",
+        "created_at": "2026-08-19T11:35:04.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T12:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090039841882857808"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1906170707329069057",
+              "start": 3,
+              "username": "Insomniacangel_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090039841882857808",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089534376795115634",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Insomniacangel_: La gente piensa que me quiero morir por tener una mala vida. No, me quiero matar porque me odio, me desprecio, no me s…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906170707329069057",
+        "conversation_id": "2089534376795115634",
+        "created_at": "2026-08-18T02:06:31.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T03:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089534376795115634"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089534376795115634",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 16847,
+          "like_count": 1791,
+          "quote_count": 24,
+          "reply_count": 12,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "La gente piensa que me quiero morir por tener una mala vida. No, me quiero matar porque me odio, me desprecio, no me sorpoto, no debería de haber existido si quiera, sólo soy un estorbo, una carga, un error, una decepción, un inservible, no soy digno de nada, sólo quiero morirme"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090039841882857808",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 424,
+          "like_count": 17944,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1631
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-30T02:24:55.000Z",
+        "description": "𖦹 𝘎𝘦𝘯𝘥𝘦𝘳 𝘍𝘭𝘶𝘪𝘥⭑.ᐟ #subtwt #edtw #animetwt #shtwt #suicidetwt #yaoitwt  i'm autistic  𖦹 INFP-T⭑.ᐟ \n Vent acc 🧷 He/him 𖦹 asexual ♱\nm/w: @Sr_Friki0",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "subtwt"
+              },
+              {
+                "end": 31,
+                "start": 26,
+                "tag": "edtw"
+              },
+              {
+                "end": 41,
+                "start": 32,
+                "tag": "animetwt"
+              },
+              {
+                "end": 48,
+                "start": 42,
+                "tag": "shtwt"
+              },
+              {
+                "end": 60,
+                "start": 49,
+                "tag": "suicidetwt"
+              },
+              {
+                "end": 69,
+                "start": 61,
+                "tag": "yaoitwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 144,
+                "start": 134,
+                "username": "Sr_Friki0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/insomniacangel…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/insomniacangel_?igsh=YXAzNnZ0Mmt4eHJr",
+                "start": 0,
+                "url": "https://t.co/0OtUzcKYGs"
+              }
+            ]
+          }
+        },
+        "id": "1906170707329069057",
+        "is_identity_verified": false,
+        "location": "18y a guy with mental issues ",
+        "most_recent_tweet_id": "2089944657803256095",
+        "name": "𝑴𝒂𝒓𝒖𝒌𝒊 🪽",
+        "pinned_tweet_id": "2089739733765112298",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1906170707329069057/1786916345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070942276700839936/Cs3VUJyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5005,
+          "following_count": 3504,
+          "like_count": 69262,
+          "listed_count": 27,
+          "media_count": 1966,
+          "tweet_count": 32021
+        },
+        "url": "https://t.co/0OtUzcKYGs",
+        "username": "Insomniacangel_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

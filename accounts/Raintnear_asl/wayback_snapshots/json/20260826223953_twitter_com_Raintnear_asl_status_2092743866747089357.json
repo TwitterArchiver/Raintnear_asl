@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092743866747089357",
+    "created_at": "2026-08-26T22:39:53.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T23:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092743866747089357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1386409283181453312",
+          "start": 3,
+          "username": "stimabuse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092743866747089357",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1475
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092431354000715878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @stimabuse: I fantasize about having friends"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092743866747089357",
+        "created_at": "2026-08-26T22:39:53.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092743866747089357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1386409283181453312",
+              "start": 3,
+              "username": "stimabuse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092743866747089357",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1475
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092431354000715878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @stimabuse: I fantasize about having friends"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1386409283181453312",
+        "conversation_id": "2092431354000715878",
+        "created_at": "2026-08-26T01:58:04.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092431354000715878"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092431354000715878",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 195,
+          "impression_count": 43630,
+          "like_count": 5416,
+          "quote_count": 51,
+          "reply_count": 38,
+          "retweet_count": 1475
+        },
+        "reply_settings": "everyone",
+        "text": "I fantasize about having friends"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092743866747089357",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 439,
+          "like_count": 18605,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1716
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-25T19:58:38.000Z",
+        "description": "𓄧𓏵𓄧𓏵𓄧𓏵𓄧𓏵𓄧𓏵𓄧𓏵",
+        "id": "1386409283181453312",
+        "is_identity_verified": false,
+        "location": "bmi 16s",
+        "most_recent_tweet_id": "2092632900105891940",
+        "name": "(˃̣̣̥ᯅ˂̣̣̥)",
+        "pinned_tweet_id": "2083065802803286044",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386409283181453312/1787215912",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090361158201118720/37sL4xu1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9275,
+          "following_count": 6600,
+          "like_count": 20289,
+          "listed_count": 27,
+          "media_count": 103,
+          "tweet_count": 1177
+        },
+        "url": "",
+        "username": "stimabuse",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

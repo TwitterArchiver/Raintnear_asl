@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096711694047395840"
+      ],
+      "media_source_tweet_id": [
+        "2096711698883186941"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2096854680618066152",
+    "created_at": "2026-09-07T06:54:48.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:54:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096854680618066152"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2094958211350601728",
+          "start": 3,
+          "username": "hearturdoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Sj1CI5igU1",
+          "end": 40,
+          "expanded_url": "https://x.com/hearturdoll/status/2096711698883186941/photo/1",
+          "media_key": "3_2096711694047395840",
+          "start": 17,
+          "url": "https://t.co/Sj1CI5igU1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096854680618066152",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2096711694047395840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1744
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096711698883186941",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @hearturdoll: https://t.co/Sj1CI5igU1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 375,
+        "media_key": "3_2096711694047395840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRkELUgaQAA8KBJ.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096711694047395840"
+          ],
+          "media_source_tweet_id": [
+            "2096711698883186941"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2096854680618066152",
+        "created_at": "2026-09-07T06:54:48.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096854680618066152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2094958211350601728",
+              "start": 3,
+              "username": "hearturdoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sj1CI5igU1",
+              "end": 40,
+              "expanded_url": "https://x.com/hearturdoll/status/2096711698883186941/photo/1",
+              "media_key": "3_2096711694047395840",
+              "start": 17,
+              "url": "https://t.co/Sj1CI5igU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096854680618066152",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096711694047395840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1744
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096711698883186941",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @hearturdoll: https://t.co/Sj1CI5igU1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096711694047395840"
+          ]
+        },
+        "author_id": "2094958211350601728",
+        "conversation_id": "2096711698883186941",
+        "created_at": "2026-09-06T21:26:38.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096711698883186941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Sj1CI5igU1",
+              "end": 23,
+              "expanded_url": "https://x.com/hearturdoll/status/2096711698883186941/photo/1",
+              "media_key": "3_2096711694047395840",
+              "start": 0,
+              "url": "https://t.co/Sj1CI5igU1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096711698883186941",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2096711694047395840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 683,
+          "impression_count": 74686,
+          "like_count": 7896,
+          "quote_count": 68,
+          "reply_count": 1,
+          "retweet_count": 1744
+        },
+        "reply_settings": "following",
+        "text": "https://t.co/Sj1CI5igU1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096854680618066152",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 425,
+          "like_count": 19580,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1833
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-02T01:19:35.000Z",
+        "description": "📝📝",
+        "id": "2094958211350601728",
+        "is_identity_verified": false,
+        "location": "they , twenty , nd",
+        "most_recent_tweet_id": "2096847861598060570",
+        "name": "˖ ࣪ ⊹",
+        "pinned_tweet_id": "2095370830851064300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094958211350601728/1788320949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096826147850039296/e7firBhT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 14,
+          "like_count": 259,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "hearturdoll",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

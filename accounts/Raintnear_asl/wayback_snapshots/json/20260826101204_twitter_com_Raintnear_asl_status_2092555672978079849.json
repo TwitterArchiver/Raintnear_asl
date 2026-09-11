@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092555672978079849",
+    "created_at": "2026-08-26T10:12:04.000Z",
+    "display_text_range": [
+      0,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092555672978079849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1825573182482563072",
+          "start": 3,
+          "username": "cotton0205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092555672978079849",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092242953645469719",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cotton0205: 小時候一直覺得同性戀、異裝癖、憂鬱症、焦慮症、心理有問題、磕藥、輟學、異食癖、同人女這些聽起來都好恐怖，現在我長大了，發現這些都是我。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092555672978079849",
+        "created_at": "2026-08-26T10:12:04.000Z",
+        "display_text_range": [
+          0,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092555672978079849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1825573182482563072",
+              "start": 3,
+              "username": "cotton0205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092555672978079849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092242953645469719",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cotton0205: 小時候一直覺得同性戀、異裝癖、憂鬱症、焦慮症、心理有問題、磕藥、輟學、異食癖、同人女這些聽起來都好恐怖，現在我長大了，發現這些都是我。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1825573182482563072",
+        "conversation_id": "2092242953645469719",
+        "created_at": "2026-08-25T13:29:26.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092242953645469719"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092242953645469719",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3412,
+          "like_count": 133,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "小時候一直覺得同性戀、異裝癖、憂鬱症、焦慮症、心理有問題、磕藥、輟學、異食癖、同人女這些聽起來都好恐怖，現在我長大了，發現這些都是我。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092555672978079849",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 435,
+          "like_count": 18329,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-19T16:39:11.000Z",
+        "description": "#shtwt｜GAD｜MDD｜SPD｜",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "1825573182482563072",
+        "is_identity_verified": false,
+        "location": "病み垢",
+        "most_recent_tweet_id": "2092354387054325955",
+        "name": "棉棉眠𝚣 ᶻ ᴢ",
+        "pinned_tweet_id": "2090811153576608093",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1825573182482563072/1783007352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992950085391716352/dWxVbRV0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 719,
+          "following_count": 599,
+          "like_count": 36919,
+          "listed_count": 4,
+          "media_count": 292,
+          "tweet_count": 4958
+        },
+        "url": "",
+        "username": "cotton0205",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

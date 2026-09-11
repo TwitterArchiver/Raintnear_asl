@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2094939562720317632",
+    "created_at": "2026-09-02T00:41:55.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T01:41:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094948901602144720"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1937988852779536384",
+          "start": 0,
+          "username": "Evienne0929"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094948901602144720",
+    "in_reply_to_user_id": "1937988852779536384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094939562720317632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Evienne0929 好可爱！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3733,
+        "height": 1280,
+        "media_key": "13_2094939533465026560",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094939533465026560/img/rlr9SqFgAv0ZuN9N.jpg",
+        "public_metrics": {
+          "view_count": 85
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094939533465026560/vid/avc1/320x568/qL2NSsr8boDPVSIN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094939533465026560/vid/avc1/480x852/LYxQ1dMLqe_j_2Qv.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094939533465026560/vid/avc1/720x1280/XODECTiryYCc2Ham.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094939533465026560/pl/gsxRycQ4TzXj-a4b.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2094939562720317632",
+        "created_at": "2026-09-02T00:41:55.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:41:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094948901602144720"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1937988852779536384",
+              "start": 0,
+              "username": "Evienne0929"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094948901602144720",
+        "in_reply_to_user_id": "1937988852779536384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094939562720317632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Evienne0929 好可爱！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094939533465026560"
+          ]
+        },
+        "author_id": "1937988852779536384",
+        "conversation_id": "2094939562720317632",
+        "created_at": "2026-09-02T00:04:48.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094939562720317632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/e8u5eBUIxs",
+              "end": 23,
+              "expanded_url": "https://x.com/Evienne0929/status/2094939562720317632/video/1",
+              "media_key": "13_2094939533465026560",
+              "start": 0,
+              "url": "https://t.co/e8u5eBUIxs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094939562720317632",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2094939533465026560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 244,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/e8u5eBUIxs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094948901602144720",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 416,
+          "like_count": 19225,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T21:38:58.000Z",
+        "description": "当垃圾桶发 眼缘回关 不加微信除非给我送钱 互关除外（）\n匿名消息https://t.co/3Os48v2L08",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/evienne38597",
+                "end": 56,
+                "expanded_url": "https://ngl.link/evienne38597",
+                "start": 33,
+                "url": "https://t.co/3Os48v2L08"
+              }
+            ]
+          }
+        },
+        "id": "1937988852779536384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094946791158624265",
+        "name": "小七",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937988852779536384/1763930275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089384721822392320/eyOX8fbP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2502,
+          "following_count": 59,
+          "like_count": 4195,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 3366
+        },
+        "url": "",
+        "username": "Evienne0929",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

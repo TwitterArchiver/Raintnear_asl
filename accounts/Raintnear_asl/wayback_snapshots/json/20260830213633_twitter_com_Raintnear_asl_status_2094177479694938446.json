@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2094177479694938446",
+    "created_at": "2026-08-30T21:36:33.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T22:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094177479694938446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1740356194424987648",
+          "start": 3,
+          "username": "ol_yhoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094177479694938446",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093928275123056975",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ol_yhoo: 너에게 상처받아도 난 끝까지 좋아해."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2094177479694938446",
+        "created_at": "2026-08-30T21:36:33.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T22:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094177479694938446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1740356194424987648",
+              "start": 3,
+              "username": "ol_yhoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094177479694938446",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093928275123056975",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ol_yhoo: 너에게 상처받아도 난 끝까지 좋아해."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740356194424987648",
+        "conversation_id": "2093928275123056975",
+        "created_at": "2026-08-30T05:06:18.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T06:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093928275123056975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093928275123056975",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 90,
+          "impression_count": 31089,
+          "like_count": 1066,
+          "quote_count": 44,
+          "reply_count": 6,
+          "retweet_count": 345
+        },
+        "reply_settings": "everyone",
+        "text": "너에게 상처받아도 난 끝까지 좋아해."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094177479694938446",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 409,
+          "like_count": 18903,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1754
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-28T12:57:16.000Z",
+        "description": "특별하니까 기억하고 싶은거야.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asked.kr/ol_yhoo",
+                "end": 23,
+                "expanded_url": "https://asked.kr/ol_yhoo",
+                "start": 0,
+                "url": "https://t.co/24Mtgi2fWR"
+              }
+            ]
+          }
+        },
+        "id": "1740356194424987648",
+        "is_identity_verified": false,
+        "location": "오타들은 귀엽게 봐죠랑😅",
+        "most_recent_tweet_id": "2093928275123056975",
+        "name": "熹",
+        "pinned_tweet_id": "2038588649953226796",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1740356194424987648/1782218513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069400546470158336/IQOPNGKR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 10,
+          "like_count": 5663,
+          "listed_count": 4,
+          "media_count": 3,
+          "tweet_count": 256
+        },
+        "url": "https://t.co/24Mtgi2fWR",
+        "username": "ol_yhoo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090262735506350492",
+    "created_at": "2026-08-20T02:20:46.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T03:20:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090262735506350492"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1255393489",
+          "start": 3,
+          "username": "rovabtw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090262735506350492",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1133
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090141855740514640",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rovabtw: X is fun. u kinda just talk to yourself and sometimes someone replies"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090262735506350492",
+        "created_at": "2026-08-20T02:20:46.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T03:20:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090262735506350492"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1255393489",
+              "start": 3,
+              "username": "rovabtw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090262735506350492",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1133
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090141855740514640",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rovabtw: X is fun. u kinda just talk to yourself and sometimes someone replies"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1255393489",
+        "conversation_id": "2090141855740514640",
+        "created_at": "2026-08-19T18:20:26.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T19:20:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090141855740514640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090141855740514640",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 71178,
+          "like_count": 4540,
+          "quote_count": 88,
+          "reply_count": 155,
+          "retweet_count": 1133
+        },
+        "reply_settings": "everyone",
+        "text": "X is fun. u kinda just talk to yourself and sometimes someone replies"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "专心传播负面能量",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090262735506350492",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 433,
+          "like_count": 18172,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1671
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-09T21:10:15.000Z",
+        "description": "✧.* pokemon dbd yapping ✧.* ˙𐃷˙",
+        "id": "1255393489",
+        "is_identity_verified": true,
+        "location": "Boston, MA",
+        "most_recent_tweet_id": "2090216964094349670",
+        "name": "rova",
+        "pinned_tweet_id": "1834364702484275266",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1255393489/1767470123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084644403516231680/DCOS7g-w_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49075,
+          "following_count": 11448,
+          "like_count": 145379,
+          "listed_count": 49,
+          "media_count": 6404,
+          "tweet_count": 36883
+        },
+        "url": "",
+        "username": "rovabtw",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2095140925781815427",
+    "created_at": "2026-09-03T07:31:31.000Z",
+    "display_text_range": [
+      10,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:31:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095414369601364467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911495718793064449",
+          "start": 0,
+          "username": "ji_ba438"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095414369601364467",
+    "in_reply_to_user_id": "1911495718793064449",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095140925781815427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ji_ba438 我比你的浅很多 但是用了市面上很多祛疤膏也没用任何作用 听别人说只能激光了😭😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095140925781815427].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095140925781815427",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095140925781815427"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2095140925781815427",
+        "created_at": "2026-09-03T07:31:31.000Z",
+        "display_text_range": [
+          10,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:31:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095414369601364467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911495718793064449",
+              "start": 0,
+              "username": "ji_ba438"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095414369601364467",
+        "in_reply_to_user_id": "1911495718793064449",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095140925781815427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ji_ba438 我比你的浅很多 但是用了市面上很多祛疤膏也没用任何作用 听别人说只能激光了😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095414369601364467",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 416,
+          "like_count": 19264,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1795
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T19:04:38.000Z",
+        "description": "不聊骚不互看，我只是一个精神病，一个傻子，我想说啥就说啥，看我不爽的话你把手机砸了我就消失了😆\n女孩子互fo交朋友请DM☺️",
+        "id": "1911495718793064449",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093053224379167072",
+        "name": "火鸡味锅巴",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 250,
+          "like_count": 4372,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 1760
+        },
+        "url": "",
+        "username": "ji_ba438",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092679786304774424",
+    "created_at": "2026-08-26T18:25:15.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T19:25:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092679786304774424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "3242933142",
+          "start": 3,
+          "username": "few7432"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092679786304774424",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092512272123920509",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @few7432: 最初から知らなきゃ良かったのかなって。君の温もりも優しさも匂いも、全部。最初から知らなかったら、失うことに怯えることも、失うこともなかったんですから。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092679786304774424",
+        "created_at": "2026-08-26T18:25:15.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T19:25:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092679786304774424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "3242933142",
+              "start": 3,
+              "username": "few7432"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092679786304774424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092512272123920509",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @few7432: 最初から知らなきゃ良かったのかなって。君の温もりも優しさも匂いも、全部。最初から知らなかったら、失うことに怯えることも、失うこともなかったんですから。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3242933142",
+        "conversation_id": "2092512272123920509",
+        "created_at": "2026-08-26T07:19:37.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:19:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092512272123920509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092512272123920509",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 17353,
+          "like_count": 510,
+          "quote_count": 4,
+          "reply_count": 10,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "最初から知らなきゃ良かったのかなって。君の温もりも優しさも匂いも、全部。最初から知らなかったら、失うことに怯えることも、失うこともなかったんですから。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092679786304774424",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 436,
+          "like_count": 18475,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1699
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-12T06:11:53.000Z",
+        "description": "",
+        "id": "3242933142",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092597753478103421",
+        "name": "チャーリー",
+        "pinned_tweet_id": "1665992467391594497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3242933142/1434693793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/650883758598451200/iUYzPHt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200419,
+          "following_count": 6198,
+          "like_count": 3893,
+          "listed_count": 519,
+          "media_count": 456,
+          "tweet_count": 53504
+        },
+        "url": "",
+        "username": "few7432",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

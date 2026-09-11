@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2095414043909484894",
+    "created_at": "2026-09-03T07:30:13.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:30:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095414043909484894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048208274261147648",
+          "start": 3,
+          "username": "salgoo999"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095414043909484894",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2537
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095078075465977966",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @salgoo999: 상대가 좋아지면 좋아질수록\n나에 대해 안 좋게 생각할까봐 너무 불안함\n그래서 계속 물어보게 됨\n내 이런 모습에 정 떨어지진 않았는지\n거리를 두고 싶고 불편해하는 사람이 \n혹시 나인건지 너무 불안하고 걱정됨\n그리고 이런걸 불…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2095414043909484894",
+        "created_at": "2026-09-03T07:30:13.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:30:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095414043909484894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048208274261147648",
+              "start": 3,
+              "username": "salgoo999"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095414043909484894",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2537
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095078075465977966",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @salgoo999: 상대가 좋아지면 좋아질수록\n나에 대해 안 좋게 생각할까봐 너무 불안함\n그래서 계속 물어보게 됨\n내 이런 모습에 정 떨어지진 않았는지\n거리를 두고 싶고 불편해하는 사람이 \n혹시 나인건지 너무 불안하고 걱정됨\n그리고 이런걸 불…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2048208274261147648",
+        "conversation_id": "2095078075465977966",
+        "created_at": "2026-09-02T09:15:12.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T10:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095078075465977966"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095078075465977966",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1426,
+          "impression_count": 350937,
+          "like_count": 7449,
+          "quote_count": 1085,
+          "reply_count": 6,
+          "retweet_count": 2537
+        },
+        "reply_settings": "everyone",
+        "text": "상대가 좋아지면 좋아질수록\n나에 대해 안 좋게 생각할까봐 너무 불안함\n그래서 계속 물어보게 됨\n내 이런 모습에 정 떨어지진 않았는지\n거리를 두고 싶고 불편해하는 사람이 \n혹시 나인건지 너무 불안하고 걱정됨\n그리고 이런걸 불안해하면서 물어보는\n내 모습 때문에 날 질려하고 싫어할까봐 불안함"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095414043909484894",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 416,
+          "like_count": 19262,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1794
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-26T01:11:40.000Z",
+        "description": "",
+        "id": "2048208274261147648",
+        "is_identity_verified": false,
+        "location": "정신병동",
+        "most_recent_tweet_id": "2095409901879316769",
+        "name": "살구",
+        "pinned_tweet_id": "2093192376617750999",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048208274261147648/1787631814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076822758085021696/5gQUND6z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1450,
+          "following_count": 0,
+          "like_count": 6090,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 1848
+        },
+        "url": "",
+        "username": "salgoo999",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2095202447631286452",
+    "created_at": "2026-09-02T17:29:25.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T18:29:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095202447631286452"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1663667306830999552",
+          "start": 3,
+          "username": "kekipqw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095202447631286452",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3259
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094924880013668399",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kekipqw: me da celos todo xq se que soy reemplazable"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2095202447631286452",
+        "created_at": "2026-09-02T17:29:25.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T18:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095202447631286452"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1663667306830999552",
+              "start": 3,
+              "username": "kekipqw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095202447631286452",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3259
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094924880013668399",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kekipqw: me da celos todo xq se que soy reemplazable"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663667306830999552",
+        "conversation_id": "2094924880013668399",
+        "created_at": "2026-09-01T23:06:27.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094924880013668399"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094924880013668399",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 328,
+          "impression_count": 84878,
+          "like_count": 7056,
+          "quote_count": 109,
+          "reply_count": 12,
+          "retweet_count": 3259
+        },
+        "reply_settings": "everyone",
+        "text": "me da celos todo xq se que soy reemplazable"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095202447631286452",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 416,
+          "like_count": 19244,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1791
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-30T22:03:14.000Z",
+        "description": "A veces normal a veces no",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fakee26326",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fakee26326",
+                "start": 0,
+                "url": "https://t.co/LV3Weo9DcP"
+              }
+            ]
+          }
+        },
+        "id": "1663667306830999552",
+        "is_identity_verified": false,
+        "location": "huyendo de la inteligencia :x",
+        "most_recent_tweet_id": "2095150447765950515",
+        "name": "kekoppp",
+        "pinned_tweet_id": "1939790396160450998",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663667306830999552/1719972311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1810794637268840448/RUdk7FKz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11933,
+          "following_count": 817,
+          "like_count": 5034,
+          "listed_count": 21,
+          "media_count": 710,
+          "tweet_count": 6465
+        },
+        "url": "https://t.co/LV3Weo9DcP",
+        "username": "kekipqw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

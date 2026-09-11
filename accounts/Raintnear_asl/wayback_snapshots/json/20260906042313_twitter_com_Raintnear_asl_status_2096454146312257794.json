@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2096361558351778110",
+    "created_at": "2026-09-06T04:23:13.000Z",
+    "display_text_range": [
+      9,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T05:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096454146312257794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2076002975294652416",
+          "start": 0,
+          "username": "judydnq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096454146312257794",
+    "in_reply_to_user_id": "2076002975294652416",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096403752278167981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@judydnq …&gt;_&lt;…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2096361558351778110",
+        "created_at": "2026-09-06T04:23:13.000Z",
+        "display_text_range": [
+          9,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T05:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096454146312257794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2076002975294652416",
+              "start": 0,
+              "username": "judydnq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096454146312257794",
+        "in_reply_to_user_id": "2076002975294652416",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096403752278167981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@judydnq …&gt;_&lt;…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2076002975294652416",
+        "conversation_id": "2096361558351778110",
+        "created_at": "2026-09-06T01:02:58.000Z",
+        "display_text_range": [
+          15,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T02:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096403752278167981"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096403752278167981",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096361558351778110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 发在推上是不是更像漂流瓶？有缘看到就来提供一个安慰！抱抱宝贝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096454146312257794",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 418,
+          "like_count": 19399,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1816
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-11T17:58:07.000Z",
+        "description": "随时消号。完全本我哦",
+        "id": "2076002975294652416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096410380289397109",
+        "name": "judy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2076002975294652416/1788213293",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094544347056254976/vR2vj03k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 270,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 99
+        },
+        "url": "",
+        "username": "judydnq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092601624514777320",
+    "created_at": "2026-08-26T13:21:53.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:21:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092603440203538564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1918323916969525251",
+          "start": 0,
+          "username": "wfwc0910"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092603440203538564",
+    "in_reply_to_user_id": "1918323916969525251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092601624514777320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wfwc0910 好心酸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092601624514777320",
+        "created_at": "2026-08-26T13:21:53.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:21:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092603440203538564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1918323916969525251",
+              "start": 0,
+              "username": "wfwc0910"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092603440203538564",
+        "in_reply_to_user_id": "1918323916969525251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092601624514777320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wfwc0910 好心酸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1918323916969525251",
+        "conversation_id": "2092601624514777320",
+        "created_at": "2026-08-26T13:14:40.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:14:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092601624514777320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092601624514777320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好懵逼的人生 莫名其妙就被生出来 然后读几年书 打几十年工"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092603440203538564",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 435,
+          "like_count": 18433,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1690
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-02T15:17:37.000Z",
+        "description": "本人09🇨🇳 随便发点 有的有营养 有的毫无价值\n不od 不割手 不🚬 偶尔🍺 enfp 天蝎\n希望各位宝子都可以喜欢我 善语结善缘\n欢迎匿名提问 止步于推 人生皆是过客\n@wfwctw0910 富家子弟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "wfwctw0910"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wfwc0910",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wfwc0910",
+                "start": 0,
+                "url": "https://t.co/ZW8eHbWQwm"
+              }
+            ]
+          }
+        },
+        "id": "1918323916969525251",
+        "is_identity_verified": false,
+        "location": "人间和地狱交界处",
+        "most_recent_tweet_id": "2092601624514777320",
+        "name": "挽风无尘",
+        "pinned_tweet_id": "2091504497906663712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1918323916969525251/1782125074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088561122727346176/2UbThLxH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 405,
+          "like_count": 1800,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 317
+        },
+        "url": "https://t.co/ZW8eHbWQwm",
+        "username": "wfwc0910",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

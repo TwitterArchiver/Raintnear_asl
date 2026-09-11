@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2057462113124147224",
+    "created_at": "2026-08-27T20:10:50.000Z",
+    "display_text_range": [
+      14,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T21:10:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093068745543647682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1678100718438449152",
+          "start": 0,
+          "username": "jinqianhanji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093068745543647682",
+    "in_reply_to_user_id": "1678100718438449152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093066978999308339",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinqianhanji 唉！还是不要因为一些怜悯的情绪轻易进入到一段感情里吧 这样子对你和对他都不会好的 只会越来越糟糕😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2057462113124147224",
+        "created_at": "2026-08-27T20:10:50.000Z",
+        "display_text_range": [
+          14,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:10:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093068745543647682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1678100718438449152",
+              "start": 0,
+              "username": "jinqianhanji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093068745543647682",
+        "in_reply_to_user_id": "1678100718438449152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093066978999308339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinqianhanji 唉！还是不要因为一些怜悯的情绪轻易进入到一段感情里吧 这样子对你和对他都不会好的 只会越来越糟糕😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678100718438449152",
+        "conversation_id": "2057462113124147224",
+        "created_at": "2026-08-27T20:03:49.000Z",
+        "display_text_range": [
+          15,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T21:03:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093066978999308339"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093066978999308339",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057462113124147224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 我能共情，因为一直以来都没办法喜欢上任何人只能被迫接受别人的喜欢，抱着怜悯的态度安慰精神不稳定天天PUA身边人的对象根本无话可说只好找其他低气压的朋友倒垃圾发电波又被产生了暧昧两难进退，不过我骨子里早就已经在蛆虫地狱受刑了hh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2093068745543647682",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 410,
+          "like_count": 18776,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-09T17:56:24.000Z",
+        "description": "るるじばここび、生活が気持ち",
+        "id": "1678100718438449152",
+        "is_identity_verified": false,
+        "location": "新大東亞共榮圈大中華帝國",
+        "most_recent_tweet_id": "2093068408183271445",
+        "name": "狂気电波精神病",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1678100718438449152/1753966701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1818632467097829377/3sL73cWD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 106,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 277
+        },
+        "url": "",
+        "username": "jinqianhanji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

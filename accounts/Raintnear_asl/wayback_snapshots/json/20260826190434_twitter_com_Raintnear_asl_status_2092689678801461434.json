@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092687502750445871",
+    "created_at": "2026-08-26T19:04:34.000Z",
+    "display_text_range": [
+      13,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:04:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092689678801461434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1683763960049291265",
+          "start": 0,
+          "username": "yuuki921416"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092689678801461434",
+    "in_reply_to_user_id": "1683763960049291265",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092688659288064389",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuki921416 我也是 就这样呆傻的过下去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092687502750445871",
+        "created_at": "2026-08-26T19:04:34.000Z",
+        "display_text_range": [
+          13,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:04:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092689678801461434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1683763960049291265",
+              "start": 0,
+              "username": "yuuki921416"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092689678801461434",
+        "in_reply_to_user_id": "1683763960049291265",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092688659288064389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuki921416 我也是 就这样呆傻的过下去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683763960049291265",
+        "conversation_id": "2092687502750445871",
+        "created_at": "2026-08-26T19:00:31.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092688659288064389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092688659288064389",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092687502750445871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 一样 把游戏号都出了 每天就很呆傻的嗑药"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092689678801461434",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 437,
+          "like_count": 18553,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1708
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-25T08:59:53.000Z",
+        "description": "od餐券智商低｜不聊黄别发屌",
+        "id": "1683763960049291265",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092689006274498838",
+        "name": "yuuki",
+        "pinned_tweet_id": "2085351022000828546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683763960049291265/1786022522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090418975717134336/hpRS9Mox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 752,
+          "like_count": 13894,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2453
+        },
+        "url": "",
+        "username": "yuuki921416",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

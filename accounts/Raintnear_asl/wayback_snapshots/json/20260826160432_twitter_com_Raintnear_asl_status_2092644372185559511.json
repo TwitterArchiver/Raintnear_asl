@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092644372185559511",
+    "created_at": "2026-08-26T16:04:32.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:04:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092644372185559511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2062481890221924352",
+          "start": 3,
+          "username": "Nwnjtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092644372185559511",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 321
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092459074130690105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nwnjtd: 私がいないと生きられない人と付き合いたい。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092644372185559511",
+        "created_at": "2026-08-26T16:04:32.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092644372185559511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2062481890221924352",
+              "start": 3,
+              "username": "Nwnjtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092644372185559511",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 321
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092459074130690105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nwnjtd: 私がいないと生きられない人と付き合いたい。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062481890221924352",
+        "conversation_id": "2092459074130690105",
+        "created_at": "2026-08-26T03:48:13.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092459074130690105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092459074130690105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 40898,
+          "like_count": 1843,
+          "quote_count": 49,
+          "reply_count": 2,
+          "retweet_count": 321
+        },
+        "reply_settings": "everyone",
+        "text": "私がいないと生きられない人と付き合いたい。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092644372185559511",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 479,
+          "following_count": 434,
+          "like_count": 18462,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1696
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T10:30:16.000Z",
+        "description": "幸せになりたい。",
+        "id": "2062481890221924352",
+        "is_identity_verified": false,
+        "location": "恋について呟きます🌻",
+        "most_recent_tweet_id": "2092587621419741523",
+        "name": "るな",
+        "pinned_tweet_id": "2077212035721691322",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062481890221924352/1782182732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091004313980301312/wKxXVjhx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 0,
+          "like_count": 234,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 162
+        },
+        "url": "",
+        "username": "Nwnjtd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2094401966872891823",
+    "created_at": "2026-08-31T20:41:20.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T21:41:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094525970036224311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1925561449457623046",
+          "start": 0,
+          "username": "Sush1Tears"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094525970036224311",
+    "in_reply_to_user_id": "1925561449457623046",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094508276432191731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sush1Tears 谢谢你呀！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2094401966872891823",
+        "created_at": "2026-08-31T20:41:20.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T21:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094525970036224311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1925561449457623046",
+              "start": 0,
+              "username": "Sush1Tears"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094525970036224311",
+        "in_reply_to_user_id": "1925561449457623046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094508276432191731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sush1Tears 谢谢你呀！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1925561449457623046",
+        "conversation_id": "2094401966872891823",
+        "created_at": "2026-08-31T19:31:01.000Z",
+        "display_text_range": [
+          15,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T20:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094508276432191731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094508276432191731",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094401966872891823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 抱抱你🫂 能一直活着已经很努力了!"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094525970036224311",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 489,
+          "following_count": 415,
+          "like_count": 19125,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1771
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-22T14:36:58.000Z",
+        "description": "成年无业寿司 l 喜欢观察你们👀 l 暴论发表 l 友LGBTQ+l 寻找存在感 l 欢迎互关 l 欢迎随时找我聊天 我什么都会听的QwQ",
+        "id": "1925561449457623046",
+        "is_identity_verified": false,
+        "location": "日料店",
+        "most_recent_tweet_id": "2094512591746060405",
+        "name": "寿司好吃🍣",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1925561449457623046/1788158575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093757224720207872/B4Z4BR0U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 42,
+          "like_count": 141,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 39
+        },
+        "url": "",
+        "username": "Sush1Tears",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

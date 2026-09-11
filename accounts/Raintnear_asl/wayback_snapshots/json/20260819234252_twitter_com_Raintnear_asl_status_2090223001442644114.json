@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090223001442644114",
+    "created_at": "2026-08-19T23:42:52.000Z",
+    "display_text_range": [
+      0,
+      107
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T00:42:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090223001442644114"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/raintnear_asl/…",
+          "end": 131,
+          "expanded_url": "https://twitter.com/raintnear_asl/status/2090221688629694777",
+          "start": 108,
+          "url": "https://t.co/bwVKw7WXkx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090223001442644114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090221688629694777",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不过她太好了 我准备在她收到快递之后就跑路 在她身边我只会更内耗更痛苦 因为我知道她爱我以后 我就会刻意的露出恶劣的一面 可是她也没有走 反而包容我和理解我 我好内疚 我一直在试探她的底线 其实我也想好好和你说话的 https://t.co/bwVKw7WXkx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090223001442644114",
+        "created_at": "2026-08-19T23:42:52.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:42:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090223001442644114"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/raintnear_asl/…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/raintnear_asl/status/2090221688629694777",
+              "start": 108,
+              "url": "https://t.co/bwVKw7WXkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090223001442644114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090221688629694777",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不过她太好了 我准备在她收到快递之后就跑路 在她身边我只会更内耗更痛苦 因为我知道她爱我以后 我就会刻意的露出恶劣的一面 可是她也没有走 反而包容我和理解我 我好内疚 我一直在试探她的底线 其实我也想好好和你说话的 https://t.co/bwVKw7WXkx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090221688629694777",
+        "created_at": "2026-08-19T23:37:39.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T00:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090221688629694777"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090221688629694777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在准备动笔给我朋友写手写信了 其实我的脑袋空空 想起她的时候脑海里就只剩下“我爱你谢谢你”这六个字了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090223001442644114",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 432,
+          "like_count": 18147,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1671
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

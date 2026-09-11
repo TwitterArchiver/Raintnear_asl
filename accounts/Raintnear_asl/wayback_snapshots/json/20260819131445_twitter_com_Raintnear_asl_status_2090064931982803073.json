@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090064931982803073",
+    "created_at": "2026-08-19T13:14:45.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T14:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090064931982803073"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1078260621651501058",
+          "start": 3,
+          "username": "oXSqcjt9uqkAWwF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090064931982803073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6169
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089598474165932345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oXSqcjt9uqkAWwF: 人間は病むとツイートが増える"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090064931982803073",
+        "created_at": "2026-08-19T13:14:45.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090064931982803073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1078260621651501058",
+              "start": 3,
+              "username": "oXSqcjt9uqkAWwF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090064931982803073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089598474165932345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oXSqcjt9uqkAWwF: 人間は病むとツイートが増える"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1078260621651501058",
+        "conversation_id": "2089598474165932345",
+        "created_at": "2026-08-18T06:21:13.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:21:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089598474165932345"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089598474165932345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1239,
+          "impression_count": 1357840,
+          "like_count": 40773,
+          "quote_count": 2861,
+          "reply_count": 127,
+          "retweet_count": 6169
+        },
+        "reply_settings": "everyone",
+        "text": "人間は病むとツイートが増える"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090064931982803073",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 426,
+          "like_count": 17968,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1639
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-27T12:05:40.000Z",
+        "description": "全く演じてない方の私\n日記▶︎ https://t.co/gTvBVeItoC",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "x.com/hanada_note?s=…",
+                "end": 39,
+                "expanded_url": "https://x.com/hanada_note?s=11&t=nLfzx_OQY-kW7Sb8Qy1h7Q",
+                "start": 16,
+                "url": "https://t.co/gTvBVeItoC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/hanadadada",
+                "end": 23,
+                "expanded_url": "https://note.com/hanadadada",
+                "start": 0,
+                "url": "https://t.co/rUcGqyWo4M"
+              }
+            ]
+          }
+        },
+        "id": "1078260621651501058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089643537830941128",
+        "name": "縹",
+        "pinned_tweet_id": "1178167635600527360",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1078260621651501058/1549339187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1114803772130127873/9PIJG-0H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 85,
+          "like_count": 15976,
+          "listed_count": 4,
+          "media_count": 87,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/rUcGqyWo4M",
+        "username": "oXSqcjt9uqkAWwF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

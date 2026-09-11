@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2093033481857270111",
+    "created_at": "2026-08-27T18:47:17.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T19:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093047717518102723"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2072547086286168064",
+          "start": 0,
+          "username": "europhiaL7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093047717518102723",
+    "in_reply_to_user_id": "2072547086286168064",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093033481857270111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@europhiaL7 🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2093033481857270111",
+        "created_at": "2026-08-27T18:47:17.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T19:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093047717518102723"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2072547086286168064",
+              "start": 0,
+              "username": "europhiaL7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093047717518102723",
+        "in_reply_to_user_id": "2072547086286168064",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093033481857270111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@europhiaL7 🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2072547086286168064",
+        "conversation_id": "2093033481857270111",
+        "created_at": "2026-08-27T17:50:43.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093033481857270111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093033481857270111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我好恨我自己"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2093047717518102723",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 409,
+          "like_count": 18743,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1734
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-02T05:06:34.000Z",
+        "description": "˙˖Ი𐑼⋆\n ≧vo\n查成分互 私信会回复已互 其他随缘 ＞𐋣＜\n🚪52 纯圈@slitudergi6 @17xiaoxuan00",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "slitudergi6"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "17xiaoxuan00"
+              }
+            ]
+          }
+        },
+        "id": "2072547086286168064",
+        "is_identity_verified": false,
+        "location": "❄️",
+        "most_recent_tweet_id": "2093040738561089705",
+        "name": "Maep1xel",
+        "pinned_tweet_id": "2088826619578532235",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2072547086286168064/1783139407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073263010169397248/ezRUnKXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 19,
+          "like_count": 1072,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "europhiaL7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

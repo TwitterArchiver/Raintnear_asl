@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2093693501313634771",
+    "created_at": "2026-08-29T13:33:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T14:33:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093693501313634771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1455576904954630150",
+          "start": 3,
+          "username": "tanshuixiaogou"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093693501313634771",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 123
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093205758955720965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tanshuixiaogou: 我听到看到想到situationship、friend with benefits、fwb、炮友、长期固、固炮、长期固定炮友、one night stand、ons、一夜情这些词，我就恶心得想吐🤮没有灵魂的人类才会如同牲畜般交配，这种人不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2093693501313634771",
+        "created_at": "2026-08-29T13:33:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:33:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093693501313634771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1455576904954630150",
+              "start": 3,
+              "username": "tanshuixiaogou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093693501313634771",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093205758955720965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tanshuixiaogou: 我听到看到想到situationship、friend with benefits、fwb、炮友、长期固、固炮、长期固定炮友、one night stand、ons、一夜情这些词，我就恶心得想吐🤮没有灵魂的人类才会如同牲畜般交配，这种人不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455576904954630150",
+        "conversation_id": "2093205758955720965",
+        "created_at": "2026-08-28T05:15:17.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:15:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093205758955720965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093205758955720965",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 88191,
+          "like_count": 1328,
+          "quote_count": 32,
+          "reply_count": 144,
+          "retweet_count": 123
+        },
+        "reply_settings": "everyone",
+        "text": "我听到看到想到situationship、friend with benefits、fwb、炮友、长期固、固炮、长期固定炮友、one night stand、ons、一夜情这些词，我就恶心得想吐🤮没有灵魂的人类才会如同牲畜般交配，这种人不止没有爱人的能力，也没有值得被爱的幸运。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2093693501313634771",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 484,
+          "following_count": 410,
+          "like_count": 18878,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 1749
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-02T16:46:39.000Z",
+        "description": "不是你的小狗",
+        "id": "1455576904954630150",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093686212129366091",
+        "name": "碳水小狗",
+        "pinned_tweet_id": "2093563138121896230",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455576904954630150/1651878005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1559482891867893760/ZaW1Vro8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4280,
+          "following_count": 108,
+          "like_count": 38727,
+          "listed_count": 11,
+          "media_count": 230,
+          "tweet_count": 1658
+        },
+        "url": "",
+        "username": "tanshuixiaogou",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

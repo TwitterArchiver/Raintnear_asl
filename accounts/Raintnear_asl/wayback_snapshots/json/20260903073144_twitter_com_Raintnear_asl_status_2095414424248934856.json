@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2095414424248934856",
+    "created_at": "2026-09-03T07:31:44.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:31:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095414424248934856"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1723209368240283648",
+          "start": 3,
+          "username": "onlystresstoday"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095414424248934856",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5173
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095187106494665141",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @onlystresstoday: crazy how trauma isn’t your fault but it’s your responsibility to heal"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2095414424248934856",
+        "created_at": "2026-09-03T07:31:44.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095414424248934856"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1723209368240283648",
+              "start": 3,
+              "username": "onlystresstoday"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095414424248934856",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5173
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095187106494665141",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @onlystresstoday: crazy how trauma isn’t your fault but it’s your responsibility to heal"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1723209368240283648",
+        "conversation_id": "2095187106494665141",
+        "created_at": "2026-09-02T16:28:27.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:28:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095187106494665141"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095187106494665141",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1162,
+          "impression_count": 235128,
+          "like_count": 20878,
+          "quote_count": 196,
+          "reply_count": 35,
+          "retweet_count": 5173
+        },
+        "reply_settings": "everyone",
+        "text": "crazy how trauma isn’t your fault but it’s your responsibility to heal"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2095414424248934856",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 416,
+          "like_count": 19267,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1796
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-11T05:22:17.000Z",
+        "description": "you’re not alone during these stressful times",
+        "id": "1723209368240283648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095350002960744925",
+        "name": "stressed",
+        "pinned_tweet_id": "1953033490930233709",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723209368240283648/1758340150",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969247372673708032/NLnim08U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236891,
+          "following_count": 269,
+          "like_count": 6047,
+          "listed_count": 228,
+          "media_count": 1,
+          "tweet_count": 2305
+        },
+        "url": "",
+        "username": "onlystresstoday",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090197019335807033",
+    "created_at": "2026-08-19T21:59:38.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T22:59:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090197019335807033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2049482845324746752",
+          "start": 3,
+          "username": "Henry404gd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090197019335807033",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089967077763215614",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Henry404gd: not mad, just disappointed because i told you multiple times how i feel about those things and you still choose to do the t…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090197019335807033",
+        "created_at": "2026-08-19T21:59:38.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T22:59:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090197019335807033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2049482845324746752",
+              "start": 3,
+              "username": "Henry404gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090197019335807033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089967077763215614",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Henry404gd: not mad, just disappointed because i told you multiple times how i feel about those things and you still choose to do the t…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049482845324746752",
+        "conversation_id": "2089967077763215614",
+        "created_at": "2026-08-19T06:45:55.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089967077763215614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089967077763215614",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 407,
+          "impression_count": 55531,
+          "like_count": 3005,
+          "quote_count": 78,
+          "reply_count": 8,
+          "retweet_count": 1190
+        },
+        "reply_settings": "everyone",
+        "text": "not mad, just disappointed because i told you multiple times how i feel about those things and you still choose to do the things i told you that affect me most."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090197019335807033",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 432,
+          "like_count": 18131,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1666
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-29T13:36:27.000Z",
+        "description": "random shii ☄️🚬",
+        "id": "2049482845324746752",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090194545195851778",
+        "name": "Henry",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2049482845324746752/1786630044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088328794339786754/LL464guK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 158,
+          "like_count": 6826,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 6197
+        },
+        "url": "",
+        "username": "Henry404gd",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

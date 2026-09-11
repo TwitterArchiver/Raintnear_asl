@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2092743800582013266",
+    "created_at": "2026-08-26T22:39:38.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T23:39:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092743800582013266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1674917639599079424",
+          "start": 3,
+          "username": "eternaltxts"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092743800582013266",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1614
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092493999009353842",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @eternaltxts: i torture myself everyday by not ending my life"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2092743800582013266",
+        "created_at": "2026-08-26T22:39:38.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092743800582013266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1674917639599079424",
+              "start": 3,
+              "username": "eternaltxts"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092743800582013266",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1614
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092493999009353842",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @eternaltxts: i torture myself everyday by not ending my life"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674917639599079424",
+        "conversation_id": "2092493999009353842",
+        "created_at": "2026-08-26T06:07:00.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092493999009353842"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092493999009353842",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 50186,
+          "like_count": 5075,
+          "quote_count": 21,
+          "reply_count": 22,
+          "retweet_count": 1614
+        },
+        "reply_settings": "everyone",
+        "text": "i torture myself everyday by not ending my life"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2092743800582013266",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 439,
+          "like_count": 18603,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1715
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-30T23:08:00.000Z",
+        "description": "Just about feelings and turn on notifications 💙",
+        "id": "1674917639599079424",
+        "is_identity_verified": true,
+        "location": "in my heart",
+        "most_recent_tweet_id": "2092734214747611629",
+        "name": "feelings ღ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1674917639599079424/1739990877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892285012570963969/qrG5oB4q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73507,
+          "following_count": 14024,
+          "like_count": 97089,
+          "listed_count": 145,
+          "media_count": 3667,
+          "tweet_count": 16841
+        },
+        "url": "",
+        "username": "eternaltxts",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

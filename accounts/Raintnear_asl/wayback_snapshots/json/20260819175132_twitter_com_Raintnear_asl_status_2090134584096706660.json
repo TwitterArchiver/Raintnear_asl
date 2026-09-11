@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2090134584096706660",
+    "created_at": "2026-08-19T17:51:32.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T18:51:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090134584096706660"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2063552482299830272",
+          "start": 3,
+          "username": "Annatachanl2un"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090134584096706660",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 180
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089983196830335273",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Annatachanl2un: 「自殺したら地獄行き」←これ考えた奴人の心なさすぎだろ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2090134584096706660",
+        "created_at": "2026-08-19T17:51:32.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T18:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090134584096706660"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2063552482299830272",
+              "start": 3,
+              "username": "Annatachanl2un"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090134584096706660",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 180
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089983196830335273",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Annatachanl2un: 「自殺したら地獄行き」←これ考えた奴人の心なさすぎだろ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063552482299830272",
+        "conversation_id": "2089983196830335273",
+        "created_at": "2026-08-19T07:49:58.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089983196830335273"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089983196830335273",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 133,
+          "impression_count": 108446,
+          "like_count": 4285,
+          "quote_count": 52,
+          "reply_count": 24,
+          "retweet_count": 180
+        },
+        "reply_settings": "everyone",
+        "text": "「自殺したら地獄行き」←これ考えた奴人の心なさすぎだろ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2090134584096706660",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 425,
+          "like_count": 18036,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 1650
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-07T09:24:56.000Z",
+        "description": "反出生、同界隈の方フォロバします🙏",
+        "id": "2063552482299830272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090101028104618454",
+        "name": "アンナタちゃん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063552482299830272/1780863546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063678000487669760/GJEwpYmq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 43,
+          "like_count": 1471,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "Annatachanl2un",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

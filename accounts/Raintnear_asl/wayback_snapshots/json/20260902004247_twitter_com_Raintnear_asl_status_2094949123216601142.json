@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2094949123216601142",
+    "created_at": "2026-09-02T00:42:47.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T01:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094949123216601142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2045196205412462593",
+          "start": 3,
+          "username": "1nlg4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094949123216601142",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094769874048622971",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1nlg4: リスカ跡ある男えろすぎる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2094949123216601142",
+        "created_at": "2026-09-02T00:42:47.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T01:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094949123216601142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2045196205412462593",
+              "start": 3,
+              "username": "1nlg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094949123216601142",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094769874048622971",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1nlg4: リスカ跡ある男えろすぎる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045196205412462593",
+        "conversation_id": "2094769874048622971",
+        "created_at": "2026-09-01T12:50:31.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094769874048622971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094769874048622971",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 83,
+          "impression_count": 46764,
+          "like_count": 1076,
+          "quote_count": 95,
+          "reply_count": 18,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "リスカ跡ある男えろすぎる"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2094949123216601142",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 416,
+          "like_count": 19229,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1787
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-17T17:42:37.000Z",
+        "description": "",
+        "id": "2045196205412462593",
+        "is_identity_verified": false,
+        "location": "兵庫",
+        "most_recent_tweet_id": "2094945777626022253",
+        "name": "ゆきな",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2045196205412462593/1786990243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089141792876974080/gNB3UBUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 70,
+          "like_count": 196,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 770
+        },
+        "url": "",
+        "username": "1nlg4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

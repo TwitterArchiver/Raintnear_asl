@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2096593504151462299",
+    "created_at": "2026-09-06T13:36:58.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:36:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096593504151462299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "386133306",
+          "start": 3,
+          "username": "tiring_tho23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096593504151462299",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2713
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096219632566972462",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tiring_tho23: please don’t kill yourself; you need to suffer more."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2096593504151462299",
+        "created_at": "2026-09-06T13:36:58.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096593504151462299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "386133306",
+              "start": 3,
+              "username": "tiring_tho23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096593504151462299",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2713
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096219632566972462",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tiring_tho23: please don’t kill yourself; you need to suffer more."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "386133306",
+        "conversation_id": "2096219632566972462",
+        "created_at": "2026-09-05T12:51:20.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096219632566972462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096219632566972462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1020,
+          "impression_count": 431296,
+          "like_count": 16149,
+          "quote_count": 441,
+          "reply_count": 196,
+          "retweet_count": 2713
+        },
+        "reply_settings": "everyone",
+        "text": "please don’t kill yourself; you need to suffer more."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2096593504151462299",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 420,
+          "like_count": 19499,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1827
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-06T18:31:28.000Z",
+        "description": "dear comrades, I write for the broken. nerdy, non binary, nsfw at times. communist. fighting chronic clinical depression.\n\ninsta: bringthislife24",
+        "id": "386133306",
+        "is_identity_verified": false,
+        "location": "Shillong",
+        "most_recent_tweet_id": "2096556443306733810",
+        "name": "blank plank ☭",
+        "pinned_tweet_id": "2096219632566972462",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/386133306/1784919903",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019147644162146304/BCMSfnbz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13661,
+          "following_count": 11378,
+          "like_count": 128531,
+          "listed_count": 53,
+          "media_count": 586,
+          "tweet_count": 122960
+        },
+        "url": "",
+        "username": "tiring_tho23",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
