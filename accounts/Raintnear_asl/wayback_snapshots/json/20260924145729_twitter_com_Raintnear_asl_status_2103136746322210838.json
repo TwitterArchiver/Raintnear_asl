@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2103136746322210838",
+    "created_at": "2026-09-24T14:57:29.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T15:57:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103136746322210838"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/juminhaw777/st…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/juminhaw777/status/2103123099978019301",
+          "start": 16,
+          "url": "https://t.co/0PjVaEXNJF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103136746322210838",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103123099978019301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有呀 大家都超喜欢你的！ㅠㅠ https://t.co/0PjVaEXNJF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2103136746322210838",
+        "created_at": "2026-09-24T14:57:29.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:57:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103136746322210838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/juminhaw777/st…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/juminhaw777/status/2103123099978019301",
+              "start": 16,
+              "url": "https://t.co/0PjVaEXNJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103136746322210838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103123099978019301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有呀 大家都超喜欢你的！ㅠㅠ https://t.co/0PjVaEXNJF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937720116860583939",
+        "conversation_id": "2103123099978019301",
+        "created_at": "2026-09-24T14:03:15.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:59:05.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103122051158720926",
+          "2103123099978019301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103123099978019301",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 19674,
+          "like_count": 351,
+          "quote_count": 30,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "아 뭐야 중국언니들이 나 좋아하는줄 알았는데 샤홍슈 염탐하니까 욕 개많음,,, 흥😭🥹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103136746322210838",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 460,
+          "like_count": 20980,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1992
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-25T03:51:01.000Z",
+        "description": "주민..입니다. (cmx) oc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/59875733",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/59875733",
+                "start": 0,
+                "url": "https://t.co/Zhps44CI9N"
+              }
+            ]
+          }
+        },
+        "id": "1937720116860583939",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103123099978019301",
+        "name": "住 人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937720116860583939/1790087633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096955431260504064/eYv-uXJb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72718,
+          "following_count": 101,
+          "like_count": 5956,
+          "listed_count": 113,
+          "media_count": 38,
+          "tweet_count": 258
+        },
+        "url": "https://t.co/Zhps44CI9N",
+        "username": "juminhaw777",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

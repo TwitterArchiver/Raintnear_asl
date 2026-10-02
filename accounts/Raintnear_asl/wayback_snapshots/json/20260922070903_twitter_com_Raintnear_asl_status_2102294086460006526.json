@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2102294086460006526",
+    "created_at": "2026-09-22T07:09:03.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T08:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102294086460006526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1684923644445896705",
+          "start": 3,
+          "username": "san326_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102294086460006526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 130
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102031144879575241",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @san326_c: 不吃任何药物，不喝酒，不抽烟，不自残，享受最原汁原味的痛苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2102294086460006526",
+        "created_at": "2026-09-22T07:09:03.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102294086460006526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1684923644445896705",
+              "start": 3,
+              "username": "san326_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102294086460006526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 130
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102031144879575241",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @san326_c: 不吃任何药物，不喝酒，不抽烟，不自残，享受最原汁原味的痛苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684923644445896705",
+        "conversation_id": "2102031144879575241",
+        "created_at": "2026-09-21T13:44:13.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:44:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102031144879575241"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102031144879575241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 27004,
+          "like_count": 919,
+          "quote_count": 19,
+          "reply_count": 64,
+          "retweet_count": 130
+        },
+        "reply_settings": "everyone",
+        "text": "不吃任何药物，不喝酒，不抽烟，不自残，享受最原汁原味的痛苦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102294086460006526",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 604,
+          "following_count": 461,
+          "like_count": 20670,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1976
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T13:48:15.000Z",
+        "description": "明天世界末日 晚安",
+        "id": "1684923644445896705",
+        "is_identity_verified": false,
+        "location": "火星",
+        "most_recent_tweet_id": "2102057207747789263",
+        "name": "名子",
+        "pinned_tweet_id": "1815071756425859233",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684923644445896705/1780121067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889009419394088960/yDoXzfaM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 131,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 38,
+          "tweet_count": 1630
+        },
+        "url": "",
+        "username": "san326_c",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

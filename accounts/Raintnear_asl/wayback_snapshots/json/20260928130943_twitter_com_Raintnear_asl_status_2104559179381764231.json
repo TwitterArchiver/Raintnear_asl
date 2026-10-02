@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104531611891241172",
+    "created_at": "2026-09-28T13:09:43.000Z",
+    "display_text_range": [
+      16,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T14:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104559179381764231"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1898242283780423681",
+          "start": 0,
+          "username": "kakakawaii8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104559179381764231",
+    "in_reply_to_user_id": "1898242283780423681",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104555871015707061",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakakawaii8964 没关系的宝宝 三明治热量不高 明天控制一下就好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104531611891241172",
+        "created_at": "2026-09-28T13:09:43.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104559179381764231"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1898242283780423681",
+              "start": 0,
+              "username": "kakakawaii8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104559179381764231",
+        "in_reply_to_user_id": "1898242283780423681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104555871015707061",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakakawaii8964 没关系的宝宝 三明治热量不高 明天控制一下就好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898242283780423681",
+        "conversation_id": "2104531611891241172",
+        "created_at": "2026-09-28T12:56:35.000Z",
+        "display_text_range": [
+          15,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104555871015707061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104555871015707061",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104531611891241172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 我今天多吃了一个三明治太崩溃了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104559179381764231",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 468,
+          "like_count": 21410,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2059
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-08T05:20:12.000Z",
+        "description": "喜欢我就给我点钱",
+        "id": "1898242283780423681",
+        "is_identity_verified": false,
+        "location": "🚪88/288",
+        "most_recent_tweet_id": "2104555871015707061",
+        "name": "苦桃",
+        "pinned_tweet_id": "2102981149056520432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898242283780423681/1790519479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103055309690609664/71Z7Im3q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 49,
+          "like_count": 98,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 33
+        },
+        "url": "",
+        "username": "kakakawaii8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

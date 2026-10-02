@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2100399510987944437",
+    "created_at": "2026-09-17T01:40:41.000Z",
+    "display_text_range": [
+      0,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T02:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100399510987944437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042191459655593984",
+          "start": 3,
+          "username": "OcTic2e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100399510987944437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 107
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100031056628027838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OcTic2e: 人的本能除了呼唤“妈妈”，应该还有一个“我不知道”。辽阔寂寥的荒原，分不清远和近，天和地的灰色混沌。你为什么如此痛苦？我不知道。你在想什么？我不知道。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2100399510987944437",
+        "created_at": "2026-09-17T01:40:41.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T02:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100399510987944437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042191459655593984",
+              "start": 3,
+              "username": "OcTic2e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100399510987944437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 107
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100031056628027838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OcTic2e: 人的本能除了呼唤“妈妈”，应该还有一个“我不知道”。辽阔寂寥的荒原，分不清远和近，天和地的灰色混沌。你为什么如此痛苦？我不知道。你在想什么？我不知道。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042191459655593984",
+        "conversation_id": "2100031056628027838",
+        "created_at": "2026-09-16T01:16:35.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100031056628027838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100031056628027838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 54,
+          "impression_count": 19253,
+          "like_count": 924,
+          "quote_count": 16,
+          "reply_count": 95,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "人的本能除了呼唤“妈妈”，应该还有一个“我不知道”。辽阔寂寥的荒原，分不清远和近，天和地的灰色混沌。你为什么如此痛苦？我不知道。你在想什么？我不知道。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100399510987944437",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 426,
+          "like_count": 20131,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1896
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-09T10:44:48.000Z",
+        "description": "此账号发表的所有言论意在取悦自己，如果拜读之后出现生理不适等症状，恭喜你，你怀了我的孩子",
+        "id": "2042191459655593984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100257952510972325",
+        "name": "白咪饭",
+        "pinned_tweet_id": "2058744619865874868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042191459655593984/1780386872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091216195450269696/JkDAQnKn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 19,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "OcTic2e",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

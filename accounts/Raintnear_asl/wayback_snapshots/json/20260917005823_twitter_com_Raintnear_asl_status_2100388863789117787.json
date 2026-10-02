@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2100388863789117787",
+    "created_at": "2026-09-17T00:58:23.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:58:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100388863789117787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1965183834254725120",
+          "start": 3,
+          "username": "tldr534"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100388863789117787",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3316
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100059977318646189",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tldr534: why are u so far away i want to be with u"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2100388863789117787",
+        "created_at": "2026-09-17T00:58:23.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100388863789117787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1965183834254725120",
+              "start": 3,
+              "username": "tldr534"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100388863789117787",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3316
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100059977318646189",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tldr534: why are u so far away i want to be with u"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1965183834254725120",
+        "conversation_id": "2100059977318646189",
+        "created_at": "2026-09-16T03:11:30.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100059977318646189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100059977318646189",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1233,
+          "impression_count": 243312,
+          "like_count": 15120,
+          "quote_count": 182,
+          "reply_count": 28,
+          "retweet_count": 3316
+        },
+        "reply_settings": "everyone",
+        "text": "why are u so far away i want to be with u"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100388863789117787",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 426,
+          "like_count": 20112,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-08T22:41:57.000Z",
+        "description": "im so innocent but ive got some evil friends",
+        "id": "1965183834254725120",
+        "is_identity_verified": false,
+        "location": "18",
+        "most_recent_tweet_id": "2100387396508393953",
+        "name": "n",
+        "pinned_tweet_id": "2085636097120313783",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965183834254725120/1785708278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097123365517430784/kOjWP8Vb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72,
+          "following_count": 10,
+          "like_count": 2023,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "tldr534",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

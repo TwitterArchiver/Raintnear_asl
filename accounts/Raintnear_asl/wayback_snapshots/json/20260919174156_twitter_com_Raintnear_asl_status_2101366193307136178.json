@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2101366193307136178",
+    "created_at": "2026-09-19T17:41:56.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T18:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101366193307136178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1476873974160441346",
+          "start": 3,
+          "username": "10ika_usan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101366193307136178",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4900
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101044008483266787",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @10ika_usan: 私から連絡しないと誰からも連絡ない人生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2101366193307136178",
+        "created_at": "2026-09-19T17:41:56.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T18:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101366193307136178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1476873974160441346",
+              "start": 3,
+              "username": "10ika_usan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101366193307136178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4900
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101044008483266787",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @10ika_usan: 私から連絡しないと誰からも連絡ない人生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1476873974160441346",
+        "conversation_id": "2101044008483266787",
+        "created_at": "2026-09-18T20:21:41.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T21:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101044008483266787"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101044008483266787",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2418,
+          "impression_count": 2471245,
+          "like_count": 61740,
+          "quote_count": 1622,
+          "reply_count": 165,
+          "retweet_count": 4900
+        },
+        "reply_settings": "everyone",
+        "text": "私から連絡しないと誰からも連絡ない人生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101366193307136178",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 446,
+          "like_count": 20422,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1932
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-31T11:13:49.000Z",
+        "description": "ASD/摂食/双極性障害　通院中\nひきこもり(20代の半分)→フリーター→派遣→正社員→休職→復職→異動",
+        "id": "1476873974160441346",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101328569670701311",
+        "name": "すな",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 95,
+          "like_count": 8764,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4534
+        },
+        "url": "",
+        "username": "10ika_usan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

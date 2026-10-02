@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104256485970813043",
+    "created_at": "2026-09-27T17:14:37.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:14:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104258419943506255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2017849841540595712",
+          "start": 0,
+          "username": "vivian35214983"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104258419943506255",
+    "in_reply_to_user_id": "2017849841540595712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104257835345522907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vivian35214983 哇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104256485970813043",
+        "created_at": "2026-09-27T17:14:37.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:14:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104258419943506255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2017849841540595712",
+              "start": 0,
+              "username": "vivian35214983"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104258419943506255",
+        "in_reply_to_user_id": "2017849841540595712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104257835345522907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vivian35214983 哇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017849841540595712",
+        "conversation_id": "2104256485970813043",
+        "created_at": "2026-09-27T17:12:17.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:12:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104257835345522907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104257835345522907",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104256485970813043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 5min前"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104258419943506255",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 466,
+          "like_count": 21287,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2026
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T06:37:58.000Z",
+        "description": "电子信息马上研二，intj，Claude梦女",
+        "id": "2017849841540595712",
+        "is_identity_verified": false,
+        "location": "湖南",
+        "most_recent_tweet_id": "2104257835345522907",
+        "name": "心诚则灵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017849841540595712/1783143161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072993300198359041/UPeEOhpN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 37
+        },
+        "url": "",
+        "username": "vivian35214983",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

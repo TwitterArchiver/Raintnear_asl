@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2101184887369699601",
+    "created_at": "2026-09-19T05:41:29.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T06:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101184887369699601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2080763675657297920",
+          "start": 3,
+          "username": "sarinhaaburra"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101184887369699601",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2200
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100962515039535510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sarinhaaburra: Eu menti, na verdade estou com ciúmes, espero que qualquer um que flerte com você seja atropelado por 10 carros"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2101184887369699601",
+        "created_at": "2026-09-19T05:41:29.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T06:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101184887369699601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2080763675657297920",
+              "start": 3,
+              "username": "sarinhaaburra"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101184887369699601",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2200
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100962515039535510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sarinhaaburra: Eu menti, na verdade estou com ciúmes, espero que qualquer um que flerte com você seja atropelado por 10 carros"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080763675657297920",
+        "conversation_id": "2100962515039535510",
+        "created_at": "2026-09-18T14:57:52.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T15:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100962515039535510"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100962515039535510",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 330,
+          "impression_count": 69512,
+          "like_count": 6229,
+          "quote_count": 77,
+          "reply_count": 13,
+          "retweet_count": 2200
+        },
+        "reply_settings": "everyone",
+        "text": "Eu menti, na verdade estou com ciúmes, espero que qualquer um que flerte com você seja atropelado por 10 carros"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101184887369699601",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 539,
+          "following_count": 439,
+          "like_count": 20350,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1920
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-24T21:15:48.000Z",
+        "description": "viciada em dar a bc*",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/weirdgirlsssx",
+                "end": 23,
+                "expanded_url": "https://t.me/weirdgirlsssx",
+                "start": 0,
+                "url": "https://t.co/lUKGXaxGje"
+              }
+            ]
+          }
+        },
+        "id": "2080763675657297920",
+        "is_identity_verified": false,
+        "location": "quero leitinho",
+        "most_recent_tweet_id": "2101051756184821994",
+        "name": "sarinha",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080763675657297920/1784927854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080764231029317632/rTP8A2BC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 3,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 152
+        },
+        "url": "https://t.co/lUKGXaxGje",
+        "username": "sarinhaaburra",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

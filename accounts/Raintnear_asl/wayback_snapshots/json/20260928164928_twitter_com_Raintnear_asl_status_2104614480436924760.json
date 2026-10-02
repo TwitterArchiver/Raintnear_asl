@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104592942337790299",
+    "created_at": "2026-09-28T16:49:28.000Z",
+    "display_text_range": [
+      8,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104614480436924760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074465221796859904",
+          "start": 0,
+          "username": "m6fx1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104614480436924760",
+    "in_reply_to_user_id": "2074465221796859904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104612301064257637",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m6fx1f 好的呀谢谢你宝宝 我会的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104592942337790299",
+        "created_at": "2026-09-28T16:49:28.000Z",
+        "display_text_range": [
+          8,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104614480436924760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074465221796859904",
+              "start": 0,
+              "username": "m6fx1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104614480436924760",
+        "in_reply_to_user_id": "2074465221796859904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104612301064257637",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m6fx1f 好的呀谢谢你宝宝 我会的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074465221796859904",
+        "conversation_id": "2104592942337790299",
+        "created_at": "2026-09-28T16:40:49.000Z",
+        "display_text_range": [
+          15,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104612301064257637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104612301064257637",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104592942337790299",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 很瘦了呀宝宝 不过还是要好好生活好好吃饭呀！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104614480436924760",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 471,
+          "like_count": 21423,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2069
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T12:08:02.000Z",
+        "description": "",
+        "id": "2074465221796859904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104613103665381422",
+        "name": "77u",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074465221796859904/1783542238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104589690242572289/Rrdg08pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "m6fx1f",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

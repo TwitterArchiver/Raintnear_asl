@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104235952780546048"
+      ],
+      "media_source_tweet_id": [
+        "2104235961160700199"
+      ]
+    },
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104479658603393076",
+    "created_at": "2026-09-28T07:53:44.000Z",
+    "display_text_range": [
+      0,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T08:53:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104479658603393076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1901093983159513088",
+          "start": 3,
+          "username": "_Bugirl_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eGPViwJb1c",
+          "end": 37,
+          "expanded_url": "https://x.com/_Bugirl_/status/2104235961160700199/photo/1",
+          "media_key": "3_2104235952780546048",
+          "start": 14,
+          "url": "https://t.co/eGPViwJb1c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104479658603393076",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2104235952780546048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 265
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104235961160700199",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Bugirl_: https://t.co/eGPViwJb1c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2104235952780546048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO_c0kXEAARyc6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104235952780546048"
+          ],
+          "media_source_tweet_id": [
+            "2104235961160700199"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104479658603393076",
+        "created_at": "2026-09-28T07:53:44.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T08:53:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104479658603393076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1901093983159513088",
+              "start": 3,
+              "username": "_Bugirl_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGPViwJb1c",
+              "end": 37,
+              "expanded_url": "https://x.com/_Bugirl_/status/2104235961160700199/photo/1",
+              "media_key": "3_2104235952780546048",
+              "start": 14,
+              "url": "https://t.co/eGPViwJb1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104479658603393076",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104235952780546048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 265
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104235961160700199",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Bugirl_: https://t.co/eGPViwJb1c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104235952780546048"
+          ]
+        },
+        "author_id": "1901093983159513088",
+        "conversation_id": "2104235961160700199",
+        "created_at": "2026-09-27T15:45:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:45:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104235961160700199"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eGPViwJb1c",
+              "end": 23,
+              "expanded_url": "https://x.com/_Bugirl_/status/2104235961160700199/photo/1",
+              "media_key": "3_2104235952780546048",
+              "start": 0,
+              "url": "https://t.co/eGPViwJb1c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104235961160700199",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2104235952780546048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 330,
+          "impression_count": 21940,
+          "like_count": 3280,
+          "quote_count": 9,
+          "reply_count": 17,
+          "retweet_count": 265
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/eGPViwJb1c"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104479658603393076",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 468,
+          "like_count": 21383,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2042
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-16T02:12:03.000Z",
+        "description": "dm 4 credit or removal ᓚᘏᗢ",
+        "id": "1901093983159513088",
+        "is_identity_verified": false,
+        "location": "ladybug land",
+        "most_recent_tweet_id": "2104392234472763458",
+        "name": "⭒⛥whimsical thinspo⛥⭒",
+        "pinned_tweet_id": "2079269179434369363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901093983159513088/1782682466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071345385814003713/IYHcHUw7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5603,
+          "following_count": 0,
+          "like_count": 457,
+          "listed_count": 7,
+          "media_count": 390,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "_Bugirl_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

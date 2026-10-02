@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2100386324112916834",
+    "created_at": "2026-09-17T00:48:17.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:48:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100386324112916834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1818418625558331392",
+          "start": 3,
+          "username": "61sAumi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100386324112916834",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100236882038911460",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @61sAumi: 哦你说你喜欢我是吧，接下来，我会展现我的情感漠视，超雄，狂躁症，公主病，敏感脆弱，一生气就想虐待人的性格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2100386324112916834",
+        "created_at": "2026-09-17T00:48:17.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100386324112916834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1818418625558331392",
+              "start": 3,
+              "username": "61sAumi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100386324112916834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100236882038911460",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @61sAumi: 哦你说你喜欢我是吧，接下来，我会展现我的情感漠视，超雄，狂躁症，公主病，敏感脆弱，一生气就想虐待人的性格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818418625558331392",
+        "conversation_id": "2100236882038911460",
+        "created_at": "2026-09-16T14:54:27.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:54:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100236882038911460"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100236882038911460",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 6934,
+          "like_count": 291,
+          "quote_count": 6,
+          "reply_count": 98,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "哦你说你喜欢我是吧，接下来，我会展现我的情感漠视，超雄，狂躁症，公主病，敏感脆弱，一生气就想虐待人的性格"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100386324112916834",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 426,
+          "like_count": 20092,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1892
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T22:49:30.000Z",
+        "description": "你改了状态好像在说爱",
+        "id": "1818418625558331392",
+        "is_identity_verified": false,
+        "location": "高p线下查无此人 不约 看眼缘互关 墙内外社媒不互通不加v",
+        "most_recent_tweet_id": "2100368936487510262",
+        "name": "苦薄荷",
+        "pinned_tweet_id": "2091837292185055533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818418625558331392/1780364815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066422882155040768/zWTErsXe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 43,
+          "like_count": 5160,
+          "listed_count": 3,
+          "media_count": 197,
+          "tweet_count": 2105
+        },
+        "url": "",
+        "username": "61sAumi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

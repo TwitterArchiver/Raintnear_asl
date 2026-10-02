@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2103112139213017307",
+    "created_at": "2026-09-24T13:19:42.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T14:19:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103112139213017307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1238748435534110720",
+          "start": 3,
+          "username": "imlauv_45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103112139213017307",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11114
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102773450884723032",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @imlauv_45: what the fuck is an open relationship. die for me or go fuck yourself"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2103112139213017307",
+        "created_at": "2026-09-24T13:19:42.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:19:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103112139213017307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1238748435534110720",
+              "start": 3,
+              "username": "imlauv_45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103112139213017307",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102773450884723032",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @imlauv_45: what the fuck is an open relationship. die for me or go fuck yourself"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1238748435534110720",
+        "conversation_id": "2102773450884723032",
+        "created_at": "2026-09-23T14:53:52.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102773450884723032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102773450884723032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2952,
+          "impression_count": 1143675,
+          "like_count": 80523,
+          "quote_count": 307,
+          "reply_count": 161,
+          "retweet_count": 11114
+        },
+        "reply_settings": "everyone",
+        "text": "what the fuck is an open relationship. die for me or go fuck yourself"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2103112139213017307",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 599,
+          "following_count": 460,
+          "like_count": 20930,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1987
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-14T08:47:16.000Z",
+        "description": "Influenza!!",
+        "id": "1238748435534110720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103096922307531164",
+        "name": "typing...",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1238748435534110720/1771821662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088121445214048256/xYQj9cUZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27211,
+          "following_count": 10683,
+          "like_count": 59174,
+          "listed_count": 41,
+          "media_count": 519,
+          "tweet_count": 10063
+        },
+        "url": "",
+        "username": "imlauv_45",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

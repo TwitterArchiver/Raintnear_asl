@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104218642787258369",
+    "created_at": "2026-09-28T05:06:15.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:06:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104437508398596542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "348851108",
+          "start": 0,
+          "username": "Dogbeastmonsta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104437508398596542",
+    "in_reply_to_user_id": "348851108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104343137112240549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dogbeastmonsta 想拳打脚踢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104218642787258369",
+        "created_at": "2026-09-28T05:06:15.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:06:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104437508398596542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "348851108",
+              "start": 0,
+              "username": "Dogbeastmonsta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104437508398596542",
+        "in_reply_to_user_id": "348851108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104343137112240549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dogbeastmonsta 想拳打脚踢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "348851108",
+        "conversation_id": "2104218642787258369",
+        "created_at": "2026-09-27T22:51:15.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T23:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104343137112240549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104343137112240549",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104218642787258369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 特别想打但不会真的很用力那种对吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104437508398596542",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 468,
+          "like_count": 21341,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2040
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-05T03:15:43.000Z",
+        "description": "",
+        "id": "348851108",
+        "is_identity_verified": false,
+        "location": "THE BIG EASY",
+        "most_recent_tweet_id": "2104343137112240549",
+        "name": "南无阿弥陀佛",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/348851108/1613435659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104332775465910273/yLUdnmAi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 1,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "Dogbeastmonsta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

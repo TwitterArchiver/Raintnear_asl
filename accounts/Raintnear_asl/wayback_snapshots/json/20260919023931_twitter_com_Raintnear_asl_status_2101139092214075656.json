@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2101018739349307658",
+    "created_at": "2026-09-19T02:39:31.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T03:39:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101139092214075656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1425226011117973506",
+          "start": 0,
+          "username": "sama48325261"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101139092214075656",
+    "in_reply_to_user_id": "1425226011117973506",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101123634672926880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama48325261 没良子胖"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2101018739349307658",
+        "created_at": "2026-09-19T02:39:31.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T03:39:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101139092214075656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1425226011117973506",
+              "start": 0,
+              "username": "sama48325261"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101139092214075656",
+        "in_reply_to_user_id": "1425226011117973506",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101123634672926880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama48325261 没良子胖"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425226011117973506",
+        "conversation_id": "2101018739349307658",
+        "created_at": "2026-09-19T01:38:06.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T02:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101123634672926880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101123634672926880",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 753,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101018739349307658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 谁家良子"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101139092214075656",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 435,
+          "like_count": 20311,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1911
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-10T22:42:26.000Z",
+        "description": "芜湖～",
+        "id": "1425226011117973506",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2101138615036424403",
+        "name": "花道领域大神",
+        "pinned_tweet_id": "2100905124000612588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1425226011117973506/1789729744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100931203595751424/5TzyAfCd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 54,
+          "like_count": 215,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 955
+        },
+        "url": "",
+        "username": "sama48325261",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

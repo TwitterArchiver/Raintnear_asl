@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104914197113119142",
+    "created_at": "2026-09-30T04:30:08.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T05:30:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105153196041568596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1860338539734429696",
+          "start": 0,
+          "username": "qnru166851"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105153196041568596",
+    "in_reply_to_user_id": "1860338539734429696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104980090480439368",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qnru166851 我都懒得骂你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104914197113119142",
+        "created_at": "2026-09-30T04:30:08.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:30:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105153196041568596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1860338539734429696",
+              "start": 0,
+              "username": "qnru166851"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105153196041568596",
+        "in_reply_to_user_id": "1860338539734429696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104980090480439368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qnru166851 我都懒得骂你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860338539734429696",
+        "conversation_id": "2104914197113119142",
+        "created_at": "2026-09-29T17:02:16.000Z",
+        "display_text_range": [
+          15,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104980090480439368"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104980090480439368",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104914197113119142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 我给你评论一句 你会不会幻想我俩的下半生"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105153196041568596",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 636,
+          "following_count": 471,
+          "like_count": 21532,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2079
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-23T15:04:20.000Z",
+        "description": "小生无敌啦",
+        "id": "1860338539734429696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104984693615874194",
+        "name": "陈寻",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1860338539734429696/1790249429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094980115713462272/51q8KKJ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 1,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "qnru166851",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

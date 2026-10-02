@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2102029828517949787",
+    "created_at": "2026-09-21T13:38:59.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:38:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102029828517949787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1650939012461240344",
+          "start": 3,
+          "username": "renataaescc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102029828517949787",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3926
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101763429530755326",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renataaescc: Me siento como Kanye cuando le dio psicosis y se alejó de todos"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2102029828517949787",
+        "created_at": "2026-09-21T13:38:59.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:38:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102029828517949787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1650939012461240344",
+              "start": 3,
+              "username": "renataaescc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102029828517949787",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3926
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101763429530755326",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renataaescc: Me siento como Kanye cuando le dio psicosis y se alejó de todos"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1650939012461240344",
+        "conversation_id": "2101763429530755326",
+        "created_at": "2026-09-20T20:00:25.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T21:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101763429530755326"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101763429530755326",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 581,
+          "impression_count": 132924,
+          "like_count": 11675,
+          "quote_count": 144,
+          "reply_count": 20,
+          "retweet_count": 3926
+        },
+        "reply_settings": "everyone",
+        "text": "Me siento como Kanye cuando le dio psicosis y se alejó de todos"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102029828517949787",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 455,
+          "like_count": 20506,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1960
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-25T19:05:49.000Z",
+        "description": "🧡",
+        "id": "1650939012461240344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101924016739000440",
+        "name": "R.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1650939012461240344/1789968424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101793273098461184/U_y_ejrG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 46,
+          "like_count": 7547,
+          "listed_count": 1,
+          "media_count": 4,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "renataaescc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

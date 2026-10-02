@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2098344260592337004",
+    "created_at": "2026-09-11T09:33:51.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:33:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098344260592337004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916402387847417856",
+          "start": 3,
+          "username": "bombsaseyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098344260592337004",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 756
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098045304444792973",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bombsaseyo: 역시 정신병이 약간은 있는사람들이 재밌고 매력잇는거같다"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2098344260592337004",
+        "created_at": "2026-09-11T09:33:51.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098344260592337004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916402387847417856",
+              "start": 3,
+              "username": "bombsaseyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098344260592337004",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 756
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098045304444792973",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bombsaseyo: 역시 정신병이 약간은 있는사람들이 재밌고 매력잇는거같다"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916402387847417856",
+        "conversation_id": "2098045304444792973",
+        "created_at": "2026-09-10T13:45:55.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098045304444792973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098045304444792973",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 189,
+          "impression_count": 83591,
+          "like_count": 2013,
+          "quote_count": 332,
+          "reply_count": 2,
+          "retweet_count": 756
+        },
+        "reply_settings": "everyone",
+        "text": "역시 정신병이 약간은 있는사람들이 재밌고 매력잇는거같다"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098344260592337004",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 428,
+          "like_count": 19888,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1869
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-27T08:01:58.000Z",
+        "description": "spiritual gangsta 🪷 🛀🏼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "postype.com/@bombsaseyo",
+                "end": 23,
+                "expanded_url": "https://www.postype.com/@bombsaseyo",
+                "start": 0,
+                "url": "https://t.co/glpWGgvCAC"
+              }
+            ]
+          }
+        },
+        "id": "1916402387847417856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098338672114614372",
+        "name": "폭탄팔이소녀",
+        "pinned_tweet_id": "2091875448489922593",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916402387847417856/1784747842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978355475138953216/C6w7vjhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 114,
+          "like_count": 19688,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2246
+        },
+        "url": "https://t.co/glpWGgvCAC",
+        "username": "bombsaseyo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

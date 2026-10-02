@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2098981893928612236",
+    "created_at": "2026-09-13T03:47:35.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T04:47:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098981893928612236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1971120987946016768",
+          "start": 3,
+          "username": "ninininini0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098981893928612236",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4118
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098741493158826381",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ninininini0421: 난 아직도 친구를 그대로 방치하면 애정도가 뚝뚝 떨어진다는 사실이 안믿김 우리 싸운 적도 없고 마지막 만남도 재밌게 놀았잖아 근데 왜 멀어지는건데"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2098981893928612236",
+        "created_at": "2026-09-13T03:47:35.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T04:47:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098981893928612236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1971120987946016768",
+              "start": 3,
+              "username": "ninininini0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098981893928612236",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4118
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098741493158826381",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ninininini0421: 난 아직도 친구를 그대로 방치하면 애정도가 뚝뚝 떨어진다는 사실이 안믿김 우리 싸운 적도 없고 마지막 만남도 재밌게 놀았잖아 근데 왜 멀어지는건데"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971120987946016768",
+        "conversation_id": "2098741493158826381",
+        "created_at": "2026-09-12T11:52:19.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:52:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098741493158826381"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098741493158826381",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1563,
+          "impression_count": 1251478,
+          "like_count": 14122,
+          "quote_count": 2547,
+          "reply_count": 9,
+          "retweet_count": 4117
+        },
+        "reply_settings": "everyone",
+        "text": "난 아직도 친구를 그대로 방치하면 애정도가 뚝뚝 떨어진다는 사실이 안믿김 우리 싸운 적도 없고 마지막 만남도 재밌게 놀았잖아 근데 왜 멀어지는건데"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098981893928612236",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 429,
+          "like_count": 19862,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1877
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-25T07:54:11.000Z",
+        "description": "감사합니다\n죽어야끝납니다",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/ninininini0421",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/ninininini0421",
+                "start": 0,
+                "url": "https://t.co/fzXfNNSfDH"
+              }
+            ]
+          }
+        },
+        "id": "1971120987946016768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098981469985325148",
+        "name": "니냐뇨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971120987946016768/1760414388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971161508257333249/HrNv8daE_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1640,
+          "following_count": 289,
+          "like_count": 30088,
+          "listed_count": 5,
+          "media_count": 872,
+          "tweet_count": 12670
+        },
+        "url": "https://t.co/fzXfNNSfDH",
+        "username": "ninininini0421",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

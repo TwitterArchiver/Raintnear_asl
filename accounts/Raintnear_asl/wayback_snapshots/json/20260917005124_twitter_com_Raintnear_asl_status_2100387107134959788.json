@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2100387107134959788",
+    "created_at": "2026-09-17T00:51:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:51:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100387107134959788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055004744146448384",
+          "start": 3,
+          "username": "23lollz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100387107134959788",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4532
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100033149115715813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @23lollz: all i ever do is wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and w…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2100387107134959788",
+        "created_at": "2026-09-17T00:51:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:51:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100387107134959788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055004744146448384",
+              "start": 3,
+              "username": "23lollz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100387107134959788",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4532
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100033149115715813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @23lollz: all i ever do is wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and w…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055004744146448384",
+        "conversation_id": "2100033149115715813",
+        "created_at": "2026-09-16T01:24:54.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100033149115715813"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100033149115715813",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 516,
+          "impression_count": 152075,
+          "like_count": 11632,
+          "quote_count": 153,
+          "reply_count": 23,
+          "retweet_count": 4532
+        },
+        "reply_settings": "everyone",
+        "text": "all i ever do is wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and wait and"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100387107134959788",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 426,
+          "like_count": 20105,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1894
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-14T19:20:03.000Z",
+        "description": "i can’t seem to shut up but this #MYPAGE",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "MYPAGE"
+              }
+            ]
+          }
+        },
+        "id": "2055004744146448384",
+        "is_identity_verified": false,
+        "location": "no",
+        "most_recent_tweet_id": "2100378854556676280",
+        "name": ":P",
+        "pinned_tweet_id": "2096031975647682921",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055004744146448384/1785007765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095595923615236101/YPukCahI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1354,
+          "following_count": 182,
+          "like_count": 16048,
+          "listed_count": 1,
+          "media_count": 726,
+          "tweet_count": 6877
+        },
+        "url": "",
+        "username": "23lollz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

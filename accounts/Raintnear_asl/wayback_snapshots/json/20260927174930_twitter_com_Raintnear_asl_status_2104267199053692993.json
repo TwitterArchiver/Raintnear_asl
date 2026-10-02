@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104267199053692993",
+    "created_at": "2026-09-27T17:49:30.000Z",
+    "display_text_range": [
+      0,
+      80
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:49:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104267199053692993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2051451517224329216",
+          "start": 3,
+          "username": "citousuario"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104267199053692993",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103922553924514225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @citousuario: nao amor nao quero saber do seu passado tenho ciúmes retroativo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104267199053692993",
+        "created_at": "2026-09-27T17:49:30.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104267199053692993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2051451517224329216",
+              "start": 3,
+              "username": "citousuario"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104267199053692993",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103922553924514225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @citousuario: nao amor nao quero saber do seu passado tenho ciúmes retroativo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2051451517224329216",
+        "conversation_id": "2103922553924514225",
+        "created_at": "2026-09-26T19:00:00.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103922553924514225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103922553924514225",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 372,
+          "impression_count": 98054,
+          "like_count": 7372,
+          "quote_count": 100,
+          "reply_count": 15,
+          "retweet_count": 2198
+        },
+        "reply_settings": "everyone",
+        "text": "nao amor nao quero saber do seu passado tenho ciúmes retroativo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104267199053692993",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 615,
+          "following_count": 466,
+          "like_count": 21303,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2027
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T23:59:13.000Z",
+        "description": "Saber que os temporais são temporários é o que me faz desistir de desistir 🫀",
+        "id": "2051451517224329216",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103952755509600721",
+        "name": "usuário",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5005,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 587
+        },
+        "url": "",
+        "username": "citousuario",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

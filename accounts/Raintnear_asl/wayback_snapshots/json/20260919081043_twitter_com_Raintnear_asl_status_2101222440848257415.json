@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2101018739349307658",
+    "created_at": "2026-09-19T08:10:43.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T09:10:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101222440848257415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2077200168747933696",
+          "start": 0,
+          "username": "Lingfangzn0d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101222440848257415",
+    "in_reply_to_user_id": "2077200168747933696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101215650538786898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lingfangzn0d 进食障碍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2101018739349307658",
+        "created_at": "2026-09-19T08:10:43.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T09:10:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101222440848257415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2077200168747933696",
+              "start": 0,
+              "username": "Lingfangzn0d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101222440848257415",
+        "in_reply_to_user_id": "2077200168747933696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101215650538786898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lingfangzn0d 进食障碍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2077200168747933696",
+        "conversation_id": "2101018739349307658",
+        "created_at": "2026-09-19T07:43:44.000Z",
+        "display_text_range": [
+          15,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101215650538786898"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101215650538786898",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 255,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101018739349307658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 这是什么圈子？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101222440848257415",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 440,
+          "like_count": 20377,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1921
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-15T01:15:54.000Z",
+        "description": "国际全范围福瑞联盟创始人",
+        "id": "2077200168747933696",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2101215650538786898",
+        "name": "Lingfang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2077200168747933696/1785811570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077200643107016704/PkVRe2wo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 34,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "Lingfangzn0d",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

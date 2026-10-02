@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2098242765012267438",
+    "created_at": "2026-09-11T02:50:33.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:50:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098242765012267438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1538673603222421505",
+          "start": 3,
+          "username": "mcczoso"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098242765012267438",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1202
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097869517753888771",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mcczoso: odeio quando essas meninas que claramente passam fome ou tem uma alimentação restrita querem fingir que comem muito na interne…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2098242765012267438",
+        "created_at": "2026-09-11T02:50:33.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:50:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098242765012267438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1538673603222421505",
+              "start": 3,
+              "username": "mcczoso"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098242765012267438",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097869517753888771",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mcczoso: odeio quando essas meninas que claramente passam fome ou tem uma alimentação restrita querem fingir que comem muito na interne…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538673603222421505",
+        "conversation_id": "2097869517753888771",
+        "created_at": "2026-09-10T02:07:24.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097869517753888771"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dollyana_5/sta…",
+              "end": 180,
+              "expanded_url": "https://twitter.com/dollyana_5/status/2097779262790971544",
+              "start": 157,
+              "url": "https://t.co/Oh8YPNpcvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097869517753888771",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 869,
+          "impression_count": 601467,
+          "like_count": 33501,
+          "quote_count": 149,
+          "reply_count": 168,
+          "retweet_count": 1202
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097779262790971544",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "odeio quando essas meninas que claramente passam fome ou tem uma alimentação restrita querem fingir que comem muito na internet se manquem cacem o que fazer https://t.co/Oh8YPNpcvQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2098242765012267438",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 428,
+          "like_count": 19805,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1858
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-20T00:02:35.000Z",
+        "description": "melancólica otimista. @elessar_gm 🖤",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 22,
+                "username": "elessar_gm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "last.fm/user/mcczoso",
+                "end": 23,
+                "expanded_url": "https://www.last.fm/user/mcczoso",
+                "start": 0,
+                "url": "https://t.co/3AabIFf3cW"
+              }
+            ]
+          }
+        },
+        "id": "1538673603222421505",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098230234252243036",
+        "name": "soso 🦇",
+        "pinned_tweet_id": "2089188066879492443",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1538673603222421505/1786500822",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087304910375161856/DuAlM72X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 454,
+          "like_count": 179753,
+          "listed_count": 2,
+          "media_count": 1770,
+          "tweet_count": 22960
+        },
+        "url": "https://t.co/3AabIFf3cW",
+        "username": "mcczoso",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

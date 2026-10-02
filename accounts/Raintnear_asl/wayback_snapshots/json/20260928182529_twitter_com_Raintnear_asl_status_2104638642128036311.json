@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2104613103665381422",
+    "created_at": "2026-09-28T18:25:29.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T19:25:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104638642128036311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2074465221796859904",
+          "start": 0,
+          "username": "m6fx1f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104638642128036311",
+    "in_reply_to_user_id": "2074465221796859904",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104613103665381422",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m6fx1f 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2104613103665381422",
+        "created_at": "2026-09-28T18:25:29.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T19:25:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104638642128036311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2074465221796859904",
+              "start": 0,
+              "username": "m6fx1f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104638642128036311",
+        "in_reply_to_user_id": "2074465221796859904",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104613103665381422",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m6fx1f 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074465221796859904",
+        "conversation_id": "2104613103665381422",
+        "created_at": "2026-09-28T16:44:00.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104613103665381422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104613103665381422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "晚安吧 心怀爱意的面对明天"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104638642128036311",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 471,
+          "like_count": 21439,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2072
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-07T12:08:02.000Z",
+        "description": "",
+        "id": "2074465221796859904",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104613103665381422",
+        "name": "77u",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074465221796859904/1783542238",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104589690242572289/Rrdg08pq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 3,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "m6fx1f",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

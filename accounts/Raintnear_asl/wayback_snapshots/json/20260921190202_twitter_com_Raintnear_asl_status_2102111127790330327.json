@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2088804234984869888",
+    "conversation_id": "2101978627290100210",
+    "created_at": "2026-09-21T19:02:02.000Z",
+    "display_text_range": [
+      15,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T20:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102111127790330327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1741871837464694784",
+          "start": 0,
+          "username": "Raintnear_asl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102111127790330327",
+    "in_reply_to_user_id": "1741871837464694784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101978627290100210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raintnear_asl 应该没人比我玩的开了吧🎵😝我福不黑不信你看"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [2088804234984869888].",
+      "parameter": "author_id",
+      "resource_id": "2088804234984869888",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "2088804234984869888"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2101978615793557504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSu6ag_XoAAr2bb.jpg",
+        "width": 828
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2101978615789260800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSu6ag-WEAAEEV8.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2088804234984869888",
+        "conversation_id": "2101978627290100210",
+        "created_at": "2026-09-21T19:02:02.000Z",
+        "display_text_range": [
+          15,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T20:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102111127790330327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1741871837464694784",
+              "start": 0,
+              "username": "Raintnear_asl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102111127790330327",
+        "in_reply_to_user_id": "1741871837464694784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101978627290100210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raintnear_asl 应该没人比我玩的开了吧🎵😝我福不黑不信你看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101978615793557504",
+            "3_2101978615789260800"
+          ]
+        },
+        "author_id": "1741871837464694784",
+        "conversation_id": "2101978627290100210",
+        "created_at": "2026-09-21T10:15:32.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101978627290100210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxxedbkoYP",
+              "end": 42,
+              "expanded_url": "https://x.com/Raintnear_asl/status/2101978627290100210/photo/1",
+              "media_key": "3_2101978615793557504",
+              "start": 19,
+              "url": "https://t.co/BxxedbkoYP"
+            },
+            {
+              "display_url": "pic.x.com/BxxedbkoYP",
+              "end": 42,
+              "expanded_url": "https://x.com/Raintnear_asl/status/2101978627290100210/photo/1",
+              "media_key": "3_2101978615789260800",
+              "start": 19,
+              "url": "https://t.co/BxxedbkoYP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101978627290100210",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101978615793557504"
+          },
+          {
+            "media_key": "3_2101978615789260800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 106634,
+          "like_count": 521,
+          "quote_count": 0,
+          "reply_count": 128,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把别人的痛苦当娱乐文案盗走很好玩吗？ https://t.co/BxxedbkoYP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2102085000308928636",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 597,
+          "following_count": 457,
+          "like_count": 20601,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 1970
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

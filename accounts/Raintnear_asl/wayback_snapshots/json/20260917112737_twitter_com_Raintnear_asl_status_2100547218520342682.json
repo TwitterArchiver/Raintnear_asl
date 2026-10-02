@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2100547218520342682",
+    "created_at": "2026-09-17T11:27:37.000Z",
+    "display_text_range": [
+      0,
+      123
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T12:27:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100547218520342682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2094932979034312704",
+          "start": 3,
+          "username": "Sewer___slvted"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100547218520342682",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2911
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100335099300532583",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sewer___slvted: “You have Twitter? Haha for porn right” no I watch people cut their arms off and cry about there weight"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2100547218520342682",
+        "created_at": "2026-09-17T11:27:37.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T12:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100547218520342682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2094932979034312704",
+              "start": 3,
+              "username": "Sewer___slvted"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100547218520342682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2911
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100335099300532583",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sewer___slvted: “You have Twitter? Haha for porn right” no I watch people cut their arms off and cry about there weight"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094932979034312704",
+        "conversation_id": "2100335099300532583",
+        "created_at": "2026-09-16T21:24:44.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T22:24:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100335099300532583"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100335099300532583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 272,
+          "impression_count": 50244,
+          "like_count": 10518,
+          "quote_count": 45,
+          "reply_count": 30,
+          "retweet_count": 2911
+        },
+        "reply_settings": "everyone",
+        "text": "“You have Twitter? Haha for porn right” no I watch people cut their arms off and cry about there weight"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100547218520342682",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 433,
+          "like_count": 20262,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1904
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-01T23:40:10.000Z",
+        "description": "#shedrtwt, #itafushi, #shrtwt,#edrtwt\n─── ♡ ── ✦ ── ♡ ───\nI love my oomfies, and shedtwt 💗🥺\nBMI 22, kill me 😢, 16yr 😘☭",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "shedrtwt"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "tag": "itafushi"
+              },
+              {
+                "end": 29,
+                "start": 22,
+                "tag": "shrtwt"
+              },
+              {
+                "end": 37,
+                "start": 30,
+                "tag": "edrtwt"
+              }
+            ]
+          }
+        },
+        "id": "2094932979034312704",
+        "is_identity_verified": false,
+        "location": "North korea bb x",
+        "most_recent_tweet_id": "2100530592328696188",
+        "name": "=^._.^=",
+        "pinned_tweet_id": "2094937832422883654",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094932979034312704/1788890664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097385473954250752/B5gXDEif_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 275,
+          "like_count": 2781,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 990
+        },
+        "url": "",
+        "username": "Sewer___slvted",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

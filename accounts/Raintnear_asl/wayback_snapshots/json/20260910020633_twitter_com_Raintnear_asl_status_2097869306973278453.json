@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2097869306973278453",
+    "created_at": "2026-09-10T02:06:33.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T03:06:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097869306973278453"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2053766484950679552",
+          "start": 3,
+          "username": "oikawatooruirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097869306973278453",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2554
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097411839617286262",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @oikawatooruirl: I'm literally losing everything but weight"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2097869306973278453",
+        "created_at": "2026-09-10T02:06:33.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T03:06:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097869306973278453"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2053766484950679552",
+              "start": 3,
+              "username": "oikawatooruirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097869306973278453",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2554
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097411839617286262",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @oikawatooruirl: I'm literally losing everything but weight"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053766484950679552",
+        "conversation_id": "2097411839617286262",
+        "created_at": "2026-09-08T19:48:45.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T20:48:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097411839617286262"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097411839617286262",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 109963,
+          "like_count": 10183,
+          "quote_count": 54,
+          "reply_count": 22,
+          "retweet_count": 2554
+        },
+        "reply_settings": "everyone",
+        "text": "I'm literally losing everything but weight"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097869306973278453",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 427,
+          "like_count": 19684,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1844
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T09:17:53.000Z",
+        "description": "ִֶָ. ..𓂃 ࣪ ִֶָ🪽་༘࿐\nPls don't be scared to dm me i'm bored af\n5teen!\nNot new to twt I got banned\nDiscord: rennie886969 🥹\nSecond acc: @RenREDACTED14",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 132,
+                "username": "RenREDACTED14"
+              }
+            ]
+          }
+        },
+        "id": "2053766484950679552",
+        "is_identity_verified": false,
+        "location": "Edrtwt ",
+        "most_recent_tweet_id": "2097794686609994172",
+        "name": "Rennie!!",
+        "pinned_tweet_id": "2091604317023174891",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053766484950679552/1786650958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053766582828933120/rMHzAZTT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 473,
+          "like_count": 5435,
+          "listed_count": 4,
+          "media_count": 24,
+          "tweet_count": 2135
+        },
+        "url": "",
+        "username": "oikawatooruirl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

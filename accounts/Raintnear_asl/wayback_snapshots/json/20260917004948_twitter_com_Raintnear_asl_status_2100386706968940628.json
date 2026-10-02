@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2100386706968940628",
+    "created_at": "2026-09-17T00:49:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100386706968940628"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1756007075946110976",
+          "start": 3,
+          "username": "crqckbabyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100386706968940628",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7654
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099999158874615844",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @crqckbabyy: if i tell you i've been miserable since i was like 8 and you tell me it's part of god's plan i'll probably have to strangle…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2100386706968940628",
+        "created_at": "2026-09-17T00:49:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100386706968940628"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1756007075946110976",
+              "start": 3,
+              "username": "crqckbabyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100386706968940628",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7654
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099999158874615844",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @crqckbabyy: if i tell you i've been miserable since i was like 8 and you tell me it's part of god's plan i'll probably have to strangle…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756007075946110976",
+        "conversation_id": "2099999158874615844",
+        "created_at": "2026-09-15T23:09:50.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T00:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099999158874615844"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099999158874615844",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 977,
+          "impression_count": 185062,
+          "like_count": 33248,
+          "quote_count": 158,
+          "reply_count": 62,
+          "retweet_count": 7654
+        },
+        "reply_settings": "everyone",
+        "text": "if i tell you i've been miserable since i was like 8 and you tell me it's part of god's plan i'll probably have to strangle you i'm so fucking sorry"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2100386706968940628",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 426,
+          "like_count": 20097,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1893
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-09T17:28:19.000Z",
+        "description": "hai looking for friends ^_^ !!\n═╪ virtual diary. . . \n \n ⠀꒰꒰𓈒 #venttwt #yuritwt #shedtwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 70,
+                "start": 62,
+                "tag": "venttwt"
+              },
+              {
+                "end": 79,
+                "start": 71,
+                "tag": "yuritwt"
+              },
+              {
+                "end": 88,
+                "start": 80,
+                "tag": "shedtwt"
+              }
+            ]
+          }
+        },
+        "id": "1756007075946110976",
+        "is_identity_verified": false,
+        "location": "miixtski on tiktok,,,",
+        "most_recent_tweet_id": "2100362140368433547",
+        "name": "ᯓ sarx ,, 🎱🧁ᢉ𐭩",
+        "pinned_tweet_id": "2088858180017160249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756007075946110976/1788955740",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097658482409308160/AN2js2j9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 398,
+          "like_count": 15933,
+          "listed_count": 8,
+          "media_count": 37,
+          "tweet_count": 4130
+        },
+        "url": "",
+        "username": "crqckbabyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2101709445856170177",
+    "created_at": "2026-09-20T16:25:54.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101709445856170177"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1905292252743954432",
+          "start": 3,
+          "username": "wanan_loveme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101709445856170177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 103
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101597287667700123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wanan_loveme: 可以和你打电话吗？你可以理一理我吗？可以和我在一起聊天吗？可以陪陪我吗？可以听听你的声音吗？可以不要这么忙吗？可以不要消息不回消失不见吗？可以多关注我的情绪吗？可以多爱我一点吗？可以让我不要哭了吗？可以多关注我吗？可以把我当成宝宝吗？可以睡前…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2101709445856170177",
+        "created_at": "2026-09-20T16:25:54.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101709445856170177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1905292252743954432",
+              "start": 3,
+              "username": "wanan_loveme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101709445856170177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 103
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101597287667700123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wanan_loveme: 可以和你打电话吗？你可以理一理我吗？可以和我在一起聊天吗？可以陪陪我吗？可以听听你的声音吗？可以不要这么忙吗？可以不要消息不回消失不见吗？可以多关注我的情绪吗？可以多爱我一点吗？可以让我不要哭了吗？可以多关注我吗？可以把我当成宝宝吗？可以睡前…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1905292252743954432",
+        "conversation_id": "2101597287667700123",
+        "created_at": "2026-09-20T09:00:13.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:00:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101597287667700123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101597287667700123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 9242,
+          "like_count": 430,
+          "quote_count": 6,
+          "reply_count": 31,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "可以和你打电话吗？你可以理一理我吗？可以和我在一起聊天吗？可以陪陪我吗？可以听听你的声音吗？可以不要这么忙吗？可以不要消息不回消失不见吗？可以多关注我的情绪吗？可以多爱我一点吗？可以让我不要哭了吗？可以多关注我吗？可以把我当成宝宝吗？可以睡前和我说晚安吗？可以爱我吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2101709445856170177",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 590,
+          "following_count": 455,
+          "like_count": 20503,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1942
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-27T16:14:16.000Z",
+        "description": "人类是我的兼职。",
+        "id": "1905292252743954432",
+        "is_identity_verified": false,
+        "location": "𓏼 𓈒♡ྀི Love has its signs",
+        "most_recent_tweet_id": "2101696476112117821",
+        "name": "^멍🤍",
+        "pinned_tweet_id": "2062912399062225112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1905292252743954432/1778947896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055682541034868736/SKu-mz8c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 882,
+          "following_count": 36,
+          "like_count": 2592,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 282
+        },
+        "url": "",
+        "username": "wanan_loveme",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

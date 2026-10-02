@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2097993168633446819",
+    "created_at": "2026-09-10T10:18:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T11:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097993168633446819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1991711672684421121",
+          "start": 3,
+          "username": "pearl0812lucky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097993168633446819",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 50
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097960207448183020",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pearl0812lucky: 太过迅速太过亲密的开始就是会遭到反噬，不管是友情还是爱情。这样的开始让人会忍不住内耗、思考、捕捉开始与现在的种种微妙差异。当初你是怎么对待我的呢？可是到现在为什么又变成这样了呢？太过相信新鲜感的力量，太过不相信自己，淡淡的就很好。\n我们一…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2097993168633446819",
+        "created_at": "2026-09-10T10:18:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T11:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097993168633446819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1991711672684421121",
+              "start": 3,
+              "username": "pearl0812lucky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097993168633446819",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097960207448183020",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pearl0812lucky: 太过迅速太过亲密的开始就是会遭到反噬，不管是友情还是爱情。这样的开始让人会忍不住内耗、思考、捕捉开始与现在的种种微妙差异。当初你是怎么对待我的呢？可是到现在为什么又变成这样了呢？太过相信新鲜感的力量，太过不相信自己，淡淡的就很好。\n我们一…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991711672684421121",
+        "conversation_id": "2097960207448183020",
+        "created_at": "2026-09-10T08:07:46.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T09:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097960207448183020"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097960207448183020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 4680,
+          "like_count": 290,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "太过迅速太过亲密的开始就是会遭到反噬，不管是友情还是爱情。这样的开始让人会忍不住内耗、思考、捕捉开始与现在的种种微妙差异。当初你是怎么对待我的呢？可是到现在为什么又变成这样了呢？太过相信新鲜感的力量，太过不相信自己，淡淡的就很好。\n我们一切都顺其自然吧 我爱你但我更想明天也能见到你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097993168633446819",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520,
+          "following_count": 427,
+          "like_count": 19734,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-21T03:34:11.000Z",
+        "description": "日记本撕下来的废纸存放地",
+        "id": "1991711672684421121",
+        "is_identity_verified": false,
+        "location": "欢迎打开我的文案收藏夹 （转载自微博、抖音、视频号、公众号）",
+        "most_recent_tweet_id": "2097960207448183020",
+        "name": "orange cat",
+        "pinned_tweet_id": "2009431887333486776",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1991711672684421121/1778806929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054568108795559936/kmrmtQc0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13389,
+          "following_count": 84,
+          "like_count": 9403,
+          "listed_count": 13,
+          "media_count": 203,
+          "tweet_count": 2321
+        },
+        "url": "",
+        "username": "pearl0812lucky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

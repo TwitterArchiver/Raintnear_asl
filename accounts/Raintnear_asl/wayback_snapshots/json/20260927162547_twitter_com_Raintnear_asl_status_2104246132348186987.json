@@ -1,0 +1,782 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+          "id": "900058971918094336",
+          "name": "SF9"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Taeyang (태양 from SF9) - member of SF9",
+          "id": "919938223689711616",
+          "name": "Taeyang (from SF9)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "1096495696943865856",
+          "name": "한화 이글스 (Hanwha Eagles)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A sports team organization, like Arsenal and the Boston Celtics",
+          "id": "12",
+          "name": "Sports Team"
+        },
+        "entity": {
+          "id": "1096495890129285121",
+          "name": "롯데 자이언츠 (Lotte Giants)"
+        }
+      },
+      {
+        "domain": {
+          "description": "",
+          "id": "26",
+          "name": "Sports League"
+        },
+        "entity": {
+          "description": "Korean Baseball Organization",
+          "id": "1096454806296641536",
+          "name": "KBO"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+          "id": "900058971918094336",
+          "name": "SF9"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Taeyang (태양 from SF9) - member of SF9",
+          "id": "919938223689711616",
+          "name": "Taeyang (from SF9)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "K-Pop",
+          "id": "888105153038958593",
+          "name": "K-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+          "id": "900058971918094336",
+          "name": "SF9"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Taeyang (태양 from SF9) - member of SF9",
+          "id": "919938223689711616",
+          "name": "Taeyang (from SF9)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1096495696943865856",
+          "name": "한화 이글스 (Hanwha Eagles)"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1096495890129285121",
+          "name": "롯데 자이언츠 (Lotte Giants)"
+        }
+      }
+    ],
+    "conversation_id": "2104246132348186987",
+    "created_at": "2026-09-27T16:25:47.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104246132348186987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1882371533039079424",
+          "start": 3,
+          "username": "calculusnanly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104246132348186987",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9135
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104164846627651758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @calculusnanly: 빅뱅 태양도 아니고 롯데자이언츠 한태양도 아니고 한화이글스 이태양도 아니고 sf9 태양도 아니고 피원하모니 태양도 아니면 얜 대체 뭐지 알고잇는 태양이들 다 동원했는데도 아님"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+              "id": "900058971918094336",
+              "name": "SF9"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Taeyang (태양 from SF9) - member of SF9",
+              "id": "919938223689711616",
+              "name": "Taeyang (from SF9)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1096495696943865856",
+              "name": "한화 이글스 (Hanwha Eagles)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1096495890129285121",
+              "name": "롯데 자이언츠 (Lotte Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Korean Baseball Organization",
+              "id": "1096454806296641536",
+              "name": "KBO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+              "id": "900058971918094336",
+              "name": "SF9"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Taeyang (태양 from SF9) - member of SF9",
+              "id": "919938223689711616",
+              "name": "Taeyang (from SF9)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+              "id": "900058971918094336",
+              "name": "SF9"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Taeyang (태양 from SF9) - member of SF9",
+              "id": "919938223689711616",
+              "name": "Taeyang (from SF9)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1096495696943865856",
+              "name": "한화 이글스 (Hanwha Eagles)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1096495890129285121",
+              "name": "롯데 자이언츠 (Lotte Giants)"
+            }
+          }
+        ],
+        "conversation_id": "2104246132348186987",
+        "created_at": "2026-09-27T16:25:47.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104246132348186987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1882371533039079424",
+              "start": 3,
+              "username": "calculusnanly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104246132348186987",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104164846627651758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @calculusnanly: 빅뱅 태양도 아니고 롯데자이언츠 한태양도 아니고 한화이글스 이태양도 아니고 sf9 태양도 아니고 피원하모니 태양도 아니면 얜 대체 뭐지 알고잇는 태양이들 다 동원했는데도 아님"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882371533039079424",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+              "id": "900058971918094336",
+              "name": "SF9"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Taeyang (태양 from SF9) - member of SF9",
+              "id": "919938223689711616",
+              "name": "Taeyang (from SF9)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1096495696943865856",
+              "name": "한화 이글스 (Hanwha Eagles)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "1096495890129285121",
+              "name": "롯데 자이언츠 (Lotte Giants)"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Korean Baseball Organization",
+              "id": "1096454806296641536",
+              "name": "KBO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+              "id": "900058971918094336",
+              "name": "SF9"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Taeyang (태양 from SF9) - member of SF9",
+              "id": "919938223689711616",
+              "name": "Taeyang (from SF9)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "K-Pop",
+              "id": "888105153038958593",
+              "name": "K-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "SF9 (에스에프나인): Youngbin (영빈), \nInsung (인성)\nJaeyoon (재윤), \nDawon (다원), \nRowoon (로운), \nJuho (주호), \nTaeyang (태양 from SF9), \nHwiyoung (휘영), \nChani (찬희)",
+              "id": "900058971918094336",
+              "name": "SF9"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Taeyang (태양 from SF9) - member of SF9",
+              "id": "919938223689711616",
+              "name": "Taeyang (from SF9)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1096495696943865856",
+              "name": "한화 이글스 (Hanwha Eagles)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1096495890129285121",
+              "name": "롯데 자이언츠 (Lotte Giants)"
+            }
+          }
+        ],
+        "conversation_id": "2104164846627651758",
+        "created_at": "2026-09-27T11:02:47.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104164846627651758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tmsitjc/status…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/tmsitjc/status/2104142055882830088",
+              "start": 98,
+              "url": "https://t.co/03CLnYRoh7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104164846627651758",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1476,
+          "impression_count": 3281960,
+          "like_count": 26628,
+          "quote_count": 2022,
+          "reply_count": 2,
+          "retweet_count": 9135
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104142055882830088",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "빅뱅 태양도 아니고 롯데자이언츠 한태양도 아니고 한화이글스 이태양도 아니고 sf9 태양도 아니고 피원하모니 태양도 아니면 얜 대체 뭐지 알고잇는 태양이들 다 동원했는데도 아님 https://t.co/03CLnYRoh7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2104246132348186987",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 467,
+          "like_count": 21273,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 2023
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-23T10:15:38.000Z",
+        "description": "is it too much to ask for both",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/calculusnanly",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/calculusnanly",
+                "start": 0,
+                "url": "https://t.co/Zy1RdUeMiQ"
+              }
+            ]
+          }
+        },
+        "id": "1882371533039079424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104238629501710400",
+        "name": "Jei",
+        "pinned_tweet_id": "2026289022839255132",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026240034400301056/JxdfaNrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 30,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 145,
+          "tweet_count": 881
+        },
+        "url": "https://t.co/Zy1RdUeMiQ",
+        "username": "calculusnanly",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

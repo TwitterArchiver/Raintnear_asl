@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2097926514536833088",
+    "created_at": "2026-09-10T05:53:53.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:53:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097926514536833088"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2086328956152942592",
+          "start": 3,
+          "username": "suistired"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097926514536833088",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14758
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097417120984526874",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suistired: being ugly and liking cute things feels so embarrassing"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2097926514536833088",
+        "created_at": "2026-09-10T05:53:53.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:53:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097926514536833088"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2086328956152942592",
+              "start": 3,
+              "username": "suistired"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097926514536833088",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14758
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097417120984526874",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suistired: being ugly and liking cute things feels so embarrassing"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086328956152942592",
+        "conversation_id": "2097417120984526874",
+        "created_at": "2026-09-08T20:09:44.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097417120984526874"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097417120984526874",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2768,
+          "impression_count": 1088447,
+          "like_count": 67905,
+          "quote_count": 611,
+          "reply_count": 132,
+          "retweet_count": 14758
+        },
+        "reply_settings": "everyone",
+        "text": "being ugly and liking cute things feels so embarrassing"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2097926514536833088",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 427,
+          "like_count": 19684,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1846
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T05:50:02.000Z",
+        "description": "地雷男子￤社会不安 𑣲類 my beloved⁠",
+        "id": "2086328956152942592",
+        "is_identity_verified": false,
+        "location": "引きこもり",
+        "most_recent_tweet_id": "2097911078332354719",
+        "name": "神代Sui",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086328956152942592/1788988842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097341183098056704/QZO1kNpj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 372,
+          "like_count": 1477,
+          "listed_count": 8,
+          "media_count": 12,
+          "tweet_count": 156
+        },
+        "url": "",
+        "username": "suistired",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
