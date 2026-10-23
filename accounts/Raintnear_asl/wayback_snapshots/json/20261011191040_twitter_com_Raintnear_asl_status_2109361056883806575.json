@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2109361056883806575",
+    "created_at": "2026-10-11T19:10:40.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T20:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109361056883806575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2090808087812915201",
+          "start": 3,
+          "username": "tianyuli789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109361056883806575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 32
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109258662594355276",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tianyuli789: 你去惹高中生吧，你去和她闹脾气，你们闹到凌晨，最后你爽了，你一觉睡到中午起，你觉得没关系，但是她需要擦擦眼泪收拾好心情第二天早上六点爬起来去上学，白天还要用自己睡眠不足的大脑控制自己别去想你说过的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2109361056883806575",
+        "created_at": "2026-10-11T19:10:40.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T20:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109361056883806575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2090808087812915201",
+              "start": 3,
+              "username": "tianyuli789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109361056883806575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109258662594355276",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tianyuli789: 你去惹高中生吧，你去和她闹脾气，你们闹到凌晨，最后你爽了，你一觉睡到中午起，你觉得没关系，但是她需要擦擦眼泪收拾好心情第二天早上六点爬起来去上学，白天还要用自己睡眠不足的大脑控制自己别去想你说过的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090808087812915201",
+        "conversation_id": "2109258662594355276",
+        "created_at": "2026-10-11T12:23:47.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:23:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109258662594355276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109258662594355276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 11974,
+          "like_count": 475,
+          "quote_count": 7,
+          "reply_count": 26,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "你去惹高中生吧，你去和她闹脾气，你们闹到凌晨，最后你爽了，你一觉睡到中午起，你觉得没关系，但是她需要擦擦眼泪收拾好心情第二天早上六点爬起来去上学，白天还要用自己睡眠不足的大脑控制自己别去想你说过的话"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2109361056883806575",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "2106778357807661260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 477,
+          "like_count": 21922,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2113
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T14:28:44.000Z",
+        "description": "防走丢～@8ltos\nhttps://t.co/J5ZfwCmpEk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "8ltos"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/ckbczt/clo",
+                "end": 34,
+                "expanded_url": "https://ngl.link/ckbczt/clo",
+                "start": 11,
+                "url": "https://t.co/J5ZfwCmpEk"
+              }
+            ]
+          }
+        },
+        "id": "2090808087812915201",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109258662594355276",
+        "name": "天雨栗",
+        "pinned_tweet_id": "2109133281140859267",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090808087812915201/1791556950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108881448807849984/xo713H4S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 12,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 197
+        },
+        "url": "",
+        "username": "tianyuli789",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

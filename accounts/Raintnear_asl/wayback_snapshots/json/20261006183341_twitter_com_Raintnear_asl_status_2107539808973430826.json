@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2107539808973430826",
+    "created_at": "2026-10-06T18:33:41.000Z",
+    "display_text_range": [
+      0,
+      85
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T19:33:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107539808973430826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1812765004091056128",
+          "start": 3,
+          "username": "Ant_kittie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107539808973430826",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2223
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107197872919720057",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ant_kittie: No one gives a fuck unless youre covered in fresh cuts or underweight"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2107539808973430826",
+        "created_at": "2026-10-06T18:33:41.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T19:33:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107539808973430826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1812765004091056128",
+              "start": 3,
+              "username": "Ant_kittie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107539808973430826",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2223
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107197872919720057",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ant_kittie: No one gives a fuck unless youre covered in fresh cuts or underweight"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812765004091056128",
+        "conversation_id": "2107197872919720057",
+        "created_at": "2026-10-05T19:54:57.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T20:54:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107197872919720057"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107197872919720057",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 46216,
+          "like_count": 8417,
+          "quote_count": 79,
+          "reply_count": 38,
+          "retweet_count": 2223
+        },
+        "reply_settings": "everyone",
+        "text": "No one gives a fuck unless youre covered in fresh cuts or underweight"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2107539808973430826",
+        "name": "世界你是否知晓一切？",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 471,
+          "like_count": 21833,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2100
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-15T08:24:19.000Z",
+        "description": "·•° Cat lover, undiagnosed ED, no DNI°•·",
+        "id": "1812765004091056128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107539304985624687",
+        "name": "🐈‍⬛",
+        "pinned_tweet_id": "2103516299326329178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1812765004091056128/1787571739",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091853608400703488/X8VV3Obv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 291,
+          "like_count": 14043,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 3250
+        },
+        "url": "",
+        "username": "Ant_kittie",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

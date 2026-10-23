@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2110719067464307071",
+    "created_at": "2026-10-15T13:06:55.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T14:06:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110719067464307071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1497527312300003331",
+          "start": 3,
+          "username": "Nicotine_kisser"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110719067464307071",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 726
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110069856603087216",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nicotine_kisser: My ed is ruining my life and yet I’m still not thin"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2110719067464307071",
+        "created_at": "2026-10-15T13:06:55.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T14:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110719067464307071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1497527312300003331",
+              "start": 3,
+              "username": "Nicotine_kisser"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110719067464307071",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 726
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110069856603087216",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nicotine_kisser: My ed is ruining my life and yet I’m still not thin"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1497527312300003331",
+        "conversation_id": "2110069856603087216",
+        "created_at": "2026-10-13T18:07:11.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-13T19:07:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110069856603087216"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110069856603087216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 13510,
+          "like_count": 2515,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 726
+        },
+        "reply_settings": "everyone",
+        "text": "My ed is ruining my life and yet I’m still not thin"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2110719067464307071",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "2106778357807661260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 651,
+          "following_count": 481,
+          "like_count": 21980,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2122
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-26T11:01:59.000Z",
+        "description": "5teen// it it’s// ana+b/p// cbmi: 17.6// 152cm\n“Are you becoming what you’ve always hated?”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uselessatsushi.straw.page",
+                "end": 23,
+                "expanded_url": "https://uselessatsushi.straw.page",
+                "start": 0,
+                "url": "https://t.co/vM5haDg3nO"
+              }
+            ]
+          }
+        },
+        "id": "1497527312300003331",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110693198620483604",
+        "name": "⋆༺𓆩Emo Atsushi of 🍽️twt𓆪༻⋆",
+        "pinned_tweet_id": "2076255313032872115",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497527312300003331/1787406715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051676727416385536/feRUscqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 528,
+          "like_count": 88344,
+          "listed_count": 29,
+          "media_count": 387,
+          "tweet_count": 5186
+        },
+        "url": "https://t.co/vM5haDg3nO",
+        "username": "Nicotine_kisser",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2110839445725310986",
+    "created_at": "2026-10-15T21:05:16.000Z",
+    "display_text_range": [
+      0,
+      131
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T22:05:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110839445725310986"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1921808692204453888",
+          "start": 3,
+          "username": "shitimtiredx1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110839445725310986",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 61
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110588121327063225",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shitimtiredx1: 你终于治好那个病啦？你想成长了吗？你准备站起来重新来一次吗？真的假的呀？那些天被你耽误的学业怎么办啊？你磕药伤害的身体怎么办啊？你家里给你的那些开销你怎么还啊？你逝去的青春怎么办啊？你怎么又开始哭了？原来你的病没好啊，不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2110839445725310986",
+        "created_at": "2026-10-15T21:05:16.000Z",
+        "display_text_range": [
+          0,
+          131
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T22:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110839445725310986"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1921808692204453888",
+              "start": 3,
+              "username": "shitimtiredx1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110839445725310986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 61
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110588121327063225",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shitimtiredx1: 你终于治好那个病啦？你想成长了吗？你准备站起来重新来一次吗？真的假的呀？那些天被你耽误的学业怎么办啊？你磕药伤害的身体怎么办啊？你家里给你的那些开销你怎么还啊？你逝去的青春怎么办啊？你怎么又开始哭了？原来你的病没好啊，不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1921808692204453888",
+        "conversation_id": "2110588121327063225",
+        "created_at": "2026-10-15T04:26:35.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T05:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110588121327063225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110588121327063225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5297,
+          "like_count": 258,
+          "quote_count": 11,
+          "reply_count": 11,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "你终于治好那个病啦？你想成长了吗？你准备站起来重新来一次吗？真的假的呀？那些天被你耽误的学业怎么办啊？你磕药伤害的身体怎么办啊？你家里给你的那些开销你怎么还啊？你逝去的青春怎么办啊？你怎么又开始哭了？原来你的病没好啊，不早说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2110839445725310986",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "2106778357807661260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 480,
+          "like_count": 21995,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2127
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-12T06:04:43.000Z",
+        "description": "🚪128",
+        "id": "1921808692204453888",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110800587784941853",
+        "name": "狠话太逼真",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1921808692204453888/1784735952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079959279969419264/nPyav38G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 46,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 338
+        },
+        "url": "",
+        "username": "shitimtiredx1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

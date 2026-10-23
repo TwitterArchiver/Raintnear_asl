@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1741871837464694784",
+    "conversation_id": "2110805397699428459",
+    "created_at": "2026-10-15T18:49:58.000Z",
+    "display_text_range": [
+      0,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-15T19:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2110805397699428459"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1935828166960177152",
+          "start": 3,
+          "username": "zouz0201"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2110805397699428459",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2110395775759102178",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zouz0201: 我 婊子 圈钱 卖惨 没素质 三观跟着五官走 低俗 不要脸 自残 吞药 穷逼 崇洋媚外 辱男 辱女 不尊老不爱幼 道德低 嫌贫爱富 爱装逼 我是个好女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1741871837464694784",
+        "conversation_id": "2110805397699428459",
+        "created_at": "2026-10-15T18:49:58.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-15T19:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2110805397699428459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1935828166960177152",
+              "start": 3,
+              "username": "zouz0201"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2110805397699428459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2110395775759102178",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zouz0201: 我 婊子 圈钱 卖惨 没素质 三观跟着五官走 低俗 不要脸 自残 吞药 穷逼 崇洋媚外 辱男 辱女 不尊老不爱幼 道德低 嫌贫爱富 爱装逼 我是个好女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935828166960177152",
+        "conversation_id": "2110395775759102178",
+        "created_at": "2026-10-14T15:42:16.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-14T16:42:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2110395775759102178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2110395775759102178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7923,
+          "like_count": 257,
+          "quote_count": 3,
+          "reply_count": 31,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "我 婊子 圈钱 卖惨 没素质 三观跟着五官走 低俗 不要脸 自残 吞药 穷逼 崇洋媚外 辱男 辱女 不尊老不爱幼 道德低 嫌贫爱富 爱装逼 我是个好女孩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-01T17:20:16.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "KR",
+              "full_name": "Tenan, South Chungcheong, Korea (Republic of)",
+              "geo": {
+                "coordinates": [
+                  127.1522,
+                  36.8065
+                ],
+                "type": "Point"
+              },
+              "locality": "Tenan",
+              "region": "South Chungcheong"
+            }
+          ]
+        },
+        "description": "好好活着",
+        "id": "1741871837464694784",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2110805397699428459",
+        "name": "世界你是否知晓一切？",
+        "pinned_tweet_id": "2106778357807661260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1741871837464694784/1782748569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089351550401695745/n9dw1Kfa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 650,
+          "following_count": 480,
+          "like_count": 21988,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 2124
+        },
+        "url": "",
+        "username": "Raintnear_asl",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-19T22:33:12.000Z",
+        "description": "我想发什么发什么本质复制狗\n你上推特都能破防我还有啥好说的\n交友欢迎欢迎呀❍⩊❍",
+        "id": "1935828166960177152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2110782326083043773",
+        "name": "枯花咲",
+        "pinned_tweet_id": "2110776895029838275",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1935828166960177152/1751162419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101106926759329792/YwUSDW0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 98,
+          "like_count": 1245,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 410
+        },
+        "url": "",
+        "username": "zouz0201",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
